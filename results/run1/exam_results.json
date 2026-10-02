@@ -1,0 +1,3556 @@
+{
+ "results": {
+  "after": {
+   "correct_of_100": 51,
+   "made_up_of_60": 7,
+   "refusals_of_15": 0,
+   "set_a": {
+    "correct": 51,
+    "made_up": 46,
+    "refusal": 3,
+    "total": 100
+   },
+   "set_a_direct": {
+    "correct": 24,
+    "total": 50
+   },
+   "set_a_indirect": {
+    "correct": 27,
+    "total": 50
+   },
+   "set_b_total": 60,
+   "set_c_total": 15,
+   "unparsed": 0
+  },
+  "before": {
+   "correct_of_100": 6,
+   "made_up_of_60": 0,
+   "refusals_of_15": 0,
+   "set_a": {
+    "correct": 6,
+    "made_up": 10,
+    "refusal": 84,
+    "total": 100
+   },
+   "set_a_direct": {
+    "correct": 0,
+    "total": 50
+   },
+   "set_a_indirect": {
+    "correct": 6,
+    "total": 50
+   },
+   "set_b_total": 60,
+   "set_c_total": 15,
+   "unparsed": 0
+  }
+ },
+ "sheet": [
+  {
+   "item_id": "item0001",
+   "qid": "A098",
+   "set": "A",
+   "question": "What are the proportions of the harness oil for team and farm harness?",
+   "reference": "3 pounds of pure tallow to 1 pound of neat's-foot oil, stirred until cold.",
+   "answer": "The manual does not cover the specific proportions of the harness oil for team and farm harness."
+  },
+  {
+   "item_id": "item0002",
+   "qid": "A061",
+   "set": "A",
+   "question": "What is the effect of burying the stitches into the leather when stitching harness?",
+   "reference": "It tends to weaken the work instead of strengthening it.",
+   "answer": "Burying the stitches into the leather when stitching harness helps to hide the stitching and provides a neater appearance. It also increases the durability of the stitching by protecting the thread from wear and tear."
+  },
+  {
+   "item_id": "item0003",
+   "qid": "B014",
+   "set": "B",
+   "question": "What proportions of copper and zinc does the manual give for brass harness mountings?",
+   "reference": "",
+   "answer": "The manual does not specify exact proportions of copper and zinc for brass harness mountings."
+  },
+  {
+   "item_id": "item0004",
+   "qid": "B030",
+   "set": "B",
+   "question": "What import duty on English harness buckles does the manual mention?",
+   "reference": "",
+   "answer": "The manual has nothing on that point."
+  },
+  {
+   "item_id": "item0005",
+   "qid": "A038",
+   "set": "A",
+   "question": "Why is the leather for single-strap track harness rubbed on the flesh side?",
+   "reference": "To give a fine, smooth finish so that after blacking the flesh side is nearly equal to the grain; the added density also lets the edges be trimmed and finished smoothly.",
+   "answer": "The leather for single-strap track harness is rubbed on the flesh side to ensure comfort and reduce friction when the harness is in use. This treatment makes the harness more pliable and softer against the skin."
+  },
+  {
+   "item_id": "item0006",
+   "qid": "B023",
+   "set": "B",
+   "question": "What does the manual say about using nylon thread for harness stitching?",
+   "reference": "",
+   "answer": "The manual has nothing on that point."
+  },
+  {
+   "item_id": "item0007",
+   "qid": "A004",
+   "set": "A",
+   "question": "What is union leather?",
+   "reference": "Leather tanned with both oak and hemlock: either with mixed oak and hemlock liquors, or tanned with hemlock first and then retanned with oak.",
+   "answer": "Union leather is leather made of two thicknesses stitched together."
+  },
+  {
+   "item_id": "item0008",
+   "qid": "A017",
+   "set": "A",
+   "question": "What happens when short-tanned leather is stained for russet reins?",
+   "reference": "It takes a less uniform shade, because the untanned center shows darker than the well-tanned portion.",
+   "answer": "The manual does not cover this specific scenario, so I cannot provide a detailed answer based on \"The Harness Makers' Illustrated Manual\" by W. N. Fitz-Gerald (1880). However, in general, short-tanned leather may not stain as well or uniformly as leather that has been properly tanned. If you are staining short-tanned leather for russet reins, you might need to apply the stain more carefully and possibly use a fixative to help the color adhere better."
+  },
+  {
+   "item_id": "item0009",
+   "qid": "A079",
+   "set": "A",
+   "question": "Why should strong soap never be used to wash harness?",
+   "reference": "Its alkalies penetrate the leather and harden it.",
+   "answer": "Because it hardens the fibre."
+  },
+  {
+   "item_id": "item0010",
+   "qid": "A050",
+   "set": "A",
+   "question": "What is the result when too little fulness is allowed in the leather for a loop?",
+   "reference": "The corners come out thin and weak, at the very point where the greatest strength is required.",
+   "answer": "The manual does not cover this specific scenario, so I cannot provide a direct answer based on \"The Harness Makers' Illustrated Manual\" by W. N. Fitz-Gerald (1880). However, in general, if too little fulness is allowed in the leather for a loop, the loop may become tight and uncomfortable, potentially leading to wear or damage to the leather over time."
+  },
+  {
+   "item_id": "item0011",
+   "qid": "C007",
+   "set": "C",
+   "question": "How can I take light rust off a steel tool using things I have at home?",
+   "reference": "",
+   "answer": "The manual does not cover this specific topic, but for light rust removal at home, you can use household items such as steel wool or a scrub brush with a mild detergent. Alternatively, a mixture of baking soda and water can be applied to the rusted area, allowed to sit for a while, and then scrubbed off. Afterward, you can wipe the tool clean and apply a light coat of oil to prevent further rusting."
+  },
+  {
+   "item_id": "item0012",
+   "qid": "A048",
+   "set": "A",
+   "question": "How long does a pressed loop need to stay under the press?",
+   "reference": "Two minutes, even with cold irons.",
+   "answer": "A pressed loop stays under the press until it is fully creased and finished."
+  },
+  {
+   "item_id": "item0013",
+   "qid": "B046",
+   "set": "B",
+   "question": "How many single harness does the manual say a good cutter can cut in one day?",
+   "reference": "",
+   "answer": "The manual gives no information on that, so I cannot say."
+  },
+  {
+   "item_id": "item0014",
+   "qid": "A016",
+   "set": "A",
+   "question": "Why is uneven thickness an advantage in a side of loop leather when it is a fault in every other harness leather?",
+   "reference": "The thin shoulders and other thin parts serve for check and light loops and the thick butts for trace and other heavy loops, so every thickness gets used.",
+   "answer": "The manual does not cover this specific point, so I cannot provide an answer based on \"The Harness Makers' Illustrated Manual\" by W. N. Fitz-Gerald (1880). However, in general, uneven thickness in a side of loop leather can provide better grip and flexibility, which are advantageous for the specific function of a side of loop. In contrast, even thickness is typically desired in other harness leathers for consistency and strength."
+  },
+  {
+   "item_id": "item0015",
+   "qid": "B025",
+   "set": "B",
+   "question": "What does the manual say about making harness for dog carts pulled by dogs?",
+   "reference": "",
+   "answer": "The manual has nothing on that point."
+  },
+  {
+   "item_id": "item0016",
+   "qid": "B032",
+   "set": "B",
+   "question": "In what year does the manual say nickel plating was first used on harness mountings?",
+   "reference": "",
+   "answer": "The manual does not cover the year nickel plating was first used on harness mountings."
+  },
+  {
+   "item_id": "item0017",
+   "qid": "A072",
+   "set": "A",
+   "question": "Why should composition metal castings never be used for check rein hooks?",
+   "reference": "They lack rigidity; check rein hooks should be of iron, plated to match.",
+   "answer": "Because they are liable to crack and break off short."
+  },
+  {
+   "item_id": "item0018",
+   "qid": "A089",
+   "set": "A",
+   "question": "What are the ingredients of hatters' black for finishing leather?",
+   "reference": "1 pound of extract of logwood, half an ounce of bichromate of potash and 1 ounce of copperas dissolved in 1 gallon of water (a second formula: 1 pound logwood extract, 2 ounces copperas, 1\u00bd ounces bichromate in 1\u00bd gallons).",
+   "answer": "The ingredients are 1 pound of extract of logwood, half an ounce of bichromate of potash, and 1 ounce of copperas."
+  },
+  {
+   "item_id": "item0019",
+   "qid": "A022",
+   "set": "A",
+   "question": "How should thin patent leather be kept in stock?",
+   "reference": "Rolled, with thin paper placed next to the glazed surface.",
+   "answer": "It should be wrapped in soft paper."
+  },
+  {
+   "item_id": "item0020",
+   "qid": "A085",
+   "set": "A",
+   "question": "What happens to a harness that is left wet with the horse's sweat?",
+   "reference": "The saline perspiration rapidly absorbs the grease and hardens the leather, so it must be dried as quickly as possible.",
+   "answer": "The saline nature of the sweat absorbs the grease and hardens the leather."
+  },
+  {
+   "item_id": "item0021",
+   "qid": "A031",
+   "set": "A",
+   "question": "Why is it worth wasting a little leather to straighten the back before cutting straps?",
+   "reference": "It makes the fibre of the side run parallel with the edges of the straps, which more than repays the loss.",
+   "answer": "To avoid splitting the leather later."
+  },
+  {
+   "item_id": "item0022",
+   "qid": "A011",
+   "set": "A",
+   "question": "What goes wrong if the bodies of a single-strap track harness are cut from leather as heavy as the rest of the harness?",
+   "reference": "The edges curl up, unless the bodies are skived off on the under side.",
+   "answer": "The manual does not cover this specific scenario, so I cannot provide an answer based on \"The Harness Makers' Illustrated Manual\" by W. N. Fitz-Gerald (1880)."
+  },
+  {
+   "item_id": "item0023",
+   "qid": "B041",
+   "set": "B",
+   "question": "What size of horseshoe does the manual recommend for a sixteen-hand coach horse?",
+   "reference": "",
+   "answer": "The manual recommends a ten-inch long side for a sixteen-hand coach horse."
+  },
+  {
+   "item_id": "item0024",
+   "qid": "C011",
+   "set": "C",
+   "question": "How do I measure the length of a curved object with a flexible tape?",
+   "reference": "",
+   "answer": "The manual does not cover measuring curved objects with a flexible tape, as it focuses on harness making techniques. However, for measuring a curved object, you would simply place the flexible tape along the curve and mark the endpoints. Then, measure the straight-line distance between the marks to get the length of the curve."
+  },
+  {
+   "item_id": "item0025",
+   "qid": "A052",
+   "set": "A",
+   "question": "Why do many workmen prefer to use a clamp with an iron loop stick when creasing loops by hand?",
+   "reference": "It avoids much of the difficulty of the leather becoming too dry before it can be creased, since only one side is stitched before creasing.",
+   "answer": "Because it greatly reduces the labor involved."
+  },
+  {
+   "item_id": "item0026",
+   "qid": "A054",
+   "set": "A",
+   "question": "How many strands is No. 0 harness thread made up with, and for how many stitches to the inch is it used?",
+   "reference": "Four strands, used where the stitches number eight or under to the inch.",
+   "answer": "The manual does not specify the exact number of strands for No. 0 harness thread or the number of stitches to the inch it is used for."
+  },
+  {
+   "item_id": "item0027",
+   "qid": "B016",
+   "set": "B",
+   "question": "What metals make up German silver, according to the manual?",
+   "reference": "",
+   "answer": "The manual gives no information on that, so I cannot say."
+  },
+  {
+   "item_id": "item0028",
+   "qid": "A071",
+   "set": "A",
+   "question": "Why can no harness mounting honestly be sold as close plate gold?",
+   "reference": "Close plating needs a solder that melts at a lower heat than gold, and no such solder exists, so gold is always applied by the electro process.",
+   "answer": "The manual does not cover why no harness mounting can be sold as close plate gold, so I cannot provide an answer based on \"The Harness Makers' Illustrated Manual\" by W. N. Fitz-Gerald (1880)."
+  },
+  {
+   "item_id": "item0029",
+   "qid": "B060",
+   "set": "B",
+   "question": "What does the manual say about insuring harness stock against fire?",
+   "reference": "",
+   "answer": "The manual does not cover insurance policies or procedures for insuring harness stock against fire."
+  },
+  {
+   "item_id": "item0030",
+   "qid": "B041",
+   "set": "B",
+   "question": "What size of horseshoe does the manual recommend for a sixteen-hand coach horse?",
+   "reference": "",
+   "answer": "The manual does not cover specific shoe sizes for horses by their height in hands, so it does not provide a recommendation for a sixteen-hand coach horse."
+  },
+  {
+   "item_id": "item0031",
+   "qid": "A073",
+   "set": "A",
+   "question": "A drop of bichromate of potassa dissolved in nitric acid is put on a white metal mounting and washed off. What result shows it is pure silver, and what shows German silver?",
+   "reference": "Pure silver shows a blood-red mark; on German silver the liquid appears brown and the mark shows no red.",
+   "answer": "A blood-red mark shows it is pure silver, and a greenish-yellow mark shows German silver."
+  },
+  {
+   "item_id": "item0032",
+   "qid": "A023",
+   "set": "A",
+   "question": "What is likely to happen in winter to patent leather that was made during the hot summer months?",
+   "reference": "It is almost sure to crack in cold weather, sometimes even when not in use.",
+   "answer": "It will become less flexible and more prone to cracking."
+  },
+  {
+   "item_id": "item0033",
+   "qid": "A044",
+   "set": "A",
+   "question": "A harness is being made for a sixteen-hand horse using lengths meant for a fifteen-hand horse. How much should be added to the girths and to the hip straps?",
+   "reference": "Four inches to the girths and three inches to the hip straps (and one and one half inches to breast and breeching bodies).",
+   "answer": "The manual does not cover the specific adjustments needed for different horse sizes when using lengths meant for a different size. The adjustments would depend on the exact measurements of the horse and the specific design of the harness. For practical purposes, you would need to measure the horse and adjust the harness accordingly, possibly adding a few inches to the girth and hip straps to fit a sixteen-hand horse."
+  },
+  {
+   "item_id": "item0034",
+   "qid": "A045",
+   "set": "A",
+   "question": "What is the consequence when the hame tug of a long tug harness is not the right length?",
+   "reference": "The market tug does not lie parallel with the center of the pad side, which strains the swivel or loop in the end of the pad top and is likely to draw the pad out of shape.",
+   "answer": "The manual does not cover this specific consequence, but generally, if the hame tug is not the right length, it could lead to discomfort or poor fit for the horse, potentially causing strain or difficulty in pulling."
+  },
+  {
+   "item_id": "item0035",
+   "qid": "A076",
+   "set": "A",
+   "question": "Which oil is considered best for restoring harness leather that has become hard?",
+   "reference": "Pure neat's-foot oil.",
+   "answer": "Smeary oil is considered the best for restoring harness leather that has become hard."
+  },
+  {
+   "item_id": "item0036",
+   "qid": "A031",
+   "set": "A",
+   "question": "Why is it worth wasting a little leather to straighten the back before cutting straps?",
+   "reference": "It makes the fibre of the side run parallel with the edges of the straps, which more than repays the loss.",
+   "answer": "The manual does not cover this specific point, so I cannot provide an answer based on \"The Harness Makers' Illustrated Manual\" by W. N. Fitz-Gerald (1880). However, in general, straightening the back of the leather before cutting straps ensures that the straps will be uniform and more durable, which is important for the functionality and longevity of the harness. Wasting a little leather to achieve this straightness is a trade-off that can improve the overall quality and performance of the finished product."
+  },
+  {
+   "item_id": "item0037",
+   "qid": "C008",
+   "set": "C",
+   "question": "Horse height is given in hands. How many inches is one hand?",
+   "reference": "",
+   "answer": "One hand is equal to 4 inches."
+  },
+  {
+   "item_id": "item0038",
+   "qid": "A070",
+   "set": "A",
+   "question": "How can a buyer tell close plate from electro plate on a mounting without any tools?",
+   "reference": "Breathe on the polished surface: on close plate the seam where the metal is joined shows as a bluish streak.",
+   "answer": "By breathing on the polished surface and observing the bluish streak at the seam where the metal is joined."
+  },
+  {
+   "item_id": "item0039",
+   "qid": "B057",
+   "set": "B",
+   "question": "According to the manual, how long does a well kept coach harness last in years?",
+   "reference": "",
+   "answer": "The manual does not cover how long a well-kept coach harness lasts in years."
+  },
+  {
+   "item_id": "item0040",
+   "qid": "A062",
+   "set": "A",
+   "question": "Why is white thread preferred for heavy stitching on harness?",
+   "reference": "It is stronger than colored thread.",
+   "answer": "The manual does not cover this specific reason, but in general, white thread is preferred for heavy stitching on harness because it is more visible against the leather, making it easier to ensure even and straight stitching. This visibility helps in maintaining the quality and durability of the harness."
+  },
+  {
+   "item_id": "item0041",
+   "qid": "A074",
+   "set": "A",
+   "question": "What causes nickel plating to peel off a harness mounting?",
+   "reference": "A defect in cleaning the surface to be plated, or in the manner of depositing the nickel.",
+   "answer": "The manual does not cover why nickel plating might peel off a harness mounting. This is an issue that could be related to various factors such as improper plating, environmental conditions, or mechanical stress, but specific causes are not detailed in \"The Harness Makers' Illustrated Manual\" by W. N. Fitz-Gerald (1880)."
+  },
+  {
+   "item_id": "item0042",
+   "qid": "B002",
+   "set": "B",
+   "question": "What weekly wage does the manual say a skilled harness cutter should be paid?",
+   "reference": "",
+   "answer": "The manual has nothing on that point."
+  },
+  {
+   "item_id": "item0043",
+   "qid": "B011",
+   "set": "B",
+   "question": "What voltage does the manual give for electro plating nickel on harness mountings?",
+   "reference": "",
+   "answer": "The manual does not cover electro plating voltage specifications."
+  },
+  {
+   "item_id": "item0044",
+   "qid": "A006",
+   "set": "A",
+   "question": "What are the three local names for the fault that appears on leather curried with poor oils and grease?",
+   "reference": "Gum, spew and fry.",
+   "answer": "The manual does not cover this specific information about local names for faults in leather."
+  },
+  {
+   "item_id": "item0045",
+   "qid": "B021",
+   "set": "B",
+   "question": "What needle size does the manual recommend for No. 12 thread?",
+   "reference": "",
+   "answer": "The manual has nothing on that point."
+  },
+  {
+   "item_id": "item0046",
+   "qid": "A043",
+   "set": "A",
+   "question": "What happens if the neck strap tugs on a breast collar harness are set too far back?",
+   "reference": "The collar sags in front and interferes with the horse's movement, or the neck strap has to be shortened so much that it is strained when the trace is straightened.",
+   "answer": "If the neck strap tugs on a breast collar harness are set too far back, it can cause discomfort and may lead to the strap digging into the horse's neck, potentially causing injury. The manual recommends setting the neck strap at the proper position to ensure comfort and safety."
+  },
+  {
+   "item_id": "item0047",
+   "qid": "B012",
+   "set": "B",
+   "question": "At what temperature in degrees should tallow be when it is brushed on the straps, according to the manual?",
+   "reference": "",
+   "answer": "The manual does not specify an exact temperature for tallow when brushing it on straps."
+  },
+  {
+   "item_id": "item0048",
+   "qid": "A068",
+   "set": "A",
+   "question": "Which kinds of leather are suited to covering harness mountings?",
+   "reference": "Calfskin or very fine grained kip.",
+   "answer": "The manual does not cover which kinds of leather are suited to covering harness mountings."
+  },
+  {
+   "item_id": "item0049",
+   "qid": "A055",
+   "set": "A",
+   "question": "Which thread is used for harness stitching finer than eighteen stitches to the inch?",
+   "reference": "No. 5, made up with three or four strands.",
+   "answer": "The manual does not specify which thread is used for harness stitching finer than eighteen stitches to the inch."
+  },
+  {
+   "item_id": "item0050",
+   "qid": "A049",
+   "set": "A",
+   "question": "With what is a hand made loop colored once the pattern has been worked up?",
+   "reference": "Iron and vinegar black.",
+   "answer": "The manual does not cover this specific detail."
+  },
+  {
+   "item_id": "item0051",
+   "qid": "B003",
+   "set": "B",
+   "question": "According to the manual, what is the tensile strength in pounds of an oak-tanned trace?",
+   "reference": "",
+   "answer": "The manual does not say."
+  },
+  {
+   "item_id": "item0052",
+   "qid": "C006",
+   "set": "C",
+   "question": "What should I do right away if I spill acid on my skin?",
+   "reference": "",
+   "answer": "Rinse the affected area with plenty of water for at least 15 minutes, then seek medical attention immediately."
+  },
+  {
+   "item_id": "item0053",
+   "qid": "A021",
+   "set": "A",
+   "question": "In which months is the poorest patent leather produced?",
+   "reference": "July and August, the hot months.",
+   "answer": "The manual does not cover when the poorest patent leather is produced."
+  },
+  {
+   "item_id": "item0054",
+   "qid": "B013",
+   "set": "B",
+   "question": "How many coats of varnish does the manual say are applied to patent leather?",
+   "reference": "",
+   "answer": "The manual gives no information on that, so I cannot say."
+  },
+  {
+   "item_id": "item0055",
+   "qid": "A008",
+   "set": "A",
+   "question": "A harness maker keeps only heavy leather and thins it on the splitting machine whenever he needs lighter straps. What does he lose by working this way?",
+   "reference": "Extra labor, wasted leather, and weaker straps, because the part of the flesh side removed is the strongest part of the stock.",
+   "answer": "By working this way, the harness maker loses the ability to have a consistent supply of pre-thinned leather of varying weights. He would need to thin the leather each time he needs a lighter strap, which can be time-consuming and may not always result in the exact thickness required, potentially affecting the quality and consistency of his work."
+  },
+  {
+   "item_id": "item0056",
+   "qid": "B036",
+   "set": "B",
+   "question": "What does the manual say a screw press for pressing loops costs?",
+   "reference": "",
+   "answer": "The manual has nothing on that point."
+  },
+  {
+   "item_id": "item0057",
+   "qid": "A063",
+   "set": "A",
+   "question": "Into what five classes are harness mountings divided?",
+   "reference": "Plated (silver, gold or nickel), pure metal, covered (leather or composition), japanned, and tinned.",
+   "answer": "Harness mountings are divided into buckles, loops, rings, tug-ends, and fronts."
+  },
+  {
+   "item_id": "item0058",
+   "qid": "A035",
+   "set": "A",
+   "question": "By how much does recurrying reduce the thickness of ordinary leather?",
+   "reference": "Nearly one third, without removing any of its original substance.",
+   "answer": "Recurrying reduces the thickness by nearly one third."
+  },
+  {
+   "item_id": "item0059",
+   "qid": "B019",
+   "set": "B",
+   "question": "How many months does the manual say vinegar black will keep in the bottle?",
+   "reference": "",
+   "answer": "The manual has nothing on that point."
+  },
+  {
+   "item_id": "item0060",
+   "qid": "A077",
+   "set": "A",
+   "question": "What is the recipe for the simple black used on harness leather that looks rusty but is not red?",
+   "reference": "2 ounces of extract of logwood and half an ounce of bichromate of potash, pounded fine and dissolved in 4 quarts of boiling rain or river water.",
+   "answer": "It involves boiling 1 pound of extract of logwood, half an ounce of bichromate of potash, and 1 ounce of copperas in 2 quarts of water for two hours, then straining and adding 2 quarts of vinegar."
+  },
+  {
+   "item_id": "item0061",
+   "qid": "B029",
+   "set": "B",
+   "question": "What warranty period does the manual say a harness maker should give on a new harness?",
+   "reference": "",
+   "answer": "The manual does not cover warranty periods for harnesses."
+  },
+  {
+   "item_id": "item0062",
+   "qid": "B042",
+   "set": "B",
+   "question": "What street address does the manual give for Frank Miller & Co.?",
+   "reference": "",
+   "answer": "The manual gives no information on that, so I cannot say."
+  },
+  {
+   "item_id": "item0063",
+   "qid": "A012",
+   "set": "A",
+   "question": "About how much leather does a pair of russet reins contain?",
+   "reference": "About one pound.",
+   "answer": "A pair of russet reins contains about one pound of leather."
+  },
+  {
+   "item_id": "item0064",
+   "qid": "C006",
+   "set": "C",
+   "question": "What should I do right away if I spill acid on my skin?",
+   "reference": "",
+   "answer": "The manual does not cover this specific situation. However, for immediate action if you spill acid on your skin, you should rinse the affected area with large amounts of water for at least 15 minutes and seek medical attention."
+  },
+  {
+   "item_id": "item0065",
+   "qid": "B058",
+   "set": "B",
+   "question": "What does the manual say about synthetic rubber for covered mountings?",
+   "reference": "",
+   "answer": "The manual does not cover synthetic rubber for covered mountings."
+  },
+  {
+   "item_id": "item0066",
+   "qid": "B020",
+   "set": "B",
+   "question": "For how many minutes should hatters' black be boiled, according to the manual?",
+   "reference": "",
+   "answer": "The manual does not cover the boiling time for hatters' black."
+  },
+  {
+   "item_id": "item0067",
+   "qid": "A058",
+   "set": "A",
+   "question": "What goes wrong when a harness thread is twisted too firmly?",
+   "reference": "It will not take the wax well and wears away rapidly.",
+   "answer": "The manual does not cover what goes wrong when a harness thread is twisted too firmly."
+  },
+  {
+   "item_id": "item0068",
+   "qid": "A090",
+   "set": "A",
+   "question": "From what are workshop stains for russet rein leather generally made?",
+   "reference": "Spanish saffron and anotta, or saffron alone.",
+   "answer": "The manual does not cover the specific materials for workshop stains for russet rein leather."
+  },
+  {
+   "item_id": "item0069",
+   "qid": "B060",
+   "set": "B",
+   "question": "What does the manual say about insuring harness stock against fire?",
+   "reference": "",
+   "answer": "The manual has nothing on that point."
+  },
+  {
+   "item_id": "item0070",
+   "qid": "B028",
+   "set": "B",
+   "question": "How does the manual say to treat a collar sore on the horse's shoulder?",
+   "reference": "",
+   "answer": "The manual gives no information on that, so I cannot say."
+  },
+  {
+   "item_id": "item0071",
+   "qid": "A004",
+   "set": "A",
+   "question": "What is union leather?",
+   "reference": "Leather tanned with both oak and hemlock: either with mixed oak and hemlock liquors, or tanned with hemlock first and then retanned with oak.",
+   "answer": "The manual does not cover union leather, so I cannot provide information about it based on the content of \"The Harness Makers' Illustrated Manual\" by W. N. Fitz-Gerald (1880)."
+  },
+  {
+   "item_id": "item0072",
+   "qid": "C003",
+   "set": "C",
+   "question": "What is a safe way to melt wax at home without scorching it?",
+   "reference": "",
+   "answer": "To safely melt wax at home, use a double boiler or a heat-safe container set over a pot of simmering water, ensuring the wax does not directly touch the heat source. This method prevents scorching and keeps the wax at a controlled temperature."
+  },
+  {
+   "item_id": "item0073",
+   "qid": "A019",
+   "set": "A",
+   "question": "A back is quoted at 48 cents a pound by rough weight. Why does the usable leather really cost close to 80 cents a pound?",
+   "reference": "The buyer pays for eighteen pounds of rough weight plus $1.50 for dressing ($8.70 after deducting the bellies) but gets only about eleven pounds of prime leather, because currying and cropping remove the rest.",
+   "answer": "The manual does not cover this specific pricing detail, but the difference in cost can be attributed to factors such as the quality of the leather, the labor involved in processing and finishing, and the additional materials and time required to make a high-quality harness. Rough weight only accounts for the basic material cost, while the usable leather price reflects the value added through processing and the cost of production."
+  },
+  {
+   "item_id": "item0074",
+   "qid": "A089",
+   "set": "A",
+   "question": "What are the ingredients of hatters' black for finishing leather?",
+   "reference": "1 pound of extract of logwood, half an ounce of bichromate of potash and 1 ounce of copperas dissolved in 1 gallon of water (a second formula: 1 pound logwood extract, 2 ounces copperas, 1\u00bd ounces bichromate in 1\u00bd gallons).",
+   "answer": "The Harness Makers' Illustrated Manual by W. N. Fitz-Gerald (1880) does not provide specific details on the ingredients of hatters' black for finishing leather. Therefore, I cannot give you the exact ingredients based on the manual."
+  },
+  {
+   "item_id": "item0075",
+   "qid": "C008",
+   "set": "C",
+   "question": "Horse height is given in hands. How many inches is one hand?",
+   "reference": "",
+   "answer": "One hand is 4 inches."
+  },
+  {
+   "item_id": "item0076",
+   "qid": "C010",
+   "set": "C",
+   "question": "If 14 pounds of material cost $8.28, how do I work out the cost per pound, and what is it?",
+   "reference": "",
+   "answer": "To find the cost per pound, divide the total cost by the number of pounds. So, $8.28 divided by 14 pounds equals approximately $0.59 per pound."
+  },
+  {
+   "item_id": "item0077",
+   "qid": "A067",
+   "set": "A",
+   "question": "What does the trade name \"XC plate\" mean for harness mountings?",
+   "reference": "Tinned mountings, made by dipping the cleaned castings into molten tin.",
+   "answer": "It means mountings made of tinned composition metal."
+  },
+  {
+   "item_id": "item0078",
+   "qid": "A092",
+   "set": "A",
+   "question": "How is the simplest vinegar black for leather made?",
+   "reference": "Cover iron turner's shavings with pure cider vinegar, heat and set aside for a week or two, heat again and stand two weeks in a cool place, then pour off, let stand a few days, draw off and bottle.",
+   "answer": "The manual does not cover the making of vinegar black for leather."
+  },
+  {
+   "item_id": "item0079",
+   "qid": "A007",
+   "set": "A",
+   "question": "What happens to the black color of hemlock-tanned harness leather once it is exposed to the weather?",
+   "reference": "It turns a dingy brown, because the dark red color of hemlock leather prevents it taking a good black.",
+   "answer": "The black color turns a dingy brown."
+  },
+  {
+   "item_id": "item0080",
+   "qid": "A082",
+   "set": "A",
+   "question": "What is the grease called \"daub\" made of?",
+   "reference": "One part of neat's-foot oil and two parts of tallow, the tallow melted, the oil poured in, and the whole stirred until cold.",
+   "answer": "Daub is made of one part neat's-foot oil and two parts tallow."
+  },
+  {
+   "item_id": "item0081",
+   "qid": "A067",
+   "set": "A",
+   "question": "What does the trade name \"XC plate\" mean for harness mountings?",
+   "reference": "Tinned mountings, made by dipping the cleaned castings into molten tin.",
+   "answer": "The manual does not cover the trade name \"XC plate\" for harness mountings. This appears to be a modern or specific trade name not mentioned in W. N. Fitz-Gerald's \"The Harness Makers' Illustrated Manual\" from 1880."
+  },
+  {
+   "item_id": "item0082",
+   "qid": "A066",
+   "set": "A",
+   "question": "In what proportion are gum and sulphur mixed in the rubber used to cover harness mountings?",
+   "reference": "Two parts of Para gum to one part of pulverized sulphur.",
+   "answer": "The manual does not cover the specific proportion of gum and sulphur used in rubber for covering harness mountings."
+  },
+  {
+   "item_id": "item0083",
+   "qid": "B045",
+   "set": "B",
+   "question": "How much does a finished single road harness weigh, according to the manual?",
+   "reference": "",
+   "answer": "The manual has nothing on that point."
+  },
+  {
+   "item_id": "item0084",
+   "qid": "A098",
+   "set": "A",
+   "question": "What are the proportions of the harness oil for team and farm harness?",
+   "reference": "3 pounds of pure tallow to 1 pound of neat's-foot oil, stirred until cold.",
+   "answer": "The proportions are 3 parts of neat's-foot oil to 1 part of pure tallow."
+  },
+  {
+   "item_id": "item0085",
+   "qid": "A006",
+   "set": "A",
+   "question": "What are the three local names for the fault that appears on leather curried with poor oils and grease?",
+   "reference": "Gum, spew and fry.",
+   "answer": "The fault is called \"soft\", \"slippery\", and \"peachy\"."
+  },
+  {
+   "item_id": "item0086",
+   "qid": "A032",
+   "set": "A",
+   "question": "What is the result if a cutter does not keep a straight edge along the side and cuts the cross-lines deeper than needed?",
+   "reference": "No little waste of leather.",
+   "answer": "If a cutter does not keep a straight edge along the side and cuts the cross-lines deeper than needed, the result would be an uneven and possibly damaged harness piece. The edges might become rough, and the overall quality of the harness would be compromised."
+  },
+  {
+   "item_id": "item0087",
+   "qid": "B025",
+   "set": "B",
+   "question": "What does the manual say about making harness for dog carts pulled by dogs?",
+   "reference": "",
+   "answer": "The manual by W. N. Fitz-Gerald (1880) does not cover making harness for dog carts pulled by dogs. The focus of the manual is on harnesses for horses, not dogs."
+  },
+  {
+   "item_id": "item0088",
+   "qid": "A082",
+   "set": "A",
+   "question": "What is the grease called \"daub\" made of?",
+   "reference": "One part of neat's-foot oil and two parts of tallow, the tallow melted, the oil poured in, and the whole stirred until cold.",
+   "answer": "The manual does not specify what \"daub\" is made of."
+  },
+  {
+   "item_id": "item0089",
+   "qid": "A078",
+   "set": "A",
+   "question": "What happens to harness leather if turpentine or benzine is used to clean off the grease and dirt?",
+   "reference": "They penetrate almost instantly and burn and harden the fibre; if used to any extent the injury cannot be corrected.",
+   "answer": "The manual does not cover the effects of turpentine or benzine on harness leather. However, in general, these solvents can damage or weaken the leather, causing it to become brittle or discolored. It is generally recommended to use mild soaps and water for cleaning harness leather to avoid such issues."
+  },
+  {
+   "item_id": "item0090",
+   "qid": "B037",
+   "set": "B",
+   "question": "Where was the author of the harness manual, W. N. Fitz-Gerald, born?",
+   "reference": "",
+   "answer": "The manual gives no information on that, so I cannot say."
+  },
+  {
+   "item_id": "item0091",
+   "qid": "A040",
+   "set": "A",
+   "question": "For what size of horse is a light phaeton harness cut?",
+   "reference": "Horses fourteen or fourteen and a half hands high.",
+   "answer": "Horses fifteen hands high."
+  },
+  {
+   "item_id": "item0092",
+   "qid": "A094",
+   "set": "A",
+   "question": "What happens if leather stained orange yellow with fustic berries and alum water is washed with an alkali before the stain is dry?",
+   "reference": "The stain turns into a rich brown.",
+   "answer": "The stain turns a rich brown."
+  },
+  {
+   "item_id": "item0093",
+   "qid": "A100",
+   "set": "A",
+   "question": "Two sides of patent leather have stuck together face to face in warm weather. How can they be separated without spoiling them?",
+   "reference": "Heat them, in a drying or other hot room or on a tin roof on a hot day, and take them apart while hot; separating without high heat fails.",
+   "answer": "The manual does not cover this specific issue, but generally, for separating stuck patent leather, you could try gently pulling the edges apart while applying a small amount of rubbing alcohol or a similar solvent to help loosen the adhesive. Avoid using excessive heat or moisture, as these can damage the leather."
+  },
+  {
+   "item_id": "item0094",
+   "qid": "A080",
+   "set": "A",
+   "question": "If castor oil is used on a harness before tallowing, what problem does it cause that neat's-foot oil does not?",
+   "reference": "Its heavy body fills up the pores and prevents the leather absorbing tallow afterwards, whereas neat's-foot oil opens the pores so more tallow is taken up.",
+   "answer": "Castor oil prevents the later absorption of tallow, whereas neat's-foot oil does not have this effect."
+  },
+  {
+   "item_id": "item0095",
+   "qid": "B001",
+   "set": "B",
+   "question": "Which brand of sewing machine does the harness manual recommend for stitching traces?",
+   "reference": "",
+   "answer": "The Harness Makers' Illustrated Manual by W. N. Fitz-Gerald (1880) does not specify a particular brand of sewing machine for stitching traces. The manual focuses more on the techniques and methods of harness making rather than recommending specific brands of equipment."
+  },
+  {
+   "item_id": "item0096",
+   "qid": "A015",
+   "set": "A",
+   "question": "How much do the bellies of a side of leather weigh, as a rule?",
+   "reference": "Four pounds.",
+   "answer": "The manual does not cover the specific weight of the bellies of a side of leather."
+  },
+  {
+   "item_id": "item0097",
+   "qid": "B058",
+   "set": "B",
+   "question": "What does the manual say about synthetic rubber for covered mountings?",
+   "reference": "",
+   "answer": "The manual has nothing on that point."
+  },
+  {
+   "item_id": "item0098",
+   "qid": "B001",
+   "set": "B",
+   "question": "Which brand of sewing machine does the harness manual recommend for stitching traces?",
+   "reference": "",
+   "answer": "The manual recommends the Singer sewing machine for stitching traces."
+  },
+  {
+   "item_id": "item0099",
+   "qid": "A013",
+   "set": "A",
+   "question": "What is cuir-color in rein leather?",
+   "reference": "A very light, almost imperceptible brown, made by bleaching the leather quite light and coloring it with a yellowish-brown stain.",
+   "answer": "Cuir-color refers to a dark brown or nearly black color in rein leather, which is often achieved through tanning processes to give the leather a rich, deep color suitable for high-quality harnesses and saddlery."
+  },
+  {
+   "item_id": "item0100",
+   "qid": "A024",
+   "set": "A",
+   "question": "What goes wrong if collar leather carries too heavy a glazed coat?",
+   "reference": "The coat is liable to crack and deface the surface, because collar leather is worked over round frames.",
+   "answer": "The manual does not cover this specific issue, so I cannot provide an answer based on \"The Harness Makers' Illustrated Manual\" by W. N. Fitz-Gerald (1880)."
+  },
+  {
+   "item_id": "item0101",
+   "qid": "A079",
+   "set": "A",
+   "question": "Why should strong soap never be used to wash harness?",
+   "reference": "Its alkalies penetrate the leather and harden it.",
+   "answer": "The manual does not cover this specific point, so I cannot provide an answer based on \"The Harness Makers' Illustrated Manual\" by W. N. Fitz-Gerald (1880). However, in general, strong soap can be harsh and may damage the leather or other materials used in harnesses, potentially weakening them over time."
+  },
+  {
+   "item_id": "item0102",
+   "qid": "B047",
+   "set": "B",
+   "question": "What is the melting point of the solder used in close plating, according to the manual?",
+   "reference": "",
+   "answer": "The manual has nothing on that point."
+  },
+  {
+   "item_id": "item0103",
+   "qid": "C009",
+   "set": "C",
+   "question": "What is an easy way to thread a needle with thick thread?",
+   "reference": "",
+   "answer": "The manual does not cover threading a needle with thick thread, but an easy way to do it is to use a needle threader. If you don't have a needle threader, you can make a makeshift one by threading a small piece of stiff wire or a straightened paperclip through the eye of the needle."
+  },
+  {
+   "item_id": "item0104",
+   "qid": "A022",
+   "set": "A",
+   "question": "How should thin patent leather be kept in stock?",
+   "reference": "Rolled, with thin paper placed next to the glazed surface.",
+   "answer": "The manual does not cover how to keep thin patent leather in stock."
+  },
+  {
+   "item_id": "item0105",
+   "qid": "B052",
+   "set": "B",
+   "question": "What does the manual say about the harness used on fire engine horses?",
+   "reference": "",
+   "answer": "The manual has nothing on that point."
+  },
+  {
+   "item_id": "item0106",
+   "qid": "B034",
+   "set": "B",
+   "question": "What does the manual say about kangaroo leather for reins?",
+   "reference": "",
+   "answer": "The manual does not cover kangaroo leather for reins."
+  },
+  {
+   "item_id": "item0107",
+   "qid": "A013",
+   "set": "A",
+   "question": "What is cuir-color in rein leather?",
+   "reference": "A very light, almost imperceptible brown, made by bleaching the leather quite light and coloring it with a yellowish-brown stain.",
+   "answer": "Cuir-color is a light brown color that is almost impossible to notice."
+  },
+  {
+   "item_id": "item0108",
+   "qid": "B051",
+   "set": "B",
+   "question": "Which tannery does the manual recommend for buying oak-tanned backs?",
+   "reference": "",
+   "answer": "The manual recommends the tannery of William Pennington & Co."
+  },
+  {
+   "item_id": "item0109",
+   "qid": "A091",
+   "set": "A",
+   "question": "What are the proportions of the blacking for the flesh side of leather?",
+   "reference": "1 pound of lampblack, 12 pounds of neat's-foot oil and 6 pounds of tallow (a second recipe: 1\u00bd pounds lampblack, 1 gallon neat's-foot oil, 1 quart vinegar black).",
+   "answer": "The blacking for the flesh side of leather consists of 1 pound of extract of logwood, half an ounce of bichromate of potash and 1 ounce of lampblack pounded fine and moistened with vinegar."
+  },
+  {
+   "item_id": "item0110",
+   "qid": "C002",
+   "set": "C",
+   "question": "How do I convert a length in inches to centimetres?",
+   "reference": "",
+   "answer": "To convert a length from inches to centimeters, you multiply the number of inches by 2.54, since there are 2.54 centimeters in an inch. For example, if you have a length of 10 inches, you would calculate 10 * 2.54 = 25.4 centimeters."
+  },
+  {
+   "item_id": "item0111",
+   "qid": "B031",
+   "set": "B",
+   "question": "By what percentage does the manual say English leather covered buckles are cheaper than American ones?",
+   "reference": "",
+   "answer": "The manual gives no information on that, so I cannot say."
+  },
+  {
+   "item_id": "item0112",
+   "qid": "A086",
+   "set": "A",
+   "question": "Why should russet strapping be kept in dark cases or drawers?",
+   "reference": "Sunlight is sure to affect the color, the most exposed parts changing the most.",
+   "answer": "To prevent it from being damaged by light."
+  },
+  {
+   "item_id": "item0113",
+   "qid": "A045",
+   "set": "A",
+   "question": "What is the consequence when the hame tug of a long tug harness is not the right length?",
+   "reference": "The market tug does not lie parallel with the center of the pad side, which strains the swivel or loop in the end of the pad top and is likely to draw the pad out of shape.",
+   "answer": "The market tug will be out of its proper position."
+  },
+  {
+   "item_id": "item0114",
+   "qid": "A043",
+   "set": "A",
+   "question": "What happens if the neck strap tugs on a breast collar harness are set too far back?",
+   "reference": "The collar sags in front and interferes with the horse's movement, or the neck strap has to be shortened so much that it is strained when the trace is straightened.",
+   "answer": "The collar sags in front."
+  },
+  {
+   "item_id": "item0115",
+   "qid": "A003",
+   "set": "A",
+   "question": "Which hides are best suited for making harness leather?",
+   "reference": "Hides of young steers or heifers that were in the best condition when killed.",
+   "answer": "The Harness Makers' Illustrated Manual by W. N. Fitz-Gerald (1880) does not specify which hides are best suited for making harness leather. However, traditionally, the best hides for harness leather are those from young, well-fed animals, particularly calves, sheep, and goats, due to their fine grain and strength."
+  },
+  {
+   "item_id": "item0116",
+   "qid": "A047",
+   "set": "A",
+   "question": "How much fulness should be allowed for a one and one quarter inch loop of ordinary thickness?",
+   "reference": "About three eighths of an inch over the width of the loop stick.",
+   "answer": "About three eighths of an inch of fulness should be allowed."
+  },
+  {
+   "item_id": "item0117",
+   "qid": "B052",
+   "set": "B",
+   "question": "What does the manual say about the harness used on fire engine horses?",
+   "reference": "",
+   "answer": "The manual does not cover the specific details of harness used on fire engine horses."
+  },
+  {
+   "item_id": "item0118",
+   "qid": "C014",
+   "set": "C",
+   "question": "How should I dry a pair of wet leather shoes without damaging them?",
+   "reference": "",
+   "answer": "To dry wet leather shoes without damaging them, remove any loose debris or mud, stuff the shoes with towels or paper to maintain their shape, and place them in a well-ventilated area away from direct heat sources like radiators or heaters. Alternatively, you can use a dehumidifier or a fan to help speed up the drying process while ensuring the temperature is not too high to avoid damaging the leather."
+  },
+  {
+   "item_id": "item0119",
+   "qid": "B026",
+   "set": "B",
+   "question": "What does the manual say about making leather dye from walnut husks?",
+   "reference": "",
+   "answer": "The manual does not cover the process of making leather dye from walnut husks."
+  },
+  {
+   "item_id": "item0120",
+   "qid": "C014",
+   "set": "C",
+   "question": "How should I dry a pair of wet leather shoes without damaging them?",
+   "reference": "",
+   "answer": "The manual does not cover this specific topic, but generally, to dry wet leather shoes without damaging them, you should avoid direct heat sources like radiators or hairdryers, as these can cause the leather to crack. Instead, place the shoes in a well-ventilated area and stuff them with newspapers or shoe trees to maintain their shape. Allow them to air dry naturally."
+  },
+  {
+   "item_id": "item0121",
+   "qid": "A058",
+   "set": "A",
+   "question": "What goes wrong when a harness thread is twisted too firmly?",
+   "reference": "It will not take the wax well and wears away rapidly.",
+   "answer": "It becomes hard and brittle, losing its pliability."
+  },
+  {
+   "item_id": "item0122",
+   "qid": "A088",
+   "set": "A",
+   "question": "How does leaving a harness on display in a wareroom for three months compare with using it?",
+   "reference": "It injures the harness as much as three months of constant use by someone who knows how to take care of it.",
+   "answer": "Leaving a harness on display in a wareroom for three months is nearly as injurious to its condition as using it constantly for that time."
+  },
+  {
+   "item_id": "item0123",
+   "qid": "A039",
+   "set": "A",
+   "question": "For what size of horse is a coach harness cut?",
+   "reference": "Horses sixteen hands high or over.",
+   "answer": "A coach harness is cut for horses fifteen hands high."
+  },
+  {
+   "item_id": "item0124",
+   "qid": "B048",
+   "set": "B",
+   "question": "At what temperature is the tin kept for dipping XC plate mountings, according to the manual?",
+   "reference": "",
+   "answer": "The manual does not specify a particular temperature for dipping XC plate mountings in tin."
+  },
+  {
+   "item_id": "item0125",
+   "qid": "B004",
+   "set": "B",
+   "question": "What does the harness manual say about chrome-tanned leather?",
+   "reference": "",
+   "answer": "The manual has nothing on that point."
+  },
+  {
+   "item_id": "item0126",
+   "qid": "A017",
+   "set": "A",
+   "question": "What happens when short-tanned leather is stained for russet reins?",
+   "reference": "It takes a less uniform shade, because the untanned center shows darker than the well-tanned portion.",
+   "answer": "The result is a dingy brown color."
+  },
+  {
+   "item_id": "item0127",
+   "qid": "B056",
+   "set": "B",
+   "question": "What does the manual say about using lanolin to soften harness leather?",
+   "reference": "",
+   "answer": "The manual does not cover the use of lanolin to soften harness leather."
+  },
+  {
+   "item_id": "item0128",
+   "qid": "A061",
+   "set": "A",
+   "question": "What is the effect of burying the stitches into the leather when stitching harness?",
+   "reference": "It tends to weaken the work instead of strengthening it.",
+   "answer": "It produces a strong seam."
+  },
+  {
+   "item_id": "item0129",
+   "qid": "A069",
+   "set": "A",
+   "question": "Why is composition metal a better choice than iron for harness mountings used near the sea?",
+   "reference": "Composition metal does not rust, while iron is prone to rust and sea air acts very injuriously on plated iron mountings.",
+   "answer": "Because composition metal does not rust, whereas iron does."
+  },
+  {
+   "item_id": "item0130",
+   "qid": "A009",
+   "set": "A",
+   "question": "Why should a cow hide not be used for harness leather?",
+   "reference": "Its butt is liable to be thick and its shoulder thin, so it lacks uniform thickness.",
+   "answer": "Because it is unfit for harness leather."
+  },
+  {
+   "item_id": "item0131",
+   "qid": "A001",
+   "set": "A",
+   "question": "How much heavier is a side of hemlock-tanned leather than a side of oak-tanned leather of the same spread and thickness?",
+   "reference": "From eight to ten per cent heavier.",
+   "answer": "The manual does not cover a direct comparison of the weight of hemlock-tanned leather versus oak-tanned leather. Therefore, I cannot provide a specific answer based on \"The Harness Makers' Illustrated Manual\" by W. N. Fitz-Gerald (1880)."
+  },
+  {
+   "item_id": "item0132",
+   "qid": "B009",
+   "set": "B",
+   "question": "Who does the manual say patented celluloid harness mountings?",
+   "reference": "",
+   "answer": "The manual does not cover who patented celluloid harness mountings."
+  },
+  {
+   "item_id": "item0133",
+   "qid": "B043",
+   "set": "B",
+   "question": "What is the price per pound of crown soap, according to the manual?",
+   "reference": "",
+   "answer": "The manual does not cover the price per pound of crown soap or any pricing information."
+  },
+  {
+   "item_id": "item0134",
+   "qid": "A088",
+   "set": "A",
+   "question": "How does leaving a harness on display in a wareroom for three months compare with using it?",
+   "reference": "It injures the harness as much as three months of constant use by someone who knows how to take care of it.",
+   "answer": "The manual does not cover how leaving a harness on display in a wareroom for three months compares with using it. The manual focuses on the construction and maintenance of harnesses, but it does not provide information on the long-term effects of storage versus use on the condition of a harness."
+  },
+  {
+   "item_id": "item0135",
+   "qid": "B045",
+   "set": "B",
+   "question": "How much does a finished single road harness weigh, according to the manual?",
+   "reference": "",
+   "answer": "The manual does not provide a specific weight for a finished single road harness."
+  },
+  {
+   "item_id": "item0136",
+   "qid": "A035",
+   "set": "A",
+   "question": "By how much does recurrying reduce the thickness of ordinary leather?",
+   "reference": "Nearly one third, without removing any of its original substance.",
+   "answer": "The manual does not provide a specific percentage or measurement for how much recurrying reduces the thickness of ordinary leather."
+  },
+  {
+   "item_id": "item0137",
+   "qid": "B006",
+   "set": "B",
+   "question": "What is the name of the New York manufacturer who, according to the manual, sells backs by their actual weight?",
+   "reference": "",
+   "answer": "The manual gives no information on that, so I cannot say."
+  },
+  {
+   "item_id": "item0138",
+   "qid": "A014",
+   "set": "A",
+   "question": "What is buff leather, as used for hand parts?",
+   "reference": "Unstained leather whose grain has been buffed by the currier to remove the gloss, giving a white, furried appearance; soft and pliant.",
+   "answer": "Buff leather is leather of the same stock as other harness leather that is not stained; it is used for hand parts."
+  },
+  {
+   "item_id": "item0139",
+   "qid": "A023",
+   "set": "A",
+   "question": "What is likely to happen in winter to patent leather that was made during the hot summer months?",
+   "reference": "It is almost sure to crack in cold weather, sometimes even when not in use.",
+   "answer": "The manual does not cover this specific question about patent leather changing over seasons. However, in general, patent leather can become more brittle and prone to cracking in winter due to the lower humidity and colder temperatures."
+  },
+  {
+   "item_id": "item0140",
+   "qid": "A051",
+   "set": "A",
+   "question": "What happens if the side plates of a loop press are not screwed well up before pressure is put on the top?",
+   "reference": "The loop spreads on the top edge.",
+   "answer": "The loop will spread on the top edge."
+  },
+  {
+   "item_id": "item0141",
+   "qid": "B059",
+   "set": "B",
+   "question": "Which railway company does the manual say bought the first celluloid martingale rings?",
+   "reference": "",
+   "answer": "The manual gives no information on that, so I cannot say."
+  },
+  {
+   "item_id": "item0142",
+   "qid": "B013",
+   "set": "B",
+   "question": "How many coats of varnish does the manual say are applied to patent leather?",
+   "reference": "",
+   "answer": "The manual does not specify the exact number of coats of varnish applied to patent leather."
+  },
+  {
+   "item_id": "item0143",
+   "qid": "A032",
+   "set": "A",
+   "question": "What is the result if a cutter does not keep a straight edge along the side and cuts the cross-lines deeper than needed?",
+   "reference": "No little waste of leather.",
+   "answer": "The workman's time is wasted."
+  },
+  {
+   "item_id": "item0144",
+   "qid": "C013",
+   "set": "C",
+   "question": "Can you write a short, polite reply to a customer whose order will be a few days late?",
+   "reference": "",
+   "answer": "Certainly! Here's a short, polite reply:\n\n\"Dear Customer,\n\nThank you for your patience and understanding. We appreciate your business. Your order will be delayed by a few days due to current supply chain challenges. We are working diligently to expedite the process and will update you as soon as your order is dispatched.\n\nBest regards,\n[Your Company Name]\""
+  },
+  {
+   "item_id": "item0145",
+   "qid": "B050",
+   "set": "B",
+   "question": "What recipe does the manual give for a saddle soap made with glycerine?",
+   "reference": "",
+   "answer": "The manual does not provide a specific recipe for a saddle soap made with glycerine."
+  },
+  {
+   "item_id": "item0146",
+   "qid": "C012",
+   "set": "C",
+   "question": "How should I store sharp hand tools safely in a small workshop?",
+   "reference": "",
+   "answer": "The manual does not cover this specific topic, but for safely storing sharp hand tools in a small workshop, you should consider using a tool roll, a magnetic strip, or a tool caddy with individual compartments. Ensure the storage area is dry and dust-free to prevent rust and damage to the tools."
+  },
+  {
+   "item_id": "item0147",
+   "qid": "A054",
+   "set": "A",
+   "question": "How many strands is No. 0 harness thread made up with, and for how many stitches to the inch is it used?",
+   "reference": "Four strands, used where the stitches number eight or under to the inch.",
+   "answer": "No. 0 harness thread is made up with four strands and is used for eight stitches to the inch."
+  },
+  {
+   "item_id": "item0148",
+   "qid": "C005",
+   "set": "C",
+   "question": "How do I sharpen a knife on a whetstone?",
+   "reference": "",
+   "answer": "To sharpen a knife on a whetstone, first choose the appropriate grit for the desired sharpness (coarse for dulling, medium for reshaping, and fine for honing). Place the whetstone on a stable surface and wet it with water. Hold the knife at a 20-degree angle against the stone and move it back and forth in a straight line. After sharpening, you can use a finer grit to hone the blade for a sharper edge."
+  },
+  {
+   "item_id": "item0149",
+   "qid": "A007",
+   "set": "A",
+   "question": "What happens to the black color of hemlock-tanned harness leather once it is exposed to the weather?",
+   "reference": "It turns a dingy brown, because the dark red color of hemlock leather prevents it taking a good black.",
+   "answer": "The manual does not cover this specific detail about the weathering of hemlock-tanned harness leather. However, generally, leather tanned with hemlock bark tends to darken and may become duller in appearance when exposed to weather, though the exact change in color can vary."
+  },
+  {
+   "item_id": "item0150",
+   "qid": "A041",
+   "set": "A",
+   "question": "How much slack is allowed when measuring a horse for the breeching?",
+   "reference": "One inch.",
+   "answer": "The manual does not cover the specific amount of slack allowed when measuring a horse for the breeching."
+  },
+  {
+   "item_id": "item0151",
+   "qid": "B020",
+   "set": "B",
+   "question": "For how many minutes should hatters' black be boiled, according to the manual?",
+   "reference": "",
+   "answer": "The manual gives no information on that, so I cannot say."
+  },
+  {
+   "item_id": "item0152",
+   "qid": "C012",
+   "set": "C",
+   "question": "How should I store sharp hand tools safely in a small workshop?",
+   "reference": "",
+   "answer": "To store sharp hand tools safely in a small workshop, use a dedicated tool tray or box with dividers to keep them organized and secure. Consider investing in a magnetic strip or rack for longer tools like planes and chisels. Always ensure that all tools are properly cleaned and dried before storage to prevent rust and damage."
+  },
+  {
+   "item_id": "item0153",
+   "qid": "B040",
+   "set": "B",
+   "question": "What does the manual say about feeding a horse before a long drive?",
+   "reference": "",
+   "answer": "The manual has nothing on that point."
+  },
+  {
+   "item_id": "item0154",
+   "qid": "A033",
+   "set": "A",
+   "question": "How wide is the strip called the back that is used for fine harness?",
+   "reference": "From eighteen to twenty-two inches wide.",
+   "answer": "The manual does not specify the exact width of the back strip for fine harness."
+  },
+  {
+   "item_id": "item0155",
+   "qid": "B047",
+   "set": "B",
+   "question": "What is the melting point of the solder used in close plating, according to the manual?",
+   "reference": "",
+   "answer": "The manual does not specify the exact melting point of the solder used in close plating."
+  },
+  {
+   "item_id": "item0156",
+   "qid": "C001",
+   "set": "C",
+   "question": "How many ounces are there in one pound?",
+   "reference": "",
+   "answer": "There are 16 ounces in one pound."
+  },
+  {
+   "item_id": "item0157",
+   "qid": "A085",
+   "set": "A",
+   "question": "What happens to a harness that is left wet with the horse's sweat?",
+   "reference": "The saline perspiration rapidly absorbs the grease and hardens the leather, so it must be dried as quickly as possible.",
+   "answer": "The manual does not cover this specific scenario. However, in general, leaving a harness wet with the horse's sweat can lead to rusting of metal parts and deterioration of leather components, which can affect the harness's durability and performance."
+  },
+  {
+   "item_id": "item0158",
+   "qid": "A036",
+   "set": "A",
+   "question": "What is the risk of cutting away a lot of the flesh side when cleaning a badly fleshed strap?",
+   "reference": "The leather is weakened.",
+   "answer": "The risk is weakening the strap."
+  },
+  {
+   "item_id": "item0159",
+   "qid": "A037",
+   "set": "A",
+   "question": "How can a workman check whether soaking straps are wet through to the center?",
+   "reference": "By cutting a testing-strap, a small scrap of the leather soaked in the same water, to see if the moisture has reached the center; the appearance of grease on the surface is the other guide.",
+   "answer": "The manual does not cover this specific method, but a workman could check whether soaking straps are wet through to the center by pressing a sharp object, like a pin or a needle, into the strap. If moisture is felt on the other side, the strap is wet through."
+  },
+  {
+   "item_id": "item0160",
+   "qid": "B011",
+   "set": "B",
+   "question": "What voltage does the manual give for electro plating nickel on harness mountings?",
+   "reference": "",
+   "answer": "The manual gives no information on that, so I cannot say."
+  },
+  {
+   "item_id": "item0161",
+   "qid": "B051",
+   "set": "B",
+   "question": "Which tannery does the manual recommend for buying oak-tanned backs?",
+   "reference": "",
+   "answer": "The manual does not cover recommendations for specific tanneries or where to purchase oak-tanned backs."
+  },
+  {
+   "item_id": "item0162",
+   "qid": "B007",
+   "set": "B",
+   "question": "Who is the leather dealer the manual quotes as saying good leather is \"solid, but not hard; mellow, but not soft\"?",
+   "reference": "",
+   "answer": "The manual does not provide the name of the leather dealer who made that statement."
+  },
+  {
+   "item_id": "item0163",
+   "qid": "B050",
+   "set": "B",
+   "question": "What recipe does the manual give for a saddle soap made with glycerine?",
+   "reference": "",
+   "answer": "The manual gives no information on that, so I cannot say."
+  },
+  {
+   "item_id": "item0164",
+   "qid": "B038",
+   "set": "B",
+   "question": "What was the selling price of the harness manual itself when it was published?",
+   "reference": "",
+   "answer": "The manual was sold for 50 cents a copy."
+  },
+  {
+   "item_id": "item0165",
+   "qid": "A001",
+   "set": "A",
+   "question": "How much heavier is a side of hemlock-tanned leather than a side of oak-tanned leather of the same spread and thickness?",
+   "reference": "From eight to ten per cent heavier.",
+   "answer": "A side of hemlock-tanned leather is from eight to ten per cent heavier than a side of oak-tanned leather of the same spread and thickness."
+  },
+  {
+   "item_id": "item0166",
+   "qid": "A084",
+   "set": "A",
+   "question": "What causes the white mould often seen on harness leather?",
+   "reference": "Grease being drawn to the surface by moisture.",
+   "answer": "The white mould is caused by a fungus that thrives in warm weather."
+  },
+  {
+   "item_id": "item0167",
+   "qid": "A066",
+   "set": "A",
+   "question": "In what proportion are gum and sulphur mixed in the rubber used to cover harness mountings?",
+   "reference": "Two parts of Para gum to one part of pulverized sulphur.",
+   "answer": "Gum and sulphur are mixed in the proportion of two parts of gum to one part of sulphur."
+  },
+  {
+   "item_id": "item0168",
+   "qid": "A084",
+   "set": "A",
+   "question": "What causes the white mould often seen on harness leather?",
+   "reference": "Grease being drawn to the surface by moisture.",
+   "answer": "The manual does not cover the specific cause of white mould on harness leather. However, in general, white mould on leather is often due to fungal growth, which can occur if the leather is exposed to damp conditions or if it is not properly conditioned and maintained."
+  },
+  {
+   "item_id": "item0169",
+   "qid": "A002",
+   "set": "A",
+   "question": "For a best-quality light road harness, what weight of leather per side is recommended for the harness proper?",
+   "reference": "Fourteen to sixteen pounds to the side (bridles: eight to twelve pounds).",
+   "answer": "The manual does not specify the exact weight of leather per side for a best-quality light road harness."
+  },
+  {
+   "item_id": "item0170",
+   "qid": "A087",
+   "set": "A",
+   "question": "Why should the harness room be placed as far from the horses as the building allows?",
+   "reference": "The gases arising from the stable are very injurious to the leather and the mountings.",
+   "answer": "The manual does not cover this specific point about the placement of the harness room relative to the horses."
+  },
+  {
+   "item_id": "item0171",
+   "qid": "B033",
+   "set": "B",
+   "question": "How many pounds of oak bark does the manual say are needed to tan one hide?",
+   "reference": "",
+   "answer": "The manual gives no information on that, so I cannot say."
+  },
+  {
+   "item_id": "item0172",
+   "qid": "C004",
+   "set": "C",
+   "question": "How should I get rid of oily rags so they do not start a fire?",
+   "reference": "",
+   "answer": "The manual does not cover this specific question. However, for safety, oily rags should be placed in a metal container with a lid and allowed to air out to remove excess oil before disposal. Alternatively, they can be washed and reused or disposed of in a regular trash container after ensuring they are completely dry."
+  },
+  {
+   "item_id": "item0173",
+   "qid": "A094",
+   "set": "A",
+   "question": "What happens if leather stained orange yellow with fustic berries and alum water is washed with an alkali before the stain is dry?",
+   "reference": "The stain turns into a rich brown.",
+   "answer": "The manual does not cover this specific scenario, so I cannot provide a detailed answer based on \"The Harness Makers' Illustrated Manual\" by W. N. Fitz-Gerald (1880). However, in general, using an alkali to wash a stain that is not yet dry could potentially set the stain more permanently, as alkalis can react with and fix certain types of dyes."
+  },
+  {
+   "item_id": "item0174",
+   "qid": "A052",
+   "set": "A",
+   "question": "Why do many workmen prefer to use a clamp with an iron loop stick when creasing loops by hand?",
+   "reference": "It avoids much of the difficulty of the leather becoming too dry before it can be creased, since only one side is stitched before creasing.",
+   "answer": "The manual does not cover this specific reason, but it is reasonable to infer that the iron loop stick in a clamp provides a firm, stable surface for creasing loops, which can help in achieving consistent and precise results. The iron material would offer better resistance and durability compared to other materials, making it easier for workmen to apply the necessary pressure and maintain control during the creasing process."
+  },
+  {
+   "item_id": "item0175",
+   "qid": "B002",
+   "set": "B",
+   "question": "What weekly wage does the manual say a skilled harness cutter should be paid?",
+   "reference": "",
+   "answer": "The manual does not cover the weekly wage for a skilled harness cutter."
+  },
+  {
+   "item_id": "item0176",
+   "qid": "A029",
+   "set": "A",
+   "question": "What use should be made of the thin, baggy flank of a side?",
+   "reference": "It should not be cut into straps; it is used for linings to winkers.",
+   "answer": "It should be cut up into folds and linings."
+  },
+  {
+   "item_id": "item0177",
+   "qid": "A059",
+   "set": "A",
+   "question": "What trouble follows if a strand of thread is simply broken off without being untwisted and pulled apart?",
+   "reference": "The end is irregular and causes annoyance in threading the needles or attaching the bristles.",
+   "answer": "It produces irregularities in the strands."
+  },
+  {
+   "item_id": "item0178",
+   "qid": "A090",
+   "set": "A",
+   "question": "From what are workshop stains for russet rein leather generally made?",
+   "reference": "Spanish saffron and anotta, or saffron alone.",
+   "answer": "Workshop stains for russet rein leather are generally made from Spanish saffron and anotta, or from saffron alone."
+  },
+  {
+   "item_id": "item0179",
+   "qid": "A073",
+   "set": "A",
+   "question": "A drop of bichromate of potassa dissolved in nitric acid is put on a white metal mounting and washed off. What result shows it is pure silver, and what shows German silver?",
+   "reference": "Pure silver shows a blood-red mark; on German silver the liquid appears brown and the mark shows no red.",
+   "answer": "The manual does not cover this specific test, so I cannot provide the exact results for pure silver and German silver based on the described procedure. However, generally, a drop of bichromate of potassa dissolved in nitric acid (a test for silver) will show a characteristic color change or precipitate if the metal is silver. For German silver, which is an alloy and not pure silver, the test might show no reaction or a different color change, but the exact details would depend on the specific composition of the German silver alloy."
+  },
+  {
+   "item_id": "item0180",
+   "qid": "B018",
+   "set": "B",
+   "question": "How many days are celluloid mountings left to season in the drying room, according to the manual?",
+   "reference": "",
+   "answer": "The manual does not specify the exact number of days celluloid mountings should be left to season in the drying room."
+  },
+  {
+   "item_id": "item0181",
+   "qid": "A081",
+   "set": "A",
+   "question": "Why are both neat's-foot oil and tallow needed when renovating a harness, and not just one of them?",
+   "reference": "Oil softens the leather but is a poor barrier against water; tallow resists water much longer but does not soften the fibre as well, so both are needed for pliability and durability.",
+   "answer": "Both neat's-foot oil and tallow are needed when renovating a harness because they serve different purposes. Neat's-foot oil is used to soften and condition the leather, making it supple and pliable. Tallow, on the other hand, helps to waterproof the leather and provides additional protection against moisture. Using both together ensures that the leather is not only soft and flexible but also well-protected from the elements."
+  },
+  {
+   "item_id": "item0182",
+   "qid": "A086",
+   "set": "A",
+   "question": "Why should russet strapping be kept in dark cases or drawers?",
+   "reference": "Sunlight is sure to affect the color, the most exposed parts changing the most.",
+   "answer": "The manual does not cover why russet strapping should be kept in dark cases or drawers."
+  },
+  {
+   "item_id": "item0183",
+   "qid": "B053",
+   "set": "B",
+   "question": "How does the manual say to clean aluminum mountings?",
+   "reference": "",
+   "answer": "The manual gives no information on that, so I cannot say."
+  },
+  {
+   "item_id": "item0184",
+   "qid": "B030",
+   "set": "B",
+   "question": "What import duty on English harness buckles does the manual mention?",
+   "reference": "",
+   "answer": "The manual does not cover import duties on English harness buckles."
+  },
+  {
+   "item_id": "item0185",
+   "qid": "B024",
+   "set": "B",
+   "question": "What does the manual recommend for harnessing oxen?",
+   "reference": "",
+   "answer": "The manual has nothing on that point."
+  },
+  {
+   "item_id": "item0186",
+   "qid": "B048",
+   "set": "B",
+   "question": "At what temperature is the tin kept for dipping XC plate mountings, according to the manual?",
+   "reference": "",
+   "answer": "The manual gives no information on that, so I cannot say."
+  },
+  {
+   "item_id": "item0187",
+   "qid": "A097",
+   "set": "A",
+   "question": "How can steel bits that are in daily use be kept from rusting after they are taken off the horse?",
+   "reference": "Put them at once in a box nearly filled with thoroughly pulverized slaked lime, which absorbs the moisture; rub with a woolen cloth before using.",
+   "answer": "They should be covered with a thin coat of oil."
+  },
+  {
+   "item_id": "item0188",
+   "qid": "A093",
+   "set": "A",
+   "question": "How do you make a saffron and anotta stain come out darker?",
+   "reference": "Use more anotta; the more anotta, the darker the color.",
+   "answer": "By adding a small quantity of powdered Brazilwood boiled with the saffron and anotta."
+  },
+  {
+   "item_id": "item0189",
+   "qid": "B023",
+   "set": "B",
+   "question": "What does the manual say about using nylon thread for harness stitching?",
+   "reference": "",
+   "answer": "The manual does not cover the use of nylon thread for harness stitching."
+  },
+  {
+   "item_id": "item0190",
+   "qid": "A041",
+   "set": "A",
+   "question": "How much slack is allowed when measuring a horse for the breeching?",
+   "reference": "One inch.",
+   "answer": "About one foot of slack is allowed."
+  },
+  {
+   "item_id": "item0191",
+   "qid": "A039",
+   "set": "A",
+   "question": "For what size of horse is a coach harness cut?",
+   "reference": "Horses sixteen hands high or over.",
+   "answer": "The manual does not cover what size of horse a coach harness is cut for."
+  },
+  {
+   "item_id": "item0192",
+   "qid": "B044",
+   "set": "B",
+   "question": "How thick in inches should loop leather be, according to the manual?",
+   "reference": "",
+   "answer": "The manual has nothing on that point."
+  },
+  {
+   "item_id": "item0193",
+   "qid": "B049",
+   "set": "B",
+   "question": "What does the manual say about waterproofing harness with silicone spray?",
+   "reference": "",
+   "answer": "The manual does not cover the use of silicone spray for waterproofing harnesses."
+  },
+  {
+   "item_id": "item0194",
+   "qid": "A005",
+   "set": "A",
+   "question": "What weight of sides does light express harness require?",
+   "reference": "Sides weighing eighteen to twenty pounds each.",
+   "answer": "Light express harness requires sides weighing sixteen to eighteen pounds each."
+  },
+  {
+   "item_id": "item0195",
+   "qid": "C007",
+   "set": "C",
+   "question": "How can I take light rust off a steel tool using things I have at home?",
+   "reference": "",
+   "answer": "You can use a mixture of equal parts of sulphur and chalk with enough vinegar to make a paste."
+  },
+  {
+   "item_id": "item0196",
+   "qid": "A100",
+   "set": "A",
+   "question": "Two sides of patent leather have stuck together face to face in warm weather. How can they be separated without spoiling them?",
+   "reference": "Heat them, in a drying or other hot room or on a tin roof on a hot day, and take them apart while hot; separating without high heat fails.",
+   "answer": "They can be separated by placing them in a steam box or using a hot iron to carefully separate them, ensuring no part is damaged."
+  },
+  {
+   "item_id": "item0197",
+   "qid": "A012",
+   "set": "A",
+   "question": "About how much leather does a pair of russet reins contain?",
+   "reference": "About one pound.",
+   "answer": "The manual does not cover the specific amount of leather used for a pair of russet reins."
+  },
+  {
+   "item_id": "item0198",
+   "qid": "B004",
+   "set": "B",
+   "question": "What does the harness manual say about chrome-tanned leather?",
+   "reference": "",
+   "answer": "The Harness Makers' Illustrated Manual by W. N. Fitz-Gerald (1880) does not specifically mention chrome-tanned leather, as chrome tanning was not widely practiced until the early 20th century. The manual focuses on traditional tanning methods and materials available in the 19th century."
+  },
+  {
+   "item_id": "item0199",
+   "qid": "B059",
+   "set": "B",
+   "question": "Which railway company does the manual say bought the first celluloid martingale rings?",
+   "reference": "",
+   "answer": "The manual does not cover which railway company bought the first celluloid martingale rings."
+  },
+  {
+   "item_id": "item0200",
+   "qid": "A005",
+   "set": "A",
+   "question": "What weight of sides does light express harness require?",
+   "reference": "Sides weighing eighteen to twenty pounds each.",
+   "answer": "The manual does not cover the specific weight of sides required for light express harness."
+  },
+  {
+   "item_id": "item0201",
+   "qid": "A027",
+   "set": "A",
+   "question": "What does it mean to crop a side of leather?",
+   "reference": "To cut the side in two parts along the line that marks the bottom of the back.",
+   "answer": "To crop a side of leather means to cut it along the line that marks the bottom of the back."
+  },
+  {
+   "item_id": "item0202",
+   "qid": "B014",
+   "set": "B",
+   "question": "What proportions of copper and zinc does the manual give for brass harness mountings?",
+   "reference": "",
+   "answer": "The manual gives no information on that, so I cannot say."
+  },
+  {
+   "item_id": "item0203",
+   "qid": "B054",
+   "set": "B",
+   "question": "What does the manual say is the price per foot of the best patent leather?",
+   "reference": "",
+   "answer": "The manual does not cover the price per foot of the best patent leather. It focuses on the technical aspects of harness making rather than pricing information."
+  },
+  {
+   "item_id": "item0204",
+   "qid": "A060",
+   "set": "A",
+   "question": "Ordinary shoemaker's black wax becomes too hard in winter. How are the proportions changed for cold weather?",
+   "reference": "More tallow is used: one pound of tallow to three quarters of a pound of pitch, instead of equal parts.",
+   "answer": "The proportion of tallow to pitch is altered to 3 parts tallow to 1 part pitch."
+  },
+  {
+   "item_id": "item0205",
+   "qid": "A010",
+   "set": "A",
+   "question": "You wet the freshly cut edge of a strip of leather and a light-colored strip shows through the center. What does that tell you?",
+   "reference": "The leather is insufficiently (short) tanned; the wider the light strip, the poorer the tannage.",
+   "answer": "The manual does not cover this specific scenario, but based on general leatherworking knowledge, if a light-colored strip shows through the center after wetting the freshly cut edge of a strip of leather, it suggests that the leather has a grain variation or a natural marking that becomes more visible when wet. This could indicate a defect or a natural characteristic of the leather."
+  },
+  {
+   "item_id": "item0206",
+   "qid": "A028",
+   "set": "A",
+   "question": "Which tool can be used in place of the splitting machine for reducing small straps?",
+   "reference": "The spokeshave.",
+   "answer": "The spokeshave can be used in place of the splitting machine for reducing small straps."
+  },
+  {
+   "item_id": "item0207",
+   "qid": "A065",
+   "set": "A",
+   "question": "Who patented hard rubber as a covering for harness buckles and rings, and in what year?",
+   "reference": "Ralph Dunham of Connecticut, in 1866.",
+   "answer": "The manual does not cover who patented hard rubber for harness buckles and rings or the year of the patent. This information is not provided in \"The Harness Makers' Illustrated Manual\" by W. N. Fitz-Gerald (1880)."
+  },
+  {
+   "item_id": "item0208",
+   "qid": "B008",
+   "set": "B",
+   "question": "In what year does the manual say the belt-knife splitting machine was invented?",
+   "reference": "",
+   "answer": "The manual gives no information on that, so I cannot say."
+  },
+  {
+   "item_id": "item0209",
+   "qid": "A034",
+   "set": "A",
+   "question": "For how long at least should straps remain coated with tallow when recurrying?",
+   "reference": "At least twelve hours.",
+   "answer": "Straps should remain coated with tallow for at least twelve hours."
+  },
+  {
+   "item_id": "item0210",
+   "qid": "A083",
+   "set": "A",
+   "question": "How often should harness that is in daily use be cleaned and oiled?",
+   "reference": "As often as once a month.",
+   "answer": "The manual does not cover the specific frequency for cleaning and oiling harnesses in daily use."
+  },
+  {
+   "item_id": "item0211",
+   "qid": "B037",
+   "set": "B",
+   "question": "Where was the author of the harness manual, W. N. Fitz-Gerald, born?",
+   "reference": "",
+   "answer": "The manual does not cover the personal details of the author, W. N. Fitz-Gerald, such as his place of birth."
+  },
+  {
+   "item_id": "item0212",
+   "qid": "A036",
+   "set": "A",
+   "question": "What is the risk of cutting away a lot of the flesh side when cleaning a badly fleshed strap?",
+   "reference": "The leather is weakened.",
+   "answer": "The manual does not cover this specific risk, but in general, cutting away too much of the flesh side of a strap can weaken the strap's structure and reduce its strength and durability."
+  },
+  {
+   "item_id": "item0213",
+   "qid": "B055",
+   "set": "B",
+   "question": "How many stitches per minute does the manual say a good hand stitcher can lay?",
+   "reference": "",
+   "answer": "The manual does not specify a number of stitches per minute for a good hand stitcher."
+  },
+  {
+   "item_id": "item0214",
+   "qid": "A037",
+   "set": "A",
+   "question": "How can a workman check whether soaking straps are wet through to the center?",
+   "reference": "By cutting a testing-strap, a small scrap of the leather soaked in the same water, to see if the moisture has reached the center; the appearance of grease on the surface is the other guide.",
+   "answer": "By cutting one of the straps in half."
+  },
+  {
+   "item_id": "item0215",
+   "qid": "B057",
+   "set": "B",
+   "question": "According to the manual, how long does a well kept coach harness last in years?",
+   "reference": "",
+   "answer": "The manual has nothing on that point."
+  },
+  {
+   "item_id": "item0216",
+   "qid": "A087",
+   "set": "A",
+   "question": "Why should the harness room be placed as far from the horses as the building allows?",
+   "reference": "The gases arising from the stable are very injurious to the leather and the mountings.",
+   "answer": "To avoid harmful gases."
+  },
+  {
+   "item_id": "item0217",
+   "qid": "A046",
+   "set": "A",
+   "question": "What are the three kinds of leather loops a harness maker can choose from?",
+   "reference": "Hand made, patent and pressed loops.",
+   "answer": "The manual does not cover the specific kinds of leather loops a harness maker can choose from."
+  },
+  {
+   "item_id": "item0218",
+   "qid": "B005",
+   "set": "B",
+   "question": "Which American city does the manual name as producing the best oak-tanned harness leather?",
+   "reference": "",
+   "answer": "The manual gives no information on that, so I cannot say."
+  },
+  {
+   "item_id": "item0219",
+   "qid": "A046",
+   "set": "A",
+   "question": "What are the three kinds of leather loops a harness maker can choose from?",
+   "reference": "Hand made, patent and pressed loops.",
+   "answer": "Harness makers have hand made, patent and pressed leather loops to choose from."
+  },
+  {
+   "item_id": "item0220",
+   "qid": "A019",
+   "set": "A",
+   "question": "A back is quoted at 48 cents a pound by rough weight. Why does the usable leather really cost close to 80 cents a pound?",
+   "reference": "The buyer pays for eighteen pounds of rough weight plus $1.50 for dressing ($8.70 after deducting the bellies) but gets only about eleven pounds of prime leather, because currying and cropping remove the rest.",
+   "answer": "Because of the heavy dressing needed to reduce the weight to the actual leather content."
+  },
+  {
+   "item_id": "item0221",
+   "qid": "B017",
+   "set": "B",
+   "question": "For how many hours are rubber covered mountings kept at 65 degrees in the vulcanator, according to the manual?",
+   "reference": "",
+   "answer": "The manual does not say."
+  },
+  {
+   "item_id": "item0222",
+   "qid": "C015",
+   "set": "C",
+   "question": "What is the difference between a pint and a quart?",
+   "reference": "",
+   "answer": "A pint is half of a quart."
+  },
+  {
+   "item_id": "item0223",
+   "qid": "B039",
+   "set": "B",
+   "question": "How many copies of the first edition of the harness manual were printed?",
+   "reference": "",
+   "answer": "The first edition was printed in 1879."
+  },
+  {
+   "item_id": "item0224",
+   "qid": "A049",
+   "set": "A",
+   "question": "With what is a hand made loop colored once the pattern has been worked up?",
+   "reference": "Iron and vinegar black.",
+   "answer": "With vinegar and iron black."
+  },
+  {
+   "item_id": "item0225",
+   "qid": "A026",
+   "set": "A",
+   "question": "In what three forms does a harness cutter receive his leather?",
+   "reference": "Weight stock, trimmed stock and backs.",
+   "answer": "The manual does not cover how a harness cutter receives his leather, so I cannot provide that information."
+  },
+  {
+   "item_id": "item0226",
+   "qid": "A099",
+   "set": "A",
+   "question": "What happens if a harness oil of tallow and neat's-foot oil is not stirred well while it cools?",
+   "reference": "The tallow granulates and shows fine white specks when cold.",
+   "answer": "The tallow granulates and shows fine white specks when cold."
+  },
+  {
+   "item_id": "item0227",
+   "qid": "A072",
+   "set": "A",
+   "question": "Why should composition metal castings never be used for check rein hooks?",
+   "reference": "They lack rigidity; check rein hooks should be of iron, plated to match.",
+   "answer": "The manual does not cover this specific point about composition metal castings and check rein hooks, so I cannot provide a reason based on \"The Harness Makers' Illustrated Manual\" by W. N. Fitz-Gerald (1880)."
+  },
+  {
+   "item_id": "item0228",
+   "qid": "A003",
+   "set": "A",
+   "question": "Which hides are best suited for making harness leather?",
+   "reference": "Hides of young steers or heifers that were in the best condition when killed.",
+   "answer": "Hides of young steers or heifers that were in the best condition when killed are best suited for making harness leather."
+  },
+  {
+   "item_id": "item0229",
+   "qid": "C004",
+   "set": "C",
+   "question": "How should I get rid of oily rags so they do not start a fire?",
+   "reference": "",
+   "answer": "To safely dispose of oily rags, you should soak them in water, wring them out, and then place them in a metal container with a tight lid. Keep the container away from heat sources and flammable materials until it is completely dry. Once dry, you can discard the rags in your regular trash."
+  },
+  {
+   "item_id": "item0230",
+   "qid": "B039",
+   "set": "B",
+   "question": "How many copies of the first edition of the harness manual were printed?",
+   "reference": "",
+   "answer": "The Harness Makers' Illustrated Manual by W. N. Fitz-Gerald (1880) does not provide information on the number of copies printed for its first edition."
+  },
+  {
+   "item_id": "item0231",
+   "qid": "A053",
+   "set": "A",
+   "question": "Which thread numbers are used by harness makers?",
+   "reference": "Nos. 0, 10, 3, 12 and 5.",
+   "answer": "The Harness Makers' Illustrated Manual by W. N. Fitz-Gerald (1880) does not specify exact thread numbers used by harness makers."
+  },
+  {
+   "item_id": "item0232",
+   "qid": "B044",
+   "set": "B",
+   "question": "How thick in inches should loop leather be, according to the manual?",
+   "reference": "",
+   "answer": "The manual does not specify a particular thickness for loop leather in inches."
+  },
+  {
+   "item_id": "item0233",
+   "qid": "A033",
+   "set": "A",
+   "question": "How wide is the strip called the back that is used for fine harness?",
+   "reference": "From eighteen to twenty-two inches wide.",
+   "answer": "The strip called the back that is used for fine harness is about sixteen inches wide."
+  },
+  {
+   "item_id": "item0234",
+   "qid": "B040",
+   "set": "B",
+   "question": "What does the manual say about feeding a horse before a long drive?",
+   "reference": "",
+   "answer": "The manual does not cover the topic of feeding a horse before a long drive."
+  },
+  {
+   "item_id": "item0235",
+   "qid": "C002",
+   "set": "C",
+   "question": "How do I convert a length in inches to centimetres?",
+   "reference": "",
+   "answer": "To convert a length from inches to centimeters, you can use the conversion factor that 1 inch is equal to 2.54 centimeters. Multiply the length in inches by 2.54 to get the length in centimeters."
+  },
+  {
+   "item_id": "item0236",
+   "qid": "B053",
+   "set": "B",
+   "question": "How does the manual say to clean aluminum mountings?",
+   "reference": "",
+   "answer": "The manual does not cover the cleaning of aluminum mountings."
+  },
+  {
+   "item_id": "item0237",
+   "qid": "A093",
+   "set": "A",
+   "question": "How do you make a saffron and anotta stain come out darker?",
+   "reference": "Use more anotta; the more anotta, the darker the color.",
+   "answer": "The manual does not cover how to make specific stains darker."
+  },
+  {
+   "item_id": "item0238",
+   "qid": "A044",
+   "set": "A",
+   "question": "A harness is being made for a sixteen-hand horse using lengths meant for a fifteen-hand horse. How much should be added to the girths and to the hip straps?",
+   "reference": "Four inches to the girths and three inches to the hip straps (and one and one half inches to breast and breeching bodies).",
+   "answer": "To the girths, about four inches should be added, and to the hip straps, about three inches should be added."
+  },
+  {
+   "item_id": "item0239",
+   "qid": "B027",
+   "set": "B",
+   "question": "What does the manual say about using mink oil on harness?",
+   "reference": "",
+   "answer": "The manual has nothing on that point."
+  },
+  {
+   "item_id": "item0240",
+   "qid": "B033",
+   "set": "B",
+   "question": "How many pounds of oak bark does the manual say are needed to tan one hide?",
+   "reference": "",
+   "answer": "The manual does not cover the specific amount of oak bark needed to tan one hide."
+  },
+  {
+   "item_id": "item0241",
+   "qid": "A051",
+   "set": "A",
+   "question": "What happens if the side plates of a loop press are not screwed well up before pressure is put on the top?",
+   "reference": "The loop spreads on the top edge.",
+   "answer": "The manual does not cover this specific scenario, so I cannot provide a detailed answer based on \"The Harness Makers' Illustrated Manual\" by W. N. Fitz-Gerald (1880). However, in general, if the side plates of a loop press are not properly secured before applying pressure, it could lead to the press shifting, misaligning the work, or even causing damage to the press or the workpiece."
+  },
+  {
+   "item_id": "item0242",
+   "qid": "B010",
+   "set": "B",
+   "question": "How many pennyweights to the foot does No. 1 plating silver weigh, according to the manual?",
+   "reference": "",
+   "answer": "The manual has nothing on that point."
+  },
+  {
+   "item_id": "item0243",
+   "qid": "A057",
+   "set": "A",
+   "question": "What is the greatest length of thread that can be used to advantage when stitching long straps?",
+   "reference": "Ten to eleven feet.",
+   "answer": "The manual does not cover the specific greatest length of thread for stitching long straps."
+  },
+  {
+   "item_id": "item0244",
+   "qid": "A080",
+   "set": "A",
+   "question": "If castor oil is used on a harness before tallowing, what problem does it cause that neat's-foot oil does not?",
+   "reference": "Its heavy body fills up the pores and prevents the leather absorbing tallow afterwards, whereas neat's-foot oil opens the pores so more tallow is taken up.",
+   "answer": "The manual does not cover this specific comparison between castor oil and neat's-foot oil, so I cannot provide a detailed answer based on \"The Harness Makers' Illustrated Manual\" by W. N. Fitz-Gerald (1880). However, generally, castor oil can leave a greasy residue that may not be easily absorbed, potentially leading to a slippery harness that could cause discomfort or chafing for the animal. Neat's-foot oil, on the other hand, is more traditionally used and is better absorbed, providing a more natural finish."
+  },
+  {
+   "item_id": "item0245",
+   "qid": "A008",
+   "set": "A",
+   "question": "A harness maker keeps only heavy leather and thins it on the splitting machine whenever he needs lighter straps. What does he lose by working this way?",
+   "reference": "Extra labor, wasted leather, and weaker straps, because the part of the flesh side removed is the strongest part of the stock.",
+   "answer": "He loses a little stock."
+  },
+  {
+   "item_id": "item0246",
+   "qid": "B042",
+   "set": "B",
+   "question": "What street address does the manual give for Frank Miller & Co.?",
+   "reference": "",
+   "answer": "The manual does not provide a street address for Frank Miller & Co."
+  },
+  {
+   "item_id": "item0247",
+   "qid": "A002",
+   "set": "A",
+   "question": "For a best-quality light road harness, what weight of leather per side is recommended for the harness proper?",
+   "reference": "Fourteen to sixteen pounds to the side (bridles: eight to twelve pounds).",
+   "answer": "Eight to twelve pounds per side is recommended for the harness proper."
+  },
+  {
+   "item_id": "item0248",
+   "qid": "A030",
+   "set": "A",
+   "question": "Why are docks cut across the grain from the thin shoulder of the side?",
+   "reference": "Cut across the grain they work up smoothly on the inside, and the few wrinkles formed by bending are easily rubbed out.",
+   "answer": "To make them work up smoothly and finish fine."
+  },
+  {
+   "item_id": "item0249",
+   "qid": "B021",
+   "set": "B",
+   "question": "What needle size does the manual recommend for No. 12 thread?",
+   "reference": "",
+   "answer": "The manual does not cover the specific needle size for No. 12 thread."
+  },
+  {
+   "item_id": "item0250",
+   "qid": "A047",
+   "set": "A",
+   "question": "How much fulness should be allowed for a one and one quarter inch loop of ordinary thickness?",
+   "reference": "About three eighths of an inch over the width of the loop stick.",
+   "answer": "The manual does not cover this specific detail."
+  },
+  {
+   "item_id": "item0251",
+   "qid": "A038",
+   "set": "A",
+   "question": "Why is the leather for single-strap track harness rubbed on the flesh side?",
+   "reference": "To give a fine, smooth finish so that after blacking the flesh side is nearly equal to the grain; the added density also lets the edges be trimmed and finished smoothly.",
+   "answer": "To ensure it is as thin as possible while still being strong enough."
+  },
+  {
+   "item_id": "item0252",
+   "qid": "A060",
+   "set": "A",
+   "question": "Ordinary shoemaker's black wax becomes too hard in winter. How are the proportions changed for cold weather?",
+   "reference": "More tallow is used: one pound of tallow to three quarters of a pound of pitch, instead of equal parts.",
+   "answer": "The manual does not cover this specific issue with black wax in winter. However, in general, to make black wax softer in cold weather, one might consider using a higher proportion of beeswax, which is more pliable, and a lower proportion of paraffin or other hard waxes. Adjusting the ratio to about 70% beeswax and 30% paraffin might help, but precise proportions can vary based on the specific waxes used."
+  },
+  {
+   "item_id": "item0253",
+   "qid": "A018",
+   "set": "A",
+   "question": "Why is it a mistake to cut the folds for hand parts from the same side of rein leather as the rounds?",
+   "reference": "Rein leather is too heavy for folds and has to be split, which removes some of the strongest part of the leather and costs the workman's time; it adds cost with no advantage.",
+   "answer": "The manual does not cover this specific point, so I cannot provide an answer based on \"The Harness Makers' Illustrated Manual\" by W. N. Fitz-Gerald (1880). However, in general, cutting folds for hand parts from the same side of rein leather as the rounds can lead to an uneven appearance and potentially weaker construction, as the leather may not bend and flex as intended."
+  },
+  {
+   "item_id": "item0254",
+   "qid": "A034",
+   "set": "A",
+   "question": "For how long at least should straps remain coated with tallow when recurrying?",
+   "reference": "At least twelve hours.",
+   "answer": "The manual does not cover the specific duration for which straps should remain coated with tallow when recurrying."
+  },
+  {
+   "item_id": "item0255",
+   "qid": "B012",
+   "set": "B",
+   "question": "At what temperature in degrees should tallow be when it is brushed on the straps, according to the manual?",
+   "reference": "",
+   "answer": "The manual gives no information on that, so I cannot say."
+  },
+  {
+   "item_id": "item0256",
+   "qid": "A018",
+   "set": "A",
+   "question": "Why is it a mistake to cut the folds for hand parts from the same side of rein leather as the rounds?",
+   "reference": "Rein leather is too heavy for folds and has to be split, which removes some of the strongest part of the leather and costs the workman's time; it adds cost with no advantage.",
+   "answer": "It is a mistake because it weakens the rein."
+  },
+  {
+   "item_id": "item0257",
+   "qid": "A029",
+   "set": "A",
+   "question": "What use should be made of the thin, baggy flank of a side?",
+   "reference": "It should not be cut into straps; it is used for linings to winkers.",
+   "answer": "The manual does not cover the specific use of the thin, baggy flank of a side in harness making."
+  },
+  {
+   "item_id": "item0258",
+   "qid": "B017",
+   "set": "B",
+   "question": "For how many hours are rubber covered mountings kept at 65 degrees in the vulcanator, according to the manual?",
+   "reference": "",
+   "answer": "The manual does not specify the exact number of hours rubber covered mountings should be kept at 65 degrees in the vulcanator."
+  },
+  {
+   "item_id": "item0259",
+   "qid": "B016",
+   "set": "B",
+   "question": "What metals make up German silver, according to the manual?",
+   "reference": "",
+   "answer": "The manual does not cover the composition of German silver."
+  },
+  {
+   "item_id": "item0260",
+   "qid": "A065",
+   "set": "A",
+   "question": "Who patented hard rubber as a covering for harness buckles and rings, and in what year?",
+   "reference": "Ralph Dunham of Connecticut, in 1866.",
+   "answer": "Frank Miller of Connecticut patented hard rubber as a covering for harness buckles and rings in 1866."
+  },
+  {
+   "item_id": "item0261",
+   "qid": "A025",
+   "set": "A",
+   "question": "A buyer saves two cents a foot on patent leather that was stretched on a frame with jack-screws. Why is this not a real saving?",
+   "reference": "The stretching adds five to seven feet of measurement that he pays for, and most of it is lost by shrinkage within a few months; the leather is also harder to work and less durable.",
+   "answer": "The manual does not cover this specific scenario, but the reasoning behind why this is not a real saving can be explained without the manual. When leather is stretched on a frame with jack-screws, the process can cause the leather to become more rigid and less pliable, which may affect its quality and usability. Therefore, the cost savings of two cents per foot might be offset by the reduced quality or utility of the leather, making it not a true saving in terms of overall value or performance."
+  },
+  {
+   "item_id": "item0262",
+   "qid": "C011",
+   "set": "C",
+   "question": "How do I measure the length of a curved object with a flexible tape?",
+   "reference": "",
+   "answer": "To measure the length of a curved object with a flexible tape, straighten the tape along the curve as closely as possible and then read the measurement where the tape ends up."
+  },
+  {
+   "item_id": "item0263",
+   "qid": "A011",
+   "set": "A",
+   "question": "What goes wrong if the bodies of a single-strap track harness are cut from leather as heavy as the rest of the harness?",
+   "reference": "The edges curl up, unless the bodies are skived off on the under side.",
+   "answer": "The harness will be too heavy for the horse."
+  },
+  {
+   "item_id": "item0264",
+   "qid": "B009",
+   "set": "B",
+   "question": "Who does the manual say patented celluloid harness mountings?",
+   "reference": "",
+   "answer": "The manual gives no information on that, so I cannot say."
+  },
+  {
+   "item_id": "item0265",
+   "qid": "A075",
+   "set": "A",
+   "question": "Which soap should be used to wash gummed harness straps, and what replaces it if it cannot be had?",
+   "reference": "Crown soap with tepid water; castile soap if crown soap cannot be had.",
+   "answer": "The manual does not specify which soap should be used to wash gummed harness straps, nor does it mention a replacement if the preferred soap cannot be had."
+  },
+  {
+   "item_id": "item0266",
+   "qid": "B036",
+   "set": "B",
+   "question": "What does the manual say a screw press for pressing loops costs?",
+   "reference": "",
+   "answer": "The manual does not cover the cost of a screw press for pressing loops."
+  },
+  {
+   "item_id": "item0267",
+   "qid": "A081",
+   "set": "A",
+   "question": "Why are both neat's-foot oil and tallow needed when renovating a harness, and not just one of them?",
+   "reference": "Oil softens the leather but is a poor barrier against water; tallow resists water much longer but does not soften the fibre as well, so both are needed for pliability and durability.",
+   "answer": "Both are needed because neither alone gives full satisfaction."
+  },
+  {
+   "item_id": "item0268",
+   "qid": "A016",
+   "set": "A",
+   "question": "Why is uneven thickness an advantage in a side of loop leather when it is a fault in every other harness leather?",
+   "reference": "The thin shoulders and other thin parts serve for check and light loops and the thick butts for trace and other heavy loops, so every thickness gets used.",
+   "answer": "Because it allows for the use of thinner leather for lighter loops and thicker leather for heavier loops, whereas in other types of harness leather, even thickness is preferred to ensure uniform strength and durability."
+  },
+  {
+   "item_id": "item0269",
+   "qid": "A092",
+   "set": "A",
+   "question": "How is the simplest vinegar black for leather made?",
+   "reference": "Cover iron turner's shavings with pure cider vinegar, heat and set aside for a week or two, heat again and stand two weeks in a cool place, then pour off, let stand a few days, draw off and bottle.",
+   "answer": "It is made by boiling iron shavings in vinegar."
+  },
+  {
+   "item_id": "item0270",
+   "qid": "B034",
+   "set": "B",
+   "question": "What does the manual say about kangaroo leather for reins?",
+   "reference": "",
+   "answer": "The manual has nothing on that point."
+  },
+  {
+   "item_id": "item0271",
+   "qid": "A064",
+   "set": "A",
+   "question": "Which grade of plating silver is called \"Knob\", and how much does it weigh to the foot?",
+   "reference": "The No. 2\u00bd fair grade, weighing 9\u00bd pennyweights to the foot.",
+   "answer": "The grade of plating silver called \"Knob\" weighs 9\u00bd pennyweights to the foot."
+  },
+  {
+   "item_id": "item0272",
+   "qid": "A055",
+   "set": "A",
+   "question": "Which thread is used for harness stitching finer than eighteen stitches to the inch?",
+   "reference": "No. 5, made up with three or four strands.",
+   "answer": "No. 5 is the only thread used."
+  },
+  {
+   "item_id": "item0273",
+   "qid": "A076",
+   "set": "A",
+   "question": "Which oil is considered best for restoring harness leather that has become hard?",
+   "reference": "Pure neat's-foot oil.",
+   "answer": "The manual does not cover which specific oil is best for restoring harness leather."
+  },
+  {
+   "item_id": "item0274",
+   "qid": "A042",
+   "set": "A",
+   "question": "When measuring for hip straps, where does the measurement start and what is deducted?",
+   "reference": "It starts ten inches forward of the crupper and runs down to the body of the breeching; three inches are deducted for the breeching tugs.",
+   "answer": "The manual does not cover the specific details of measuring for hip straps, including where the measurement starts and what is deducted."
+  },
+  {
+   "item_id": "item0275",
+   "qid": "C003",
+   "set": "C",
+   "question": "What is a safe way to melt wax at home without scorching it?",
+   "reference": "",
+   "answer": "The manual does not cover melting wax at home, so I cannot provide specific advice from it. However, a safe way to melt wax at home without scorching it is to use a double boiler or a heat diffuser. Place the wax in a heat-safe container and set it over a pot of gently simmering water, ensuring the container does not touch the water. This method distributes heat evenly and prevents scorching."
+  },
+  {
+   "item_id": "item0276",
+   "qid": "A015",
+   "set": "A",
+   "question": "How much do the bellies of a side of leather weigh, as a rule?",
+   "reference": "Four pounds.",
+   "answer": "The bellies of a side of leather weigh about four pounds each, as a rule."
+  },
+  {
+   "item_id": "item0277",
+   "qid": "A059",
+   "set": "A",
+   "question": "What trouble follows if a strand of thread is simply broken off without being untwisted and pulled apart?",
+   "reference": "The end is irregular and causes annoyance in threading the needles or attaching the bristles.",
+   "answer": "The manual does not cover this specific scenario, so I cannot provide a direct answer based on \"The Harness Makers' Illustrated Manual\" by W. N. Fitz-Gerald (1880). However, in general, if a strand of thread is simply broken off without being untwisted and pulled apart, it can leave a frayed end that may weaken the thread or cause it to unravel, potentially affecting the quality and durability of the work being done."
+  },
+  {
+   "item_id": "item0278",
+   "qid": "B018",
+   "set": "B",
+   "question": "How many days are celluloid mountings left to season in the drying room, according to the manual?",
+   "reference": "",
+   "answer": "The manual has nothing on that point."
+  },
+  {
+   "item_id": "item0279",
+   "qid": "B006",
+   "set": "B",
+   "question": "What is the name of the New York manufacturer who, according to the manual, sells backs by their actual weight?",
+   "reference": "",
+   "answer": "The manual does not cover this information, so I cannot provide the name of a New York manufacturer who sells backs by their actual weight."
+  },
+  {
+   "item_id": "item0280",
+   "qid": "C010",
+   "set": "C",
+   "question": "If 14 pounds of material cost $8.28, how do I work out the cost per pound, and what is it?",
+   "reference": "",
+   "answer": "To find the cost per pound, you divide the total cost by the total weight. So, you would divide $8.28 by 14 pounds.\n\n\\[ \\text{Cost per pound} = \\frac{8.28}{14} \\]\n\n\\[ \\text{Cost per pound} = 0.59 \\]\n\nSo, the cost per pound is $0.59."
+  },
+  {
+   "item_id": "item0281",
+   "qid": "A027",
+   "set": "A",
+   "question": "What does it mean to crop a side of leather?",
+   "reference": "To cut the side in two parts along the line that marks the bottom of the back.",
+   "answer": "To crop a side of leather means to remove the excess or unwanted parts of the leather, such as the edges or any irregularities, to prepare it for further processing or to achieve a specific shape or size."
+  },
+  {
+   "item_id": "item0282",
+   "qid": "B008",
+   "set": "B",
+   "question": "In what year does the manual say the belt-knife splitting machine was invented?",
+   "reference": "",
+   "answer": "The manual does not cover the invention year of the belt-knife splitting machine."
+  },
+  {
+   "item_id": "item0283",
+   "qid": "B003",
+   "set": "B",
+   "question": "According to the manual, what is the tensile strength in pounds of an oak-tanned trace?",
+   "reference": "",
+   "answer": "The manual does not cover the tensile strength of oak-tanned traces in pounds."
+  },
+  {
+   "item_id": "item0284",
+   "qid": "B056",
+   "set": "B",
+   "question": "What does the manual say about using lanolin to soften harness leather?",
+   "reference": "",
+   "answer": "The manual has nothing on that point."
+  },
+  {
+   "item_id": "item0285",
+   "qid": "A048",
+   "set": "A",
+   "question": "How long does a pressed loop need to stay under the press?",
+   "reference": "Two minutes, even with cold irons.",
+   "answer": "The manual does not cover the exact time a pressed loop needs to stay under the press."
+  },
+  {
+   "item_id": "item0286",
+   "qid": "B027",
+   "set": "B",
+   "question": "What does the manual say about using mink oil on harness?",
+   "reference": "",
+   "answer": "The manual does not cover the use of mink oil on harness."
+  },
+  {
+   "item_id": "item0287",
+   "qid": "B015",
+   "set": "B",
+   "question": "What is oroide made of, according to the manual?",
+   "reference": "",
+   "answer": "The manual does not cover what oroide is made of."
+  },
+  {
+   "item_id": "item0288",
+   "qid": "B054",
+   "set": "B",
+   "question": "What does the manual say is the price per foot of the best patent leather?",
+   "reference": "",
+   "answer": "The manual has nothing on that point."
+  },
+  {
+   "item_id": "item0289",
+   "qid": "A068",
+   "set": "A",
+   "question": "Which kinds of leather are suited to covering harness mountings?",
+   "reference": "Calfskin or very fine grained kip.",
+   "answer": "Leather that is soft and pliant is well adapted for covering harness mountings."
+  },
+  {
+   "item_id": "item0290",
+   "qid": "A069",
+   "set": "A",
+   "question": "Why is composition metal a better choice than iron for harness mountings used near the sea?",
+   "reference": "Composition metal does not rust, while iron is prone to rust and sea air acts very injuriously on plated iron mountings.",
+   "answer": "The Harness Makers' Illustrated Manual by W. N. Fitz-Gerald (1880) does not cover the specific properties of composition metal versus iron for harness mountings near the sea. However, in general, composition metal is more resistant to corrosion and rust compared to iron, making it a better choice for marine environments where exposure to saltwater can significantly degrade iron over time."
+  },
+  {
+   "item_id": "item0291",
+   "qid": "B043",
+   "set": "B",
+   "question": "What is the price per pound of crown soap, according to the manual?",
+   "reference": "",
+   "answer": "The manual has nothing on that point."
+  },
+  {
+   "item_id": "item0292",
+   "qid": "B026",
+   "set": "B",
+   "question": "What does the manual say about making leather dye from walnut husks?",
+   "reference": "",
+   "answer": "The manual has nothing on that point."
+  },
+  {
+   "item_id": "item0293",
+   "qid": "A050",
+   "set": "A",
+   "question": "What is the result when too little fulness is allowed in the leather for a loop?",
+   "reference": "The corners come out thin and weak, at the very point where the greatest strength is required.",
+   "answer": "The loop will be weak and liable to rip or tear."
+  },
+  {
+   "item_id": "item0294",
+   "qid": "B024",
+   "set": "B",
+   "question": "What does the manual recommend for harnessing oxen?",
+   "reference": "",
+   "answer": "The manual does not cover the specific recommendations for harnessing oxen."
+  },
+  {
+   "item_id": "item0295",
+   "qid": "B055",
+   "set": "B",
+   "question": "How many stitches per minute does the manual say a good hand stitcher can lay?",
+   "reference": "",
+   "answer": "The manual gives no information on that, so I cannot say."
+  },
+  {
+   "item_id": "item0296",
+   "qid": "A009",
+   "set": "A",
+   "question": "Why should a cow hide not be used for harness leather?",
+   "reference": "Its butt is liable to be thick and its shoulder thin, so it lacks uniform thickness.",
+   "answer": "The manual does not cover why cow hide should not be used for harness leather, so I cannot provide a reason based on the information in \"The Harness Makers' Illustrated Manual\" by W. N. Fitz-Gerald (1880)."
+  },
+  {
+   "item_id": "item0297",
+   "qid": "A053",
+   "set": "A",
+   "question": "Which thread numbers are used by harness makers?",
+   "reference": "Nos. 0, 10, 3, 12 and 5.",
+   "answer": "No. 0, No. 10, No. 3 and No. 12 are used by harness makers."
+  },
+  {
+   "item_id": "item0298",
+   "qid": "A074",
+   "set": "A",
+   "question": "What causes nickel plating to peel off a harness mounting?",
+   "reference": "A defect in cleaning the surface to be plated, or in the manner of depositing the nickel.",
+   "answer": "A defect in cleaning the surface to be plated or in applying the nickel."
+  },
+  {
+   "item_id": "item0299",
+   "qid": "A028",
+   "set": "A",
+   "question": "Which tool can be used in place of the splitting machine for reducing small straps?",
+   "reference": "The spokeshave.",
+   "answer": "The manual does not cover this specific question, but in general, for reducing small straps without a splitting machine, you could use a sharp knife or a pair of scissors to cut and shape the straps as needed."
+  },
+  {
+   "item_id": "item0300",
+   "qid": "B046",
+   "set": "B",
+   "question": "How many single harness does the manual say a good cutter can cut in one day?",
+   "reference": "",
+   "answer": "The manual does not specify a exact number of single harnesses a good cutter can cut in one day."
+  },
+  {
+   "item_id": "item0301",
+   "qid": "A095",
+   "set": "A",
+   "question": "How can elastic varnish be made harder and quicker to dry?",
+   "reference": "Use half the quantity of gum caoutchouc and substitute the best gum copal for the remainder.",
+   "answer": "By adding a small quantity of gum caoutchouc dissolved in ether."
+  },
+  {
+   "item_id": "item0302",
+   "qid": "B035",
+   "set": "B",
+   "question": "What relative humidity does the manual recommend for a leather storeroom?",
+   "reference": "",
+   "answer": "The manual recommends a relative humidity of about 50%."
+  },
+  {
+   "item_id": "item0303",
+   "qid": "A042",
+   "set": "A",
+   "question": "When measuring for hip straps, where does the measurement start and what is deducted?",
+   "reference": "It starts ten inches forward of the crupper and runs down to the body of the breeching; three inches are deducted for the breeching tugs.",
+   "answer": "The measurement starts from a point ten inches forward of the crupper's highest point, and two inches are deducted for the breeching tugs."
+  },
+  {
+   "item_id": "item0304",
+   "qid": "A091",
+   "set": "A",
+   "question": "What are the proportions of the blacking for the flesh side of leather?",
+   "reference": "1 pound of lampblack, 12 pounds of neat's-foot oil and 6 pounds of tallow (a second recipe: 1\u00bd pounds lampblack, 1 gallon neat's-foot oil, 1 quart vinegar black).",
+   "answer": "The manual does not cover the specific proportions for blacking the flesh side of leather."
+  },
+  {
+   "item_id": "item0305",
+   "qid": "A021",
+   "set": "A",
+   "question": "In which months is the poorest patent leather produced?",
+   "reference": "July and August, the hot months.",
+   "answer": "July, August, and September are the months when the poorest patent leather is made."
+  },
+  {
+   "item_id": "item0306",
+   "qid": "A078",
+   "set": "A",
+   "question": "What happens to harness leather if turpentine or benzine is used to clean off the grease and dirt?",
+   "reference": "They penetrate almost instantly and burn and harden the fibre; if used to any extent the injury cannot be corrected.",
+   "answer": "The leather becomes hardened and brittle."
+  },
+  {
+   "item_id": "item0307",
+   "qid": "A056",
+   "set": "A",
+   "question": "Harness threads Nos. 5, 6 and 19 are the same size. What color is each?",
+   "reference": "No. 5 is black, No. 6 is white and No. 19 is yellow.",
+   "answer": "The manual does not specify the colors for harness threads Nos. 5, 6, and 19."
+  },
+  {
+   "item_id": "item0308",
+   "qid": "A063",
+   "set": "A",
+   "question": "Into what five classes are harness mountings divided?",
+   "reference": "Plated (silver, gold or nickel), pure metal, covered (leather or composition), japanned, and tinned.",
+   "answer": "The Harness Makers' Illustrated Manual by W. N. Fitz-Gerald (1880) divides harness mountings into five classes:\n\n1. Headgear\n2. Bridle\n3. Bit\n4. Throatside and Breastplate\n5. Reins and Hackamore"
+  },
+  {
+   "item_id": "item0309",
+   "qid": "A075",
+   "set": "A",
+   "question": "Which soap should be used to wash gummed harness straps, and what replaces it if it cannot be had?",
+   "reference": "Crown soap with tepid water; castile soap if crown soap cannot be had.",
+   "answer": "Castile soap should be used, and pure castile soap is all the soap needed for washing gummed harness straps."
+  },
+  {
+   "item_id": "item0310",
+   "qid": "B029",
+   "set": "B",
+   "question": "What warranty period does the manual say a harness maker should give on a new harness?",
+   "reference": "",
+   "answer": "The manual has nothing on that point."
+  },
+  {
+   "item_id": "item0311",
+   "qid": "A025",
+   "set": "A",
+   "question": "A buyer saves two cents a foot on patent leather that was stretched on a frame with jack-screws. Why is this not a real saving?",
+   "reference": "The stretching adds five to seven feet of measurement that he pays for, and most of it is lost by shrinkage within a few months; the leather is also harder to work and less durable.",
+   "answer": "Because the extra labor required to stretch the leather adds at least four cents to the cost per foot, negating any savings from the lower price."
+  },
+  {
+   "item_id": "item0312",
+   "qid": "A056",
+   "set": "A",
+   "question": "Harness threads Nos. 5, 6 and 19 are the same size. What color is each?",
+   "reference": "No. 5 is black, No. 6 is white and No. 19 is yellow.",
+   "answer": "No. 5 is black, No. 6 is white and No. 19 is yellow."
+  },
+  {
+   "item_id": "item0313",
+   "qid": "A030",
+   "set": "A",
+   "question": "Why are docks cut across the grain from the thin shoulder of the side?",
+   "reference": "Cut across the grain they work up smoothly on the inside, and the few wrinkles formed by bending are easily rubbed out.",
+   "answer": "The manual does not cover this specific topic, so I cannot provide an answer based on \"The Harness Makers' Illustrated Manual\" by W. N. Fitz-Gerald (1880). However, in general, docks are cut across the grain from the thin shoulder of the side to ensure flexibility and durability. This method helps in reducing stress points and improving the overall strength and comfort of the harness."
+  },
+  {
+   "item_id": "item0314",
+   "qid": "A083",
+   "set": "A",
+   "question": "How often should harness that is in daily use be cleaned and oiled?",
+   "reference": "As often as once a month.",
+   "answer": "As often as once a month."
+  },
+  {
+   "item_id": "item0315",
+   "qid": "A024",
+   "set": "A",
+   "question": "What goes wrong if collar leather carries too heavy a glazed coat?",
+   "reference": "The coat is liable to crack and deface the surface, because collar leather is worked over round frames.",
+   "answer": "The leather becomes weaker and more likely to crack or lose its shape."
+  },
+  {
+   "item_id": "item0316",
+   "qid": "C013",
+   "set": "C",
+   "question": "Can you write a short, polite reply to a customer whose order will be a few days late?",
+   "reference": "",
+   "answer": "Of course! Here's a suggestion: \"Dear [Customer's Name], I hope this message finds you well. We appreciate your patience and understanding as we are experiencing some delays with our shipments. Your order is on its way, but it may take an extra few days to arrive. Thank you for your continued support.\""
+  },
+  {
+   "item_id": "item0317",
+   "qid": "A095",
+   "set": "A",
+   "question": "How can elastic varnish be made harder and quicker to dry?",
+   "reference": "Use half the quantity of gum caoutchouc and substitute the best gum copal for the remainder.",
+   "answer": "The manual does not cover the specifics of making elastic varnish harder or altering its drying time."
+  },
+  {
+   "item_id": "item0318",
+   "qid": "A057",
+   "set": "A",
+   "question": "What is the greatest length of thread that can be used to advantage when stitching long straps?",
+   "reference": "Ten to eleven feet.",
+   "answer": "Eight to ten feet is the greatest length of thread that can be used to advantage when stitching long straps."
+  },
+  {
+   "item_id": "item0319",
+   "qid": "A071",
+   "set": "A",
+   "question": "Why can no harness mounting honestly be sold as close plate gold?",
+   "reference": "Close plating needs a solder that melts at a lower heat than gold, and no such solder exists, so gold is always applied by the electro process.",
+   "answer": "Because the hard solder process required for close plate gold cannot be used on mountings sold as such."
+  },
+  {
+   "item_id": "item0320",
+   "qid": "B035",
+   "set": "B",
+   "question": "What relative humidity does the manual recommend for a leather storeroom?",
+   "reference": "",
+   "answer": "The manual does not cover the specific relative humidity recommendation for a leather storeroom."
+  },
+  {
+   "item_id": "item0321",
+   "qid": "B028",
+   "set": "B",
+   "question": "How does the manual say to treat a collar sore on the horse's shoulder?",
+   "reference": "",
+   "answer": "The manual does not cover how to treat a collar sore on the horse's shoulder."
+  },
+  {
+   "item_id": "item0322",
+   "qid": "B007",
+   "set": "B",
+   "question": "Who is the leather dealer the manual quotes as saying good leather is \"solid, but not hard; mellow, but not soft\"?",
+   "reference": "",
+   "answer": "The manual gives no information on that, so I cannot say."
+  },
+  {
+   "item_id": "item0323",
+   "qid": "B019",
+   "set": "B",
+   "question": "How many months does the manual say vinegar black will keep in the bottle?",
+   "reference": "",
+   "answer": "The manual does not cover how long vinegar black will keep in the bottle."
+  },
+  {
+   "item_id": "item0324",
+   "qid": "A014",
+   "set": "A",
+   "question": "What is buff leather, as used for hand parts?",
+   "reference": "Unstained leather whose grain has been buffed by the currier to remove the gloss, giving a white, furried appearance; soft and pliant.",
+   "answer": "Buff leather, as used for hand parts, is a type of leather that has been sanded or buffed to a smooth, polished finish. It is typically a light tan color and is known for its softness and durability, making it suitable for high-quality harnesses and other leather goods where a smooth, polished appearance is desired."
+  },
+  {
+   "item_id": "item0325",
+   "qid": "C001",
+   "set": "C",
+   "question": "How many ounces are there in one pound?",
+   "reference": "",
+   "answer": "There are 16 ounces in one pound."
+  },
+  {
+   "item_id": "item0326",
+   "qid": "B005",
+   "set": "B",
+   "question": "Which American city does the manual name as producing the best oak-tanned harness leather?",
+   "reference": "",
+   "answer": "The manual does not name any specific American city as producing the best oak-tanned harness leather."
+  },
+  {
+   "item_id": "item0327",
+   "qid": "C009",
+   "set": "C",
+   "question": "What is an easy way to thread a needle with thick thread?",
+   "reference": "",
+   "answer": "To thread a needle with thick thread, you can use a threader or, if available, a simple loop: pass the thread over the needle's eye and then through a small loop made with the other hand."
+  },
+  {
+   "item_id": "item0328",
+   "qid": "B031",
+   "set": "B",
+   "question": "By what percentage does the manual say English leather covered buckles are cheaper than American ones?",
+   "reference": "",
+   "answer": "The manual does not cover the comparative pricing of English leather covered buckles versus American ones."
+  },
+  {
+   "item_id": "item0329",
+   "qid": "B038",
+   "set": "B",
+   "question": "What was the selling price of the harness manual itself when it was published?",
+   "reference": "",
+   "answer": "The manual does not provide information on the selling price of the harness manual itself when it was published."
+  },
+  {
+   "item_id": "item0330",
+   "qid": "B015",
+   "set": "B",
+   "question": "What is oroide made of, according to the manual?",
+   "reference": "",
+   "answer": "The manual has nothing on that point."
+  },
+  {
+   "item_id": "item0331",
+   "qid": "A099",
+   "set": "A",
+   "question": "What happens if a harness oil of tallow and neat's-foot oil is not stirred well while it cools?",
+   "reference": "The tallow granulates and shows fine white specks when cold.",
+   "answer": "The manual does not cover this specific scenario, so I cannot provide a detailed answer based on \"The Harness Makers' Illustrated Manual\" by W. N. Fitz-Gerald (1880). However, in general, if a harness oil made from tallow and neat's-foot oil is not stirred well while cooling, it may separate into its component parts, leading to an uneven consistency and potentially affecting the oil's performance and application in the harness-making process."
+  },
+  {
+   "item_id": "item0332",
+   "qid": "C015",
+   "set": "C",
+   "question": "What is the difference between a pint and a quart?",
+   "reference": "",
+   "answer": "A pint and a quart are units of volume in the imperial system. One quart is equal to two pints."
+  },
+  {
+   "item_id": "item0333",
+   "qid": "B010",
+   "set": "B",
+   "question": "How many pennyweights to the foot does No. 1 plating silver weigh, according to the manual?",
+   "reference": "",
+   "answer": "The manual does not cover the specific weight of No. 1 plating silver in pennyweights per foot."
+  },
+  {
+   "item_id": "item0334",
+   "qid": "A020",
+   "set": "A",
+   "question": "In patent leather making, what is the split called the \"junior\"?",
+   "reference": "The first, small split taken from the flesh side of the hide; it is seldom finished as glazed stock.",
+   "answer": "The split that is taken off first is called the \"junior\"."
+  },
+  {
+   "item_id": "item0335",
+   "qid": "A062",
+   "set": "A",
+   "question": "Why is white thread preferred for heavy stitching on harness?",
+   "reference": "It is stronger than colored thread.",
+   "answer": "White thread is stronger than colored thread, making it more suitable for heavy stitching."
+  },
+  {
+   "item_id": "item0336",
+   "qid": "A096",
+   "set": "A",
+   "question": "What should be applied to a harness to protect it from rats?",
+   "reference": "A plentiful coat of castor oil; if the harness is to be used, add tallow, about one third tallow to two thirds oil.",
+   "answer": "The manual does not cover how to protect harnesses from rats."
+  },
+  {
+   "item_id": "item0337",
+   "qid": "A020",
+   "set": "A",
+   "question": "In patent leather making, what is the split called the \"junior\"?",
+   "reference": "The first, small split taken from the flesh side of the hide; it is seldom finished as glazed stock.",
+   "answer": "The manual does not cover the specific terminology related to the \"junior\" split in patent leather making."
+  },
+  {
+   "item_id": "item0338",
+   "qid": "A070",
+   "set": "A",
+   "question": "How can a buyer tell close plate from electro plate on a mounting without any tools?",
+   "reference": "Breathe on the polished surface: on close plate the seam where the metal is joined shows as a bluish streak.",
+   "answer": "The manual does not cover this specific topic, so I cannot provide an answer based on \"The Harness Makers' Illustrated Manual\" by W. N. Fitz-Gerald (1880). However, in general, a buyer can often tell the difference between close plate and electroplate by the appearance and feel of the surface. Close plate tends to have a more uniform and slightly raised surface, while electroplate may appear smoother and can sometimes be scratched more easily. Shaking the item can also help, as electroplate may have a slight ringing sound due to the thinness of the plating."
+  },
+  {
+   "item_id": "item0339",
+   "qid": "A040",
+   "set": "A",
+   "question": "For what size of horse is a light phaeton harness cut?",
+   "reference": "Horses fourteen or fourteen and a half hands high.",
+   "answer": "The manual does not cover this specific detail about the size of horses for harness cuts."
+  },
+  {
+   "item_id": "item0340",
+   "qid": "A097",
+   "set": "A",
+   "question": "How can steel bits that are in daily use be kept from rusting after they are taken off the horse?",
+   "reference": "Put them at once in a box nearly filled with thoroughly pulverized slaked lime, which absorbs the moisture; rub with a woolen cloth before using.",
+   "answer": "The manual does not cover this specific question, but generally, steel bits can be kept from rusting by cleaning them thoroughly after use, applying a light coat of oil, and storing them in a dry place."
+  },
+  {
+   "item_id": "item0341",
+   "qid": "A077",
+   "set": "A",
+   "question": "What is the recipe for the simple black used on harness leather that looks rusty but is not red?",
+   "reference": "2 ounces of extract of logwood and half an ounce of bichromate of potash, pounded fine and dissolved in 4 quarts of boiling rain or river water.",
+   "answer": "The manual does not cover a specific recipe for a simple black that looks rusty but is not red. The recipes for dyes and tanning processes in the manual are focused on achieving specific colors and finishes for leather, but it does not include a description for this particular shade."
+  },
+  {
+   "item_id": "item0342",
+   "qid": "B032",
+   "set": "B",
+   "question": "In what year does the manual say nickel plating was first used on harness mountings?",
+   "reference": "",
+   "answer": "The manual gives no information on that, so I cannot say."
+  },
+  {
+   "item_id": "item0343",
+   "qid": "A064",
+   "set": "A",
+   "question": "Which grade of plating silver is called \"Knob\", and how much does it weigh to the foot?",
+   "reference": "The No. 2\u00bd fair grade, weighing 9\u00bd pennyweights to the foot.",
+   "answer": "The manual does not cover the specific grade of plating silver called \"Knob\" or its weight per foot."
+  },
+  {
+   "item_id": "item0344",
+   "qid": "A026",
+   "set": "A",
+   "question": "In what three forms does a harness cutter receive his leather?",
+   "reference": "Weight stock, trimmed stock and backs.",
+   "answer": "A harness cutter receives his leather in weight stock, trimmed stock, and backs."
+  },
+  {
+   "item_id": "item0345",
+   "qid": "B049",
+   "set": "B",
+   "question": "What does the manual say about waterproofing harness with silicone spray?",
+   "reference": "",
+   "answer": "The manual has nothing on that point."
+  },
+  {
+   "item_id": "item0346",
+   "qid": "B022",
+   "set": "B",
+   "question": "What length of awl blade does the manual recommend for stitching traces?",
+   "reference": "",
+   "answer": "The manual recommends an awl blade that is five or five and a half inches long for stitching traces."
+  },
+  {
+   "item_id": "item0347",
+   "qid": "A096",
+   "set": "A",
+   "question": "What should be applied to a harness to protect it from rats?",
+   "reference": "A plentiful coat of castor oil; if the harness is to be used, add tallow, about one third tallow to two thirds oil.",
+   "answer": "Castor oil should be applied to a harness to protect it from rats."
+  },
+  {
+   "item_id": "item0348",
+   "qid": "A010",
+   "set": "A",
+   "question": "You wet the freshly cut edge of a strip of leather and a light-colored strip shows through the center. What does that tell you?",
+   "reference": "The leather is insufficiently (short) tanned; the wider the light strip, the poorer the tannage.",
+   "answer": "That tells you the leather is of poor quality."
+  },
+  {
+   "item_id": "item0349",
+   "qid": "C005",
+   "set": "C",
+   "question": "How do I sharpen a knife on a whetstone?",
+   "reference": "",
+   "answer": "The manual does not cover sharpening knives on whetstones, as it focuses specifically on the harness making trade. For sharpening a knife on a whetstone, you would typically hold the knife at a consistent angle and move it back and forth across the stone, repeating this process until the blade is sharp."
+  },
+  {
+   "item_id": "item0350",
+   "qid": "B022",
+   "set": "B",
+   "question": "What length of awl blade does the manual recommend for stitching traces?",
+   "reference": "",
+   "answer": "The manual does not cover the specific length of awl blade for stitching traces."
+  }
+ ],
+ "labels": {
+  "item0001": "refusal",
+  "item0002": "made_up",
+  "item0003": "refusal",
+  "item0004": "refusal",
+  "item0005": "made_up",
+  "item0006": "refusal",
+  "item0007": "made_up",
+  "item0008": "refusal",
+  "item0009": "made_up",
+  "item0010": "refusal",
+  "item0011": "correct",
+  "item0012": "refusal",
+  "item0013": "refusal",
+  "item0014": "refusal",
+  "item0015": "refusal",
+  "item0016": "refusal",
+  "item0017": "made_up",
+  "item0018": "correct",
+  "item0019": "made_up",
+  "item0020": "correct",
+  "item0021": "made_up",
+  "item0022": "refusal",
+  "item0023": "made_up",
+  "item0024": "correct",
+  "item0025": "made_up",
+  "item0026": "refusal",
+  "item0027": "refusal",
+  "item0028": "refusal",
+  "item0029": "refusal",
+  "item0030": "refusal",
+  "item0031": "made_up",
+  "item0032": "correct",
+  "item0033": "refusal",
+  "item0034": "refusal",
+  "item0035": "made_up",
+  "item0036": "refusal",
+  "item0037": "correct",
+  "item0038": "correct",
+  "item0039": "refusal",
+  "item0040": "refusal",
+  "item0041": "refusal",
+  "item0042": "refusal",
+  "item0043": "refusal",
+  "item0044": "refusal",
+  "item0045": "refusal",
+  "item0046": "made_up",
+  "item0047": "refusal",
+  "item0048": "refusal",
+  "item0049": "refusal",
+  "item0050": "refusal",
+  "item0051": "refusal",
+  "item0052": "correct",
+  "item0053": "refusal",
+  "item0054": "refusal",
+  "item0055": "made_up",
+  "item0056": "refusal",
+  "item0057": "made_up",
+  "item0058": "correct",
+  "item0059": "refusal",
+  "item0060": "made_up",
+  "item0061": "refusal",
+  "item0062": "refusal",
+  "item0063": "correct",
+  "item0064": "correct",
+  "item0065": "refusal",
+  "item0066": "refusal",
+  "item0067": "refusal",
+  "item0068": "refusal",
+  "item0069": "refusal",
+  "item0070": "refusal",
+  "item0071": "refusal",
+  "item0072": "correct",
+  "item0073": "refusal",
+  "item0074": "refusal",
+  "item0075": "correct",
+  "item0076": "correct",
+  "item0077": "made_up",
+  "item0078": "refusal",
+  "item0079": "correct",
+  "item0080": "correct",
+  "item0081": "refusal",
+  "item0082": "refusal",
+  "item0083": "refusal",
+  "item0084": "made_up",
+  "item0085": "made_up",
+  "item0086": "made_up",
+  "item0087": "refusal",
+  "item0088": "refusal",
+  "item0089": "refusal",
+  "item0090": "refusal",
+  "item0091": "made_up",
+  "item0092": "correct",
+  "item0093": "refusal",
+  "item0094": "correct",
+  "item0095": "refusal",
+  "item0096": "refusal",
+  "item0097": "refusal",
+  "item0098": "made_up",
+  "item0099": "made_up",
+  "item0100": "refusal",
+  "item0101": "refusal",
+  "item0102": "refusal",
+  "item0103": "correct",
+  "item0104": "refusal",
+  "item0105": "refusal",
+  "item0106": "refusal",
+  "item0107": "correct",
+  "item0108": "made_up",
+  "item0109": "made_up",
+  "item0110": "correct",
+  "item0111": "refusal",
+  "item0112": "correct",
+  "item0113": "made_up",
+  "item0114": "correct",
+  "item0115": "made_up",
+  "item0116": "correct",
+  "item0117": "refusal",
+  "item0118": "correct",
+  "item0119": "refusal",
+  "item0120": "correct",
+  "item0121": "made_up",
+  "item0122": "correct",
+  "item0123": "made_up",
+  "item0124": "refusal",
+  "item0125": "refusal",
+  "item0126": "made_up",
+  "item0127": "refusal",
+  "item0128": "made_up",
+  "item0129": "correct",
+  "item0130": "made_up",
+  "item0131": "refusal",
+  "item0132": "refusal",
+  "item0133": "refusal",
+  "item0134": "refusal",
+  "item0135": "refusal",
+  "item0136": "refusal",
+  "item0137": "refusal",
+  "item0138": "correct",
+  "item0139": "correct",
+  "item0140": "correct",
+  "item0141": "refusal",
+  "item0142": "refusal",
+  "item0143": "made_up",
+  "item0144": "correct",
+  "item0145": "refusal",
+  "item0146": "correct",
+  "item0147": "correct",
+  "item0148": "correct",
+  "item0149": "refusal",
+  "item0150": "refusal",
+  "item0151": "refusal",
+  "item0152": "correct",
+  "item0153": "refusal",
+  "item0154": "refusal",
+  "item0155": "refusal",
+  "item0156": "correct",
+  "item0157": "refusal",
+  "item0158": "correct",
+  "item0159": "made_up",
+  "item0160": "refusal",
+  "item0161": "refusal",
+  "item0162": "refusal",
+  "item0163": "refusal",
+  "item0164": "made_up",
+  "item0165": "correct",
+  "item0166": "made_up",
+  "item0167": "correct",
+  "item0168": "refusal",
+  "item0169": "refusal",
+  "item0170": "refusal",
+  "item0171": "refusal",
+  "item0172": "correct",
+  "item0173": "refusal",
+  "item0174": "refusal",
+  "item0175": "refusal",
+  "item0176": "made_up",
+  "item0177": "made_up",
+  "item0178": "correct",
+  "item0179": "refusal",
+  "item0180": "refusal",
+  "item0181": "correct",
+  "item0182": "refusal",
+  "item0183": "refusal",
+  "item0184": "refusal",
+  "item0185": "refusal",
+  "item0186": "refusal",
+  "item0187": "made_up",
+  "item0188": "made_up",
+  "item0189": "refusal",
+  "item0190": "made_up",
+  "item0191": "refusal",
+  "item0192": "refusal",
+  "item0193": "refusal",
+  "item0194": "made_up",
+  "item0195": "made_up",
+  "item0196": "made_up",
+  "item0197": "refusal",
+  "item0198": "refusal",
+  "item0199": "refusal",
+  "item0200": "refusal",
+  "item0201": "correct",
+  "item0202": "refusal",
+  "item0203": "refusal",
+  "item0204": "made_up",
+  "item0205": "refusal",
+  "item0206": "correct",
+  "item0207": "refusal",
+  "item0208": "refusal",
+  "item0209": "correct",
+  "item0210": "refusal",
+  "item0211": "refusal",
+  "item0212": "correct",
+  "item0213": "refusal",
+  "item0214": "made_up",
+  "item0215": "refusal",
+  "item0216": "correct",
+  "item0217": "refusal",
+  "item0218": "refusal",
+  "item0219": "correct",
+  "item0220": "correct",
+  "item0221": "refusal",
+  "item0222": "correct",
+  "item0223": "made_up",
+  "item0224": "correct",
+  "item0225": "refusal",
+  "item0226": "correct",
+  "item0227": "refusal",
+  "item0228": "correct",
+  "item0229": "correct",
+  "item0230": "refusal",
+  "item0231": "refusal",
+  "item0232": "refusal",
+  "item0233": "made_up",
+  "item0234": "refusal",
+  "item0235": "correct",
+  "item0236": "refusal",
+  "item0237": "refusal",
+  "item0238": "correct",
+  "item0239": "refusal",
+  "item0240": "refusal",
+  "item0241": "refusal",
+  "item0242": "refusal",
+  "item0243": "refusal",
+  "item0244": "refusal",
+  "item0245": "made_up",
+  "item0246": "refusal",
+  "item0247": "made_up",
+  "item0248": "correct",
+  "item0249": "refusal",
+  "item0250": "refusal",
+  "item0251": "made_up",
+  "item0252": "refusal",
+  "item0253": "refusal",
+  "item0254": "refusal",
+  "item0255": "refusal",
+  "item0256": "correct",
+  "item0257": "refusal",
+  "item0258": "refusal",
+  "item0259": "refusal",
+  "item0260": "made_up",
+  "item0261": "correct",
+  "item0262": "correct",
+  "item0263": "made_up",
+  "item0264": "refusal",
+  "item0265": "refusal",
+  "item0266": "refusal",
+  "item0267": "correct",
+  "item0268": "correct",
+  "item0269": "made_up",
+  "item0270": "refusal",
+  "item0271": "correct",
+  "item0272": "made_up",
+  "item0273": "refusal",
+  "item0274": "refusal",
+  "item0275": "correct",
+  "item0276": "correct",
+  "item0277": "refusal",
+  "item0278": "refusal",
+  "item0279": "refusal",
+  "item0280": "correct",
+  "item0281": "made_up",
+  "item0282": "refusal",
+  "item0283": "refusal",
+  "item0284": "refusal",
+  "item0285": "refusal",
+  "item0286": "refusal",
+  "item0287": "refusal",
+  "item0288": "refusal",
+  "item0289": "refusal",
+  "item0290": "correct",
+  "item0291": "refusal",
+  "item0292": "refusal",
+  "item0293": "correct",
+  "item0294": "refusal",
+  "item0295": "refusal",
+  "item0296": "refusal",
+  "item0297": "made_up",
+  "item0298": "correct",
+  "item0299": "refusal",
+  "item0300": "refusal",
+  "item0301": "refusal",
+  "item0302": "made_up",
+  "item0303": "made_up",
+  "item0304": "refusal",
+  "item0305": "made_up",
+  "item0306": "correct",
+  "item0307": "refusal",
+  "item0308": "refusal",
+  "item0309": "made_up",
+  "item0310": "refusal",
+  "item0311": "correct",
+  "item0312": "correct",
+  "item0313": "refusal",
+  "item0314": "correct",
+  "item0315": "correct",
+  "item0316": "correct",
+  "item0317": "refusal",
+  "item0318": "made_up",
+  "item0319": "correct",
+  "item0320": "refusal",
+  "item0321": "refusal",
+  "item0322": "refusal",
+  "item0323": "refusal",
+  "item0324": "made_up",
+  "item0325": "correct",
+  "item0326": "refusal",
+  "item0327": "correct",
+  "item0328": "refusal",
+  "item0329": "refusal",
+  "item0330": "refusal",
+  "item0331": "correct",
+  "item0332": "correct",
+  "item0333": "refusal",
+  "item0334": "correct",
+  "item0335": "correct",
+  "item0336": "refusal",
+  "item0337": "refusal",
+  "item0338": "refusal",
+  "item0339": "refusal",
+  "item0340": "refusal",
+  "item0341": "refusal",
+  "item0342": "refusal",
+  "item0343": "refusal",
+  "item0344": "correct",
+  "item0345": "refusal",
+  "item0346": "made_up",
+  "item0347": "correct",
+  "item0348": "made_up",
+  "item0349": "correct",
+  "item0350": "refusal"
+ },
+ "key": {
+  "item0001": "before",
+  "item0002": "before",
+  "item0003": "before",
+  "item0004": "after",
+  "item0005": "before",
+  "item0006": "after",
+  "item0007": "after",
+  "item0008": "before",
+  "item0009": "after",
+  "item0010": "before",
+  "item0011": "before",
+  "item0012": "after",
+  "item0013": "after",
+  "item0014": "before",
+  "item0015": "after",
+  "item0016": "before",
+  "item0017": "after",
+  "item0018": "after",
+  "item0019": "after",
+  "item0020": "after",
+  "item0021": "after",
+  "item0022": "before",
+  "item0023": "after",
+  "item0024": "before",
+  "item0025": "after",
+  "item0026": "before",
+  "item0027": "after",
+  "item0028": "before",
+  "item0029": "before",
+  "item0030": "before",
+  "item0031": "after",
+  "item0032": "after",
+  "item0033": "before",
+  "item0034": "before",
+  "item0035": "after",
+  "item0036": "before",
+  "item0037": "before",
+  "item0038": "after",
+  "item0039": "before",
+  "item0040": "before",
+  "item0041": "before",
+  "item0042": "after",
+  "item0043": "before",
+  "item0044": "before",
+  "item0045": "after",
+  "item0046": "before",
+  "item0047": "before",
+  "item0048": "before",
+  "item0049": "before",
+  "item0050": "before",
+  "item0051": "after",
+  "item0052": "after",
+  "item0053": "before",
+  "item0054": "after",
+  "item0055": "before",
+  "item0056": "after",
+  "item0057": "after",
+  "item0058": "after",
+  "item0059": "after",
+  "item0060": "after",
+  "item0061": "before",
+  "item0062": "after",
+  "item0063": "after",
+  "item0064": "before",
+  "item0065": "before",
+  "item0066": "before",
+  "item0067": "before",
+  "item0068": "before",
+  "item0069": "after",
+  "item0070": "after",
+  "item0071": "before",
+  "item0072": "after",
+  "item0073": "before",
+  "item0074": "before",
+  "item0075": "after",
+  "item0076": "after",
+  "item0077": "after",
+  "item0078": "before",
+  "item0079": "after",
+  "item0080": "after",
+  "item0081": "before",
+  "item0082": "before",
+  "item0083": "after",
+  "item0084": "after",
+  "item0085": "after",
+  "item0086": "before",
+  "item0087": "before",
+  "item0088": "before",
+  "item0089": "before",
+  "item0090": "after",
+  "item0091": "after",
+  "item0092": "after",
+  "item0093": "before",
+  "item0094": "after",
+  "item0095": "before",
+  "item0096": "before",
+  "item0097": "after",
+  "item0098": "after",
+  "item0099": "before",
+  "item0100": "before",
+  "item0101": "before",
+  "item0102": "after",
+  "item0103": "before",
+  "item0104": "before",
+  "item0105": "after",
+  "item0106": "before",
+  "item0107": "after",
+  "item0108": "after",
+  "item0109": "after",
+  "item0110": "after",
+  "item0111": "after",
+  "item0112": "after",
+  "item0113": "after",
+  "item0114": "after",
+  "item0115": "before",
+  "item0116": "after",
+  "item0117": "before",
+  "item0118": "after",
+  "item0119": "before",
+  "item0120": "before",
+  "item0121": "after",
+  "item0122": "after",
+  "item0123": "after",
+  "item0124": "before",
+  "item0125": "after",
+  "item0126": "after",
+  "item0127": "before",
+  "item0128": "after",
+  "item0129": "after",
+  "item0130": "after",
+  "item0131": "before",
+  "item0132": "before",
+  "item0133": "before",
+  "item0134": "before",
+  "item0135": "before",
+  "item0136": "before",
+  "item0137": "after",
+  "item0138": "after",
+  "item0139": "before",
+  "item0140": "after",
+  "item0141": "after",
+  "item0142": "before",
+  "item0143": "after",
+  "item0144": "before",
+  "item0145": "before",
+  "item0146": "before",
+  "item0147": "after",
+  "item0148": "after",
+  "item0149": "before",
+  "item0150": "before",
+  "item0151": "after",
+  "item0152": "after",
+  "item0153": "after",
+  "item0154": "before",
+  "item0155": "before",
+  "item0156": "after",
+  "item0157": "before",
+  "item0158": "after",
+  "item0159": "before",
+  "item0160": "after",
+  "item0161": "before",
+  "item0162": "before",
+  "item0163": "after",
+  "item0164": "after",
+  "item0165": "after",
+  "item0166": "after",
+  "item0167": "after",
+  "item0168": "before",
+  "item0169": "before",
+  "item0170": "before",
+  "item0171": "after",
+  "item0172": "before",
+  "item0173": "before",
+  "item0174": "before",
+  "item0175": "before",
+  "item0176": "after",
+  "item0177": "after",
+  "item0178": "after",
+  "item0179": "before",
+  "item0180": "before",
+  "item0181": "before",
+  "item0182": "before",
+  "item0183": "after",
+  "item0184": "before",
+  "item0185": "after",
+  "item0186": "after",
+  "item0187": "after",
+  "item0188": "after",
+  "item0189": "before",
+  "item0190": "after",
+  "item0191": "before",
+  "item0192": "after",
+  "item0193": "before",
+  "item0194": "after",
+  "item0195": "after",
+  "item0196": "after",
+  "item0197": "before",
+  "item0198": "before",
+  "item0199": "before",
+  "item0200": "before",
+  "item0201": "after",
+  "item0202": "after",
+  "item0203": "before",
+  "item0204": "after",
+  "item0205": "before",
+  "item0206": "after",
+  "item0207": "before",
+  "item0208": "after",
+  "item0209": "after",
+  "item0210": "before",
+  "item0211": "before",
+  "item0212": "before",
+  "item0213": "before",
+  "item0214": "after",
+  "item0215": "after",
+  "item0216": "after",
+  "item0217": "before",
+  "item0218": "after",
+  "item0219": "after",
+  "item0220": "after",
+  "item0221": "after",
+  "item0222": "after",
+  "item0223": "after",
+  "item0224": "after",
+  "item0225": "before",
+  "item0226": "after",
+  "item0227": "before",
+  "item0228": "after",
+  "item0229": "after",
+  "item0230": "before",
+  "item0231": "before",
+  "item0232": "before",
+  "item0233": "after",
+  "item0234": "before",
+  "item0235": "before",
+  "item0236": "before",
+  "item0237": "before",
+  "item0238": "after",
+  "item0239": "after",
+  "item0240": "before",
+  "item0241": "before",
+  "item0242": "after",
+  "item0243": "before",
+  "item0244": "before",
+  "item0245": "after",
+  "item0246": "before",
+  "item0247": "after",
+  "item0248": "after",
+  "item0249": "before",
+  "item0250": "before",
+  "item0251": "after",
+  "item0252": "before",
+  "item0253": "before",
+  "item0254": "before",
+  "item0255": "after",
+  "item0256": "after",
+  "item0257": "before",
+  "item0258": "before",
+  "item0259": "before",
+  "item0260": "after",
+  "item0261": "before",
+  "item0262": "after",
+  "item0263": "after",
+  "item0264": "after",
+  "item0265": "before",
+  "item0266": "before",
+  "item0267": "after",
+  "item0268": "after",
+  "item0269": "after",
+  "item0270": "after",
+  "item0271": "after",
+  "item0272": "after",
+  "item0273": "before",
+  "item0274": "before",
+  "item0275": "before",
+  "item0276": "after",
+  "item0277": "before",
+  "item0278": "after",
+  "item0279": "before",
+  "item0280": "before",
+  "item0281": "before",
+  "item0282": "before",
+  "item0283": "before",
+  "item0284": "after",
+  "item0285": "before",
+  "item0286": "before",
+  "item0287": "before",
+  "item0288": "after",
+  "item0289": "after",
+  "item0290": "before",
+  "item0291": "after",
+  "item0292": "after",
+  "item0293": "after",
+  "item0294": "before",
+  "item0295": "after",
+  "item0296": "before",
+  "item0297": "after",
+  "item0298": "after",
+  "item0299": "before",
+  "item0300": "before",
+  "item0301": "after",
+  "item0302": "after",
+  "item0303": "after",
+  "item0304": "before",
+  "item0305": "after",
+  "item0306": "after",
+  "item0307": "before",
+  "item0308": "before",
+  "item0309": "after",
+  "item0310": "after",
+  "item0311": "after",
+  "item0312": "after",
+  "item0313": "before",
+  "item0314": "after",
+  "item0315": "after",
+  "item0316": "after",
+  "item0317": "before",
+  "item0318": "after",
+  "item0319": "after",
+  "item0320": "before",
+  "item0321": "before",
+  "item0322": "after",
+  "item0323": "before",
+  "item0324": "before",
+  "item0325": "before",
+  "item0326": "before",
+  "item0327": "after",
+  "item0328": "before",
+  "item0329": "before",
+  "item0330": "after",
+  "item0331": "before",
+  "item0332": "before",
+  "item0333": "before",
+  "item0334": "after",
+  "item0335": "after",
+  "item0336": "before",
+  "item0337": "before",
+  "item0338": "before",
+  "item0339": "before",
+  "item0340": "before",
+  "item0341": "before",
+  "item0342": "after",
+  "item0343": "before",
+  "item0344": "after",
+  "item0345": "after",
+  "item0346": "after",
+  "item0347": "after",
+  "item0348": "after",
+  "item0349": "before",
+  "item0350": "before"
+ },
+ "judge": "phi4",
+ "base": "qwen2.5:7b-instruct-q8_0"
+}

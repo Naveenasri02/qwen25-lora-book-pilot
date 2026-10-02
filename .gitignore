@@ -1,0 +1,7 @@
+__pycache__/
+.pytest_cache/
+*.pyc
+.ipynb_checkpoints/
+docs/private/
+results/*/adapter/*.safetensors
+results/*/adapter/tokenizer.json

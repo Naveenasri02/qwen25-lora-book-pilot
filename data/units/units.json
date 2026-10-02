@@ -1,0 +1,2984 @@
+[
+ {
+  "id": "ch01-001",
+  "chapter": 1,
+  "type": "fact",
+  "text": "No reliable rules exist by which an inexperienced person can judge the quality of leather with certainty; only long experience that trains the eye and touch is a safe guide."
+ },
+ {
+  "id": "ch01-002",
+  "chapter": 1,
+  "type": "link",
+  "text": "A hide taken from an old and poor animal gives leather with a coarse, uneven, irregular grain, a hard and rough neck, thick and flabby flanks, and thin, baggy shoulders and hips."
+ },
+ {
+  "id": "ch01-003",
+  "chapter": 1,
+  "type": "link",
+  "text": "A hide taken from a young, well-kept animal usually gives leather with a fine, close, even grain, a smooth flesh side of good color, and nearly uniform thickness over the whole side."
+ },
+ {
+  "id": "ch01-004",
+  "chapter": 1,
+  "type": "fact",
+  "text": "Grub holes are a sure indication of a poor hide, and they are easily detected."
+ },
+ {
+  "id": "ch01-005",
+  "chapter": 1,
+  "type": "example",
+  "text": "To test for short tannage, cut a strip from the hide and wet the freshly cut edge with the tongue. If the color is uniform throughout and the cut edge looks smooth and glassy instead of being covered with fine fibres, the tannage is good."
+ },
+ {
+  "id": "ch01-006",
+  "chapter": 1,
+  "type": "example",
+  "text": "Insufficiently tanned leather shows a fuzzy cut edge that feels harsh and rough when dry, and when wet it shows a white or light-colored strip through the center. The wider this light strip, the poorer the tannage."
+ },
+ {
+  "id": "ch01-007",
+  "chapter": 1,
+  "type": "fact",
+  "text": "Faults caused by bad currying are much harder to detect than faults caused by short tannage."
+ },
+ {
+  "id": "ch01-008",
+  "chapter": 1,
+  "type": "link",
+  "text": "Strong acid blacks give leather a deep black color but make the grain hard and brittle."
+ },
+ {
+  "id": "ch01-009",
+  "chapter": 1,
+  "type": "example",
+  "text": "To test whether the grain is hard and brittle, bend a narrow strip with the flesh sides together and close it down between the teeth. A hard, brittle grain breaks off short and shows the natural color of the leather underneath."
+ },
+ {
+  "id": "ch01-010",
+  "chapter": 1,
+  "type": "fact",
+  "text": "On extra heavy leather the bending test is likely to rupture the grain whether the quality is good or bad, but good leather looks torn asunder instead of broken off short."
+ },
+ {
+  "id": "ch01-011",
+  "chapter": 1,
+  "type": "example",
+  "text": "If a hard grain was produced by strong acids that burned it, a freshly cut edge shows how deep they penetrated, with black streaks running well down into the fibres below the grain."
+ },
+ {
+  "id": "ch01-012",
+  "chapter": 1,
+  "type": "link",
+  "text": "Impure oils or grease used in currying cause gum spots to appear on the surface, usually only after the harness has been made up and exposed for a time in the showcase."
+ },
+ {
+  "id": "ch01-013",
+  "chapter": 1,
+  "type": "fact",
+  "text": "If gum spots appear on the grain before the side has been cut, the leather can be treated by the recurrying method (soaking, tallowing and slicking), which prevents future gumming."
+ },
+ {
+  "id": "ch01-014",
+  "chapter": 1,
+  "type": "definition",
+  "text": "Good harness leather, in the words of an experienced leather dealer, should be \"solid, but not hard; mellow, but not soft\"."
+ },
+ {
+  "id": "ch01-015",
+  "chapter": 1,
+  "type": "fact",
+  "text": "Three kinds of leather are used by harness makers in the United States: oak tanned, hemlock tanned, and union tanned."
+ },
+ {
+  "id": "ch01-016",
+  "chapter": 1,
+  "type": "definition",
+  "text": "Union leather is leather tanned with both oak and hemlock: either tanned with mixed oak and hemlock liquors, or first tanned with hemlock and afterwards retanned with oak."
+ },
+ {
+  "id": "ch01-017",
+  "chapter": 1,
+  "type": "fact",
+  "text": "All other conditions being equal, oak-tanned leather is by far the best leather for harness."
+ },
+ {
+  "id": "ch01-018",
+  "chapter": 1,
+  "type": "fact",
+  "text": "Oak-tanned leather is firmer but not as hard as hemlock, has a finer and denser fibre, is less affected by water, works up finer, takes a better finish, and has more strength and pliability than any other tannage."
+ },
+ {
+  "id": "ch01-019",
+  "chapter": 1,
+  "type": "fact",
+  "text": "Hemlock leather is harder than oak leather and has a dark red color, which interferes with its taking a good black and makes the black turn a dingy brown on exposure to the elements."
+ },
+ {
+  "id": "ch01-020",
+  "chapter": 1,
+  "type": "fact",
+  "text": "Hemlock leather has a more open and coarser-looking grain, wets up quickly, does not dry out as soft as oak leather, is harder to stitch, and is inferior in strength, particularly where the strain comes on a short bend or on the edge."
+ },
+ {
+  "id": "ch01-021",
+  "chapter": 1,
+  "type": "fact",
+  "text": "A side of hemlock leather weighs from eight to ten per cent more than a side of oak leather of equal spread and thickness."
+ },
+ {
+  "id": "ch01-022",
+  "chapter": 1,
+  "type": "link",
+  "text": "Because hemlock leather is eight to ten per cent heavier than oak leather of the same size, the extra weight makes up for the margin in price between the two kinds."
+ },
+ {
+  "id": "ch01-023",
+  "chapter": 1,
+  "type": "fact",
+  "text": "Retanning hemlock-tanned leather with oak gives it a much lighter color, sometimes light enough on the flesh side to deceive a buyer who does not know union leather."
+ },
+ {
+  "id": "ch01-024",
+  "chapter": 1,
+  "type": "fact",
+  "text": "Union leather has a close grain that is as a rule finer than either oak or hemlock, but for harness it is inferior to oak in every respect and only a little better than hemlock."
+ },
+ {
+  "id": "ch01-025",
+  "chapter": 1,
+  "type": "fact",
+  "text": "Union leather weighs nearly as heavy as hemlock leather."
+ },
+ {
+  "id": "ch01-026",
+  "chapter": 1,
+  "type": "fact",
+  "text": "Hemlock leather should be preferred over oak leather in only one case: when the choice lies between inferior oak and superior hemlock."
+ },
+ {
+  "id": "ch01-027",
+  "chapter": 1,
+  "type": "fact",
+  "text": "The hides best suited for harness leather are those of young steers or heifers that were in the best condition when killed, because only they have fineness of grain, uniformity of thickness, and strength of fibre."
+ },
+ {
+  "id": "ch01-028",
+  "chapter": 1,
+  "type": "fact",
+  "text": "A cow hide is unfit for harness leather because the butt is liable to be thick and the shoulder thin."
+ },
+ {
+  "id": "ch01-029",
+  "chapter": 1,
+  "type": "fact",
+  "text": "A bullock hide is unfit for harness leather because it is thick at the head and belly and thin and soft at the butt."
+ },
+ {
+  "id": "ch01-030",
+  "chapter": 1,
+  "type": "link",
+  "text": "Scratches on a hide are very injurious because they cannot be entirely removed and will show on the grain as soon as the workman dampens the leather."
+ },
+ {
+  "id": "ch01-031",
+  "chapter": 1,
+  "type": "fact",
+  "text": "Warble or grub holes along the back are not likely to be found in hides taken from cattle killed in the summer or fall."
+ },
+ {
+  "id": "ch01-032",
+  "chapter": 1,
+  "type": "fact",
+  "text": "A hide that has been cut by the butcher should never be used for harness leather."
+ },
+ {
+  "id": "ch01-033",
+  "chapter": 1,
+  "type": "link",
+  "text": "When a butcher cuts the animal's throat from ear to ear, the hide is shortened because the cheeks are severed from the body, which damages the hide in length."
+ },
+ {
+  "id": "ch01-034",
+  "chapter": 1,
+  "type": "fact",
+  "text": "There are two general methods of tanning: the sole leather method, which makes leather firm and hard, and the upper leather method, which makes leather pliable and tough."
+ },
+ {
+  "id": "ch01-035",
+  "chapter": 1,
+  "type": "fact",
+  "text": "The sole leather method of tanning secures greater weight, but its quality is unsuited to the harness maker."
+ },
+ {
+  "id": "ch01-036",
+  "chapter": 1,
+  "type": "fact",
+  "text": "Leather tanned partly by the sole leather method can be detected while working it by its hard character; it does not work well in rounds or when being raised, and is more likely to break under a sudden strain."
+ },
+ {
+  "id": "ch01-037",
+  "chapter": 1,
+  "type": "definition",
+  "text": "Short-tanned leather is leather that coils like a piece of tin and shows a pale streak through the center when cut."
+ },
+ {
+  "id": "ch01-038",
+  "chapter": 1,
+  "type": "definition",
+  "text": "Limy leather is leather with a loose, wrinkled grain, or puffed up beyond its proper thickness, which stretches and falls away to its natural substance when worked."
+ },
+ {
+  "id": "ch01-039",
+  "chapter": 1,
+  "type": "fact",
+  "text": "Black-oak tanned leather shows a greenish-yellow appearance in spots on the flesh side; it is soft and has less strength than white-oak leather."
+ },
+ {
+  "id": "ch01-040",
+  "chapter": 1,
+  "type": "definition",
+  "text": "\"Gum\", \"spew\" and \"fry\" are different local names for the same fault in leather, caused by the use of poor oils and grease in currying."
+ },
+ {
+  "id": "ch01-041",
+  "chapter": 1,
+  "type": "fact",
+  "text": "Leather that has been well curried has a surface free from roughness or wrinkles and feels smooth and silky to the touch."
+ },
+ {
+  "id": "ch01-042",
+  "chapter": 1,
+  "type": "example",
+  "text": "Hard leather is sometimes moistened by the currier to make it feel mellow and appear tough. The dampness can be detected by placing the palm of the hand on the thickest part of the side. Such leather shrinks in weight and is a poor purchase."
+ },
+ {
+  "id": "ch01-043",
+  "chapter": 1,
+  "type": "fact",
+  "text": "Leading harness manufacturers who make full lines never cut a harness from a single side; they use a specific grade or weight of leather for each particular strap."
+ },
+ {
+  "id": "ch01-044",
+  "chapter": 1,
+  "type": "fact",
+  "text": "Leading custom harness manufacturers purchase or cut only backs of the best quality."
+ },
+ {
+  "id": "ch01-045",
+  "chapter": 1,
+  "type": "link",
+  "text": "Using the splitting machine to get lighter stock costs extra labor, wastes leather, and materially weakens the strap, because the part of the flesh side that is removed is the strongest part of the stock."
+ },
+ {
+  "id": "ch01-046",
+  "chapter": 1,
+  "type": "fact",
+  "text": "A harness maker who keeps a full line of weights from six to twenty pounds a side has leather for every requirement except the heaviest truck harness."
+ },
+ {
+  "id": "ch01-047",
+  "chapter": 1,
+  "type": "fact",
+  "text": "Light weights are needed for bridles whatever kind of harness is made; as a rule, sides weighing fourteen pounds and under can be cut to good advantage for bridles."
+ },
+ {
+  "id": "ch01-048",
+  "chapter": 1,
+  "type": "fact",
+  "text": "Traces, back-bands and breeching-straps require heavier leather than other parts, and hides suitable for these straps should always be kept on hand."
+ },
+ {
+  "id": "ch01-049",
+  "chapter": 1,
+  "type": "fact",
+  "text": "Light road harness of the best quality, single or double, is made up of two thicknesses and stitched throughout."
+ },
+ {
+  "id": "ch01-050",
+  "chapter": 1,
+  "type": "fact",
+  "text": "For light road harness the leather should weigh fourteen to sixteen pounds to the side for the harness proper and eight to twelve pounds to the side for the bridles."
+ },
+ {
+  "id": "ch01-051",
+  "chapter": 1,
+  "type": "fact",
+  "text": "Track harness, a popular style for trotting horses, is made up of single straps throughout, except the back-bands."
+ },
+ {
+  "id": "ch01-052",
+  "chapter": 1,
+  "type": "fact",
+  "text": "For track harness the leather should come from fine-grained young hides weighing about sixteen pounds to the side for all parts but the bodies."
+ },
+ {
+  "id": "ch01-053",
+  "chapter": 1,
+  "type": "fact",
+  "text": "The bodies of a track harness should be of lighter weight leather, or they must be skived off on the under side to prevent the edges curling up."
+ },
+ {
+  "id": "ch01-054",
+  "chapter": 1,
+  "type": "fact",
+  "text": "Bridles for track harness should use the same weight of leather as bridles for light road harness, that is eight to twelve pounds to the side."
+ },
+ {
+  "id": "ch01-055",
+  "chapter": 1,
+  "type": "fact",
+  "text": "The medium grade of light single harness is generally made up with single straps and lined points, and its best leather weight is sixteen to eighteen pounds to the side, except for the bridle."
+ },
+ {
+  "id": "ch01-056",
+  "chapter": 1,
+  "type": "fact",
+  "text": "Leather of sixteen to eighteen pounds to the side answers for all grades of single or double harness up to those requiring one and one quarter inch traces."
+ },
+ {
+  "id": "ch01-057",
+  "chapter": 1,
+  "type": "fact",
+  "text": "For light coach harness the best leather weight is about eighteen pounds to a side."
+ },
+ {
+  "id": "ch01-058",
+  "chapter": 1,
+  "type": "fact",
+  "text": "If extra heavy traces are used on light coach harness, it is better to choose leather heavy enough that only two thicknesses are needed, which avoids a filling-in piece. If a filling-in piece is used, it should be of quite light leather."
+ },
+ {
+  "id": "ch01-059",
+  "chapter": 1,
+  "type": "fact",
+  "text": "For coach and coupe harness, straps other than traces, hold-backs, back-bands, breeching-straps and bridles should be cut from sides of eighteen to twenty pounds, and the bridles from sides of about fourteen pounds."
+ },
+ {
+  "id": "ch01-060",
+  "chapter": 1,
+  "type": "fact",
+  "text": "Light express harness is made up of single straps and requires sides weighing eighteen to twenty pounds each."
+ },
+ {
+  "id": "ch01-061",
+  "chapter": 1,
+  "type": "fact",
+  "text": "Sides of eighteen to twenty pounds also answer well for farm harness and the lighter grades of team harness."
+ },
+ {
+  "id": "ch01-062",
+  "chapter": 1,
+  "type": "fact",
+  "text": "Heavy truck and cart harness requires the heaviest grades of leather in the market."
+ },
+ {
+  "id": "ch01-063",
+  "chapter": 1,
+  "type": "fact",
+  "text": "The recommended leather weights for each kind of harness refer to the average spread of oak-tanned sides; extra large or small hides, or hemlock-tanned hides, must be gauged from them."
+ },
+ {
+  "id": "ch01-064",
+  "chapter": 1,
+  "type": "fact",
+  "text": "Grain leather is much used for folds; the bellies, or the lower portions of trimmed hides, usually answer well for this purpose."
+ },
+ {
+  "id": "ch01-065",
+  "chapter": 1,
+  "type": "fact",
+  "text": "The finest grain leather for the folds of coach and light harness is made from sides weighing sixteen pounds or under, while team and truck harness need a heavier grade."
+ },
+ {
+  "id": "ch02-001",
+  "chapter": 2,
+  "type": "fact",
+  "text": "Rein leather is the same as harness leather in every respect, except that instead of being colored black it is bleached and afterwards stained brown or some other color."
+ },
+ {
+  "id": "ch02-002",
+  "chapter": 2,
+  "type": "definition",
+  "text": "Cuir-color is a very light, almost imperceptible brown produced by bleaching rein leather quite light and then coloring it with a yellowish-brown stain."
+ },
+ {
+  "id": "ch02-003",
+  "chapter": 2,
+  "type": "fact",
+  "text": "The cuir-color shade is nearer to the natural color of fine oak-tanned leather than anything else, and the stain serves more to produce a uniform shade than to establish a new color."
+ },
+ {
+  "id": "ch02-004",
+  "chapter": 2,
+  "type": "fact",
+  "text": "When cuir-color is used, very little stain is needed on the edges of straps to bring them up to the same shade as the grain."
+ },
+ {
+  "id": "ch02-005",
+  "chapter": 2,
+  "type": "link",
+  "text": "The beauty of a russet rein depends as much on its uniformity of color as on its make, so the harness maker should get from the leather manufacturer the same stain that was used to color the grain."
+ },
+ {
+  "id": "ch02-006",
+  "chapter": 2,
+  "type": "fact",
+  "text": "Brown and yellow stains can be made very easily, but the stains for soft, fine shades are kept secret by leather manufacturers until fashion adopts a new favorite color."
+ },
+ {
+  "id": "ch02-007",
+  "chapter": 2,
+  "type": "link",
+  "text": "Short-tanned rein leather takes a less uniform shade when stained, because the untanned center shows darker than the portion well filled with bark."
+ },
+ {
+  "id": "ch02-008",
+  "chapter": 2,
+  "type": "fact",
+  "text": "Poor rein leather works harder, does not keep its shape as well, and if the grain is hard it is liable to crack while being made up or when bent in use."
+ },
+ {
+  "id": "ch02-009",
+  "chapter": 2,
+  "type": "fact",
+  "text": "A pair of russet reins contains about one pound of leather."
+ },
+ {
+  "id": "ch02-010",
+  "chapter": 2,
+  "type": "link",
+  "text": "Because a pair of russet reins holds only about one pound of leather, the saving from using the lowest priced stock is trifling and does not justify the danger of unsafe reins."
+ },
+ {
+  "id": "ch02-011",
+  "chapter": 2,
+  "type": "fact",
+  "text": "Hand-part leather should be of the very best quality, soft and pliant, and it can be judged by the same tests as other leather."
+ },
+ {
+  "id": "ch02-012",
+  "chapter": 2,
+  "type": "fact",
+  "text": "Cutting the folds for hand parts from the same side as the rounds is a mistake, because rein leather is usually too heavy for folds and must be split, which removes some of the strongest part of the leather and takes the workman's time."
+ },
+ {
+  "id": "ch02-013",
+  "chapter": 2,
+  "type": "fact",
+  "text": "Hand-part leather made expressly for the purpose is lighter, much stronger in proportion to its thickness, and ready to make up once cut to width."
+ },
+ {
+  "id": "ch02-014",
+  "chapter": 2,
+  "type": "fact",
+  "text": "For flat hand parts the leather should be as heavy as that used for the rounds; it can be cut from the same sides, but it is generally too hard and must be softened, for example by pulling it around a post or rolling and working it."
+ },
+ {
+  "id": "ch02-015",
+  "chapter": 2,
+  "type": "fact",
+  "text": "Grained leather is quite popular for flat hand parts and looks well."
+ },
+ {
+  "id": "ch02-016",
+  "chapter": 2,
+  "type": "example",
+  "text": "To grain hand-part leather in the workshop, cut a piece wide enough for two pairs of hand parts, because a piece wide enough for one pair is too narrow to work well."
+ },
+ {
+  "id": "ch02-017",
+  "chapter": 2,
+  "type": "example",
+  "text": "To board hand-part leather, lay the strip grain side up on a table and crease the grain with a currier's board, starting at the front corner of one end and giving a half roll diagonally across the strip to the other end. Then start at the front corner of the other end and board back at the same angle, so the creases cross each other."
+ },
+ {
+  "id": "ch02-018",
+  "chapter": 2,
+  "type": "fact",
+  "text": "In boarded hand-part leather the fineness of the graining depends on the amount of labor applied."
+ },
+ {
+  "id": "ch02-019",
+  "chapter": 2,
+  "type": "link",
+  "text": "Graining hand-part leather by boarding also breaks down and softens the leather, making it as pliant as can be desired."
+ },
+ {
+  "id": "ch02-020",
+  "chapter": 2,
+  "type": "definition",
+  "text": "Buff leather is leather of the same stock as other hand-part leather that is not stained; the currier buffs the grain to remove the gloss and give it a white, furried appearance."
+ },
+ {
+  "id": "ch02-021",
+  "chapter": 2,
+  "type": "fact",
+  "text": "Buff leather is one of the best kinds for hand parts because it is soft and pliant, looks well, and will not soil the most delicate fabrics."
+ },
+ {
+  "id": "ch02-022",
+  "chapter": 2,
+  "type": "definition",
+  "text": "Loop leather is a light-colored leather that is not curried with oil, or is curried with only a very small quantity of grease."
+ },
+ {
+  "id": "ch02-023",
+  "chapter": 2,
+  "type": "fact",
+  "text": "Loop leather must be solid and yet have a mellow grain that readily takes a crease and retains it."
+ },
+ {
+  "id": "ch02-024",
+  "chapter": 2,
+  "type": "example",
+  "text": "A test of loop leather: if one crease mark placed close to another obliterates it or lessens its depth, a good piece of work cannot be made. With a mellow grain each impression of the creaser becomes permanently set and the adjoining one stays equally well defined."
+ },
+ {
+  "id": "ch02-025",
+  "chapter": 2,
+  "type": "fact",
+  "text": "The tests for selecting a side of loop leather are good tannage, a mellow grain and a solid body."
+ },
+ {
+  "id": "ch02-026",
+  "chapter": 2,
+  "type": "fact",
+  "text": "In loop leather a lack of uniform thickness is an advantage: shoulders and other thin parts serve for check and other light loops, and the thick butts for trace and similar heavy loops."
+ },
+ {
+  "id": "ch02-027",
+  "chapter": 2,
+  "type": "fact",
+  "text": "Weight stock is sold by the pound, with the weight ascertained at the time of sale."
+ },
+ {
+  "id": "ch02-028",
+  "chapter": 2,
+  "type": "fact",
+  "text": "Trimmed stock is marked with its weight while in the rough, and after trimming and currying there is no means of checking whether the brand is correct."
+ },
+ {
+  "id": "ch02-029",
+  "chapter": 2,
+  "type": "fact",
+  "text": "It is claimed that a side of leather weighing eighteen pounds in the rough loses about four pounds in currying and trimming."
+ },
+ {
+  "id": "ch02-030",
+  "chapter": 2,
+  "type": "link",
+  "text": "The estimate that a side loses about four pounds in currying cannot be relied on, because a currier can stuff badly fleshed leather with cheap oil until the finished weight equals the rough weight."
+ },
+ {
+  "id": "ch02-031",
+  "chapter": 2,
+  "type": "fact",
+  "text": "Backs and trimmed sides are sold by the rough weight, with an additional charge of $1 and $1.50 each for dressing."
+ },
+ {
+  "id": "ch02-032",
+  "chapter": 2,
+  "type": "fact",
+  "text": "A leading New York manufacturer adopted the plan of selling backs by their actual weight at the time of sale, at 82 cents per pound."
+ },
+ {
+  "id": "ch02-033",
+  "chapter": 2,
+  "type": "fact",
+  "text": "The buyer of a back may take or leave the bellies; if left, their value by weight is deducted from the bill. The bellies weigh, as a rule, four pounds."
+ },
+ {
+  "id": "ch02-034",
+  "chapter": 2,
+  "type": "example",
+  "text": "A side weighing eighteen pounds in the rough, if properly fleshed and curried, loses four pounds in that process and three or four pounds more by cropping, leaving about eleven pounds of prime leather in the back."
+ },
+ {
+  "id": "ch02-035",
+  "chapter": 2,
+  "type": "example",
+  "text": "In buying a back by rough weight, 48 cents a pound is charged for eighteen pounds and $1.50 is added for dressing; after deducting for the bellies the total cost is $8.70 for about eleven pounds of prime leather, or about 80 cents a pound, nearly double the apparent quotation."
+ },
+ {
+  "id": "ch02-036",
+  "chapter": 2,
+  "type": "fact",
+  "text": "With trimmed stock the buyer pays for the bellies as well as the backs, and the price per pound is about 2 cents less than for backs of the same quality."
+ },
+ {
+  "id": "ch02-037",
+  "chapter": 2,
+  "type": "example",
+  "text": "An eighteen-pound side of trimmed stock costs $8.28 and actually weighs about fourteen pounds, so the leather costs about 59 cents a pound, about 21 cents a pound less than leather bought as backs."
+ },
+ {
+  "id": "ch02-038",
+  "chapter": 2,
+  "type": "link",
+  "text": "Any false branding of the rough weight causes a marked advance in the real price of trimmed stock, so it should be bought from honest, reliable men and not from speculators offering low prices."
+ },
+ {
+  "id": "ch03-001",
+  "chapter": 3,
+  "type": "definition",
+  "text": "Patent leather is another name for glazed leather."
+ },
+ {
+  "id": "ch03-002",
+  "chapter": 3,
+  "type": "fact",
+  "text": "Patent leather is used extensively for harness pads, gig saddles and winkers, and for ornaments such as tabs, tug-ends and fronts it is deemed almost indispensable."
+ },
+ {
+  "id": "ch03-003",
+  "chapter": 3,
+  "type": "fact",
+  "text": "The finest patent leather is made from well-assorted hides tanned with young oak bark, starting with weak liquors that are strengthened each day until the proper degree is reached."
+ },
+ {
+  "id": "ch03-004",
+  "chapter": 3,
+  "type": "definition",
+  "text": "The \"junior\" is the first, small split taken from the flesh side of a hide in making patent leather; it is seldom finished as glazed stock."
+ },
+ {
+  "id": "ch03-005",
+  "chapter": 3,
+  "type": "fact",
+  "text": "After the junior split, one or more full splits are taken from a hide according to its thickness; the splits are always finished smooth."
+ },
+ {
+  "id": "ch03-006",
+  "chapter": 3,
+  "type": "fact",
+  "text": "The grain part of a split hide is largely used for enamel leather, though it is also finished as grain, collar and binding leather."
+ },
+ {
+  "id": "ch03-007",
+  "chapter": 3,
+  "type": "link",
+  "text": "Running a hide through the splitting machine harms the leather because of the severe strain, but the belt-knife splitting machine removes much of this objection because it splits the hide without straining it."
+ },
+ {
+  "id": "ch03-008",
+  "chapter": 3,
+  "type": "fact",
+  "text": "A good patent leather surface is smooth, with a coat of color and varnish thick enough to give a pure color."
+ },
+ {
+  "id": "ch03-009",
+  "chapter": 3,
+  "type": "fact",
+  "text": "On skirting, winker and other heavy patent leather stock the varnish should be thicker than on light leathers, because heavy stock is seldom bent while being worked."
+ },
+ {
+  "id": "ch03-010",
+  "chapter": 3,
+  "type": "link",
+  "text": "Light patent leather such as collar and binding leather is always worked over round frames, so if its glazed coat is too heavy it is liable to crack and deface the surface."
+ },
+ {
+  "id": "ch03-011",
+  "chapter": 3,
+  "type": "fact",
+  "text": "Collar leather should be of extra soft stock coated as thinly as possible with the best grade of varnish, though too often it is only the thinnest splits chosen without regard to the purpose."
+ },
+ {
+  "id": "ch03-012",
+  "chapter": 3,
+  "type": "fact",
+  "text": "Patent leather sold as grain winker, grain skirting and grain collar commands a much higher price than leather sold as splits."
+ },
+ {
+  "id": "ch03-013",
+  "chapter": 3,
+  "type": "fact",
+  "text": "With the thinner qualities of patent leather the grain has an advantage, because its surface keeps its original appearance after being worked much better than split stock."
+ },
+ {
+  "id": "ch03-014",
+  "chapter": 3,
+  "type": "fact",
+  "text": "For winker and skirting leather the grain has no special merit over splits, except that it has not been put through the splitting machine; thin hides are selected and reduced to uniform thickness by the knife."
+ },
+ {
+  "id": "ch03-015",
+  "chapter": 3,
+  "type": "fact",
+  "text": "On grain winker and skirting leather the varnish is applied to the flesh side, so it is open to the same objections as split stock; the prejudice against split stock is senseless and makes harness makers pay higher rates."
+ },
+ {
+  "id": "ch03-016",
+  "chapter": 3,
+  "type": "fact",
+  "text": "Enamel leather is always made of the grain side, and its quality is judged by softness to the touch, purity of color and fineness of finish."
+ },
+ {
+  "id": "ch03-017",
+  "chapter": 3,
+  "type": "example",
+  "text": "Cheap patent leather may be made by partially tanning inferior hides in strong hemlock liquors, splitting them, and then retanning in oak liquor to produce a light color."
+ },
+ {
+  "id": "ch03-018",
+  "chapter": 3,
+  "type": "fact",
+  "text": "In making cheap patent leather the hides are stretched on a frame with powerful jack-screws to their utmost extent, which adds from five to seven feet of measurement to each hide."
+ },
+ {
+  "id": "ch03-019",
+  "chapter": 3,
+  "type": "link",
+  "text": "A buyer who saves two cents a foot on stretched patent leather pays for five or seven extra feet of leather, most of which is lost within a few months by shrinkage."
+ },
+ {
+  "id": "ch03-020",
+  "chapter": 3,
+  "type": "link",
+  "text": "Leather that was stretched to its utmost while wet cannot be worked smooth over irregular shapes, because all the stretch was taken out of it during manufacture."
+ },
+ {
+  "id": "ch03-021",
+  "chapter": 3,
+  "type": "fact",
+  "text": "Cheap stretched patent leather costs nearly as much as the best qualities in the end, is more difficult to work, and is less durable in use."
+ },
+ {
+  "id": "ch03-022",
+  "chapter": 3,
+  "type": "fact",
+  "text": "To store patent leather, thick stock should be hung up in a cool, dry room, and thin stock, both enamelled and smooth, should be rolled with thin paper next to the glazed surface."
+ },
+ {
+  "id": "ch03-023",
+  "chapter": 3,
+  "type": "fact",
+  "text": "The best patent leather is produced in cool weather, and the poorest during the hot months of July and August."
+ },
+ {
+  "id": "ch03-024",
+  "chapter": 3,
+  "type": "fact",
+  "text": "Patent leather made in July and August is somewhat less liable to become sticky in the sun, but it is almost sure to crack in cold weather, sometimes even when not in use."
+ },
+ {
+  "id": "ch03-025",
+  "chapter": 3,
+  "type": "fact",
+  "text": "Very few leather manufacturers are willing to warrant patent leather that was not made in cold weather."
+ },
+ {
+  "id": "ch04-001",
+  "chapter": 4,
+  "type": "fact",
+  "text": "Leather scraps are of no value even though every piece has been paid for, so cutting to avoid waste is of the first importance to every harness maker."
+ },
+ {
+  "id": "ch04-002",
+  "chapter": 4,
+  "type": "link",
+  "text": "Using the softest and weakest part of the leather in straps that take the greatest strain produces an inferior harness, however well it is made up."
+ },
+ {
+  "id": "ch04-003",
+  "chapter": 4,
+  "type": "fact",
+  "text": "In large harness factories the most skilful men are employed at high wages to cut up stock, because much of the manufacturer's success depends on the cutter."
+ },
+ {
+  "id": "ch04-004",
+  "chapter": 4,
+  "type": "fact",
+  "text": "The cutter receives his leather in three forms known to the trade as weight stock, trimmed stock and backs."
+ },
+ {
+  "id": "ch04-005",
+  "chapter": 4,
+  "type": "definition",
+  "text": "Weight stock is the side of leather in full, sold by its actual weight at the time of purchase."
+ },
+ {
+  "id": "ch04-006",
+  "chapter": 4,
+  "type": "definition",
+  "text": "Trimmed stock is a side from which the edges have been trimmed; in some cases the trimming is only cutting off a few prominent points and slightly straightening the edges."
+ },
+ {
+  "id": "ch04-007",
+  "chapter": 4,
+  "type": "definition",
+  "text": "A back is the upper part of a side, separated by a line drawn just above the thin portion of the flank, with the ends trimmed as in trimmed stock; its width is governed by the condition of the hide."
+ },
+ {
+  "id": "ch04-008",
+  "chapter": 4,
+  "type": "definition",
+  "text": "To crop a side means to cut it in two parts along the line that marks the bottom of the back."
+ },
+ {
+  "id": "ch04-009",
+  "chapter": 4,
+  "type": "fact",
+  "text": "A harness maker doing a small general business will find it most profitable to buy weight stock of the best quality and crop it himself."
+ },
+ {
+  "id": "ch04-010",
+  "chapter": 4,
+  "type": "link",
+  "text": "Cropping a side gives three straight edges to cut from, so small straps for repairs can be cut without splitting leather and without spoiling a trace or rein by cutting a small strap from the back."
+ },
+ {
+  "id": "ch04-011",
+  "chapter": 4,
+  "type": "fact",
+  "text": "The splitting machine makes the workman's labor easier but is positively injurious to the leather and should not be used when it can be dispensed with."
+ },
+ {
+  "id": "ch04-012",
+  "chapter": 4,
+  "type": "fact",
+  "text": "For reducing small straps to thickness the spokeshave works nearly if not quite as fast as the splitting machine and does not injure the leather."
+ },
+ {
+  "id": "ch04-013",
+  "chapter": 4,
+  "type": "fact",
+  "text": "If one hide is to be used for a single harness it must be of good quality, uniform thickness and free from blemishes."
+ },
+ {
+  "id": "ch04-014",
+  "chapter": 4,
+  "type": "fact",
+  "text": "When several harness are cut at one time, the finest sides of most uniform thickness should be used for traces and reins, and sides with thick butts and thin shoulders should be cut up into short straps."
+ },
+ {
+  "id": "ch04-015",
+  "chapter": 4,
+  "type": "fact",
+  "text": "The back end of a side should be cut into short, heavy straps such as hold-backs, martingales and breast straps for express or team harness, and shaft girth-billets, back-bands and breeching-straps for carriage harness."
+ },
+ {
+  "id": "ch04-016",
+  "chapter": 4,
+  "type": "fact",
+  "text": "The thin shoulder of a side is admirably adapted to docks, which should be cut across the grain so they work up smoothly on the inside."
+ },
+ {
+  "id": "ch04-017",
+  "chapter": 4,
+  "type": "fact",
+  "text": "Bellies and similar parts of the side are cut into folds and linings, and the short, firm pieces into buckle chapes and short billets."
+ },
+ {
+  "id": "ch04-018",
+  "chapter": 4,
+  "type": "fact",
+  "text": "A side of closely trimmed stock for cutting a single harness should weigh about sixteen pounds, with a rough brand of seventeen or eighteen."
+ },
+ {
+  "id": "ch04-019",
+  "chapter": 4,
+  "type": "example",
+  "text": "When cutting a single harness from one side, the back is first straightened along a line drawn as nearly as possible parallel with the center of the back-bone, even if a little stock is wasted."
+ },
+ {
+  "id": "ch04-020",
+  "chapter": 4,
+  "type": "link",
+  "text": "Straightening the back before cutting wastes a little stock, but having the fibre of the side parallel with the edges of the straps more than repays the loss."
+ },
+ {
+  "id": "ch04-021",
+  "chapter": 4,
+  "type": "example",
+  "text": "In cutting a single harness from one side, the traces and reins are measured off and cut first from the straightened back, and the breeching-straps are then measured from the back end."
+ },
+ {
+  "id": "ch04-022",
+  "chapter": 4,
+  "type": "fact",
+  "text": "Two rules prevent waste in cutting a side: keep a straight edge the full length of the side, and cut the cross-lines no deeper than absolutely necessary to release the straps."
+ },
+ {
+  "id": "ch04-023",
+  "chapter": 4,
+  "type": "fact",
+  "text": "A common fault of cutters is holding the knife at an acute angle and cutting from the under side, so that it cuts into the side of leather to release the end of the strap just slit off."
+ },
+ {
+  "id": "ch04-024",
+  "chapter": 4,
+  "type": "fact",
+  "text": "The offset left after cutting the breeching-straps can be cut up into layers for girths."
+ },
+ {
+  "id": "ch04-025",
+  "chapter": 4,
+  "type": "fact",
+  "text": "The lengths cut for turnback or hip-straps also answer for shaft tug-billets and back-bands, giving a pair of each by cutting in the middle."
+ },
+ {
+  "id": "ch04-026",
+  "chapter": 4,
+  "type": "fact",
+  "text": "Straps that require rounding, such as checks and round throat-latches, are cut from their own section of the side, and linings and points from another, always measuring from the back end."
+ },
+ {
+  "id": "ch04-027",
+  "chapter": 4,
+  "type": "fact",
+  "text": "The thin, baggy flank of a side should not be cut into straps, but it can be used to good advantage for linings to winkers."
+ },
+ {
+  "id": "ch04-028",
+  "chapter": 4,
+  "type": "fact",
+  "text": "The section of the side just back of the flank suits winker-braces, because its back end is thick and the leather grows gradually thinner toward the flank."
+ },
+ {
+  "id": "ch04-029",
+  "chapter": 4,
+  "type": "fact",
+  "text": "The part of the side forward of the flank is worked up into folds, cut in this order: breeching, breast-collar, neck-straps, belly-bands and crowns."
+ },
+ {
+  "id": "ch04-030",
+  "chapter": 4,
+  "type": "fact",
+  "text": "The thick end of the side back of the flank is cut into buckle chapes and short billets, and thin ends and irregular pieces are used for linings for tabs."
+ },
+ {
+  "id": "ch04-031",
+  "chapter": 4,
+  "type": "fact",
+  "text": "Defects in a side may require slight changes in which section gives which strap, but straps requiring great strength must never be crowded below the line that marks the bottom of the back."
+ },
+ {
+  "id": "ch05-001",
+  "chapter": 5,
+  "type": "fact",
+  "text": "For fine harness only the firm part of the leather is used: the bellies and flanks are cut off, leaving a narrow strip called the back, from eighteen to twenty-two inches wide."
+ },
+ {
+  "id": "ch05-002",
+  "chapter": 5,
+  "type": "fact",
+  "text": "Most harness makers only moisten fine oak leather with a sponge and water and do not wet it to any considerable extent."
+ },
+ {
+  "id": "ch05-003",
+  "chapter": 5,
+  "type": "example",
+  "text": "One leading manufacturer places all the straps in a vat of water until the grain shows signs of the tallow coming to the surface, then removes, wipes and hangs them until the surface moisture has dried off."
+ },
+ {
+  "id": "ch05-004",
+  "chapter": 5,
+  "type": "example",
+  "text": "After vat-soaked straps are surface dry, the fitter rolls the whole lot in a coarse cloth and takes them out one at a time to fit them up."
+ },
+ {
+  "id": "ch05-005",
+  "chapter": 5,
+  "type": "fact",
+  "text": "Curriers condemn soaking fine, well-finished stock in a vat, but experience shows such leather works up into the finest harness with a soft, clear grain and smooth edges, and stays soft as long as leather that was only moistened."
+ },
+ {
+  "id": "ch05-006",
+  "chapter": 5,
+  "type": "link",
+  "text": "Soaking the straps in a vat forces out a little oil and grease, but this can easily be replaced without harm, and the labor of fitting up is markedly reduced."
+ },
+ {
+  "id": "ch05-007",
+  "chapter": 5,
+  "type": "fact",
+  "text": "Well-tanned but poorly curried leather is far preferable to poorly tanned leather, however well curried, provided the harness maker treats it properly."
+ },
+ {
+  "id": "ch05-008",
+  "chapter": 5,
+  "type": "fact",
+  "text": "Well-tanned but poorly curried stock should be soaked until it is well moistened to the center; the time needed varies so much that the only guide is the appearance of grease on the surface."
+ },
+ {
+  "id": "ch05-009",
+  "chapter": 5,
+  "type": "definition",
+  "text": "A testing-strap is a small scrap of leather soaked in the water with the straps; the workman cuts it to see whether the moisture has penetrated to the center."
+ },
+ {
+  "id": "ch05-010",
+  "chapter": 5,
+  "type": "example",
+  "text": "To clean badly fleshed leather, lay the strap on the bench grain side down, secure the end with an awl, and with a spokeshave cut off the loose scraps and thin, veiny portions."
+ },
+ {
+  "id": "ch05-011",
+  "chapter": 5,
+  "type": "link",
+  "text": "No more of the flesh side should be cut away than is absolutely necessary, because cutting it away weakens the leather."
+ },
+ {
+  "id": "ch05-012",
+  "chapter": 5,
+  "type": "example",
+  "text": "After cleaning, rub the flesh side with a slicker, lay the strap on a board grain side down, and brush on a coat of melted tallow, warm enough to run freely but not hot enough to injure the leather."
+ },
+ {
+  "id": "ch05-013",
+  "chapter": 5,
+  "type": "fact",
+  "text": "Straps coated with tallow should remain so for at least twelve hours, by which time the moisture has dried out and the tallow has struck well into the pores."
+ },
+ {
+  "id": "ch05-014",
+  "chapter": 5,
+  "type": "fact",
+  "text": "No bad results follow if leather stays coated with tallow much longer than twelve hours."
+ },
+ {
+  "id": "ch05-015",
+  "chapter": 5,
+  "type": "example",
+  "text": "After the tallow has stood, place each strap grain side down and rub the flesh side thoroughly with a glass slicker, working in all the grease possible and removing the surplus. Then turn the strap over and rub the grain side to set the grain."
+ },
+ {
+  "id": "ch05-016",
+  "chapter": 5,
+  "type": "fact",
+  "text": "If the straps are to be worked up full, the grain side need not be rubbed much, because the rubbing during fitting up gives it a fine finish."
+ },
+ {
+  "id": "ch05-017",
+  "chapter": 5,
+  "type": "link",
+  "text": "Recurrying improves the wearing qualities of leather as well as its looks: the rubbing makes the leather more dense and works the grease into every fibre, making it soft and flexible."
+ },
+ {
+  "id": "ch05-018",
+  "chapter": 5,
+  "type": "fact",
+  "text": "With ordinary leather, recurrying reduces the thickness by nearly one third without removing any of the original substance."
+ },
+ {
+  "id": "ch05-019",
+  "chapter": 5,
+  "type": "fact",
+  "text": "Recurrying benefits well-tanned but poorly curried leather more than it benefits poorly tanned leather, but in both cases the improvement repays the labor."
+ },
+ {
+  "id": "ch05-020",
+  "chapter": 5,
+  "type": "fact",
+  "text": "Leather for single-strap track harness should always be rubbed on the flesh side, so that after blacking the flesh side is nearly equal to the grain side."
+ },
+ {
+  "id": "ch05-021",
+  "chapter": 5,
+  "type": "link",
+  "text": "The increased density that rubbing gives to leather makes it possible to trim the edges smoothly and finish them as finely as the grain."
+ },
+ {
+  "id": "ch05-022",
+  "chapter": 5,
+  "type": "fact",
+  "text": "Common harness leather is not recurried because the prices make it unprofitable; the straps are simply moistened by dipping them in a pail of water or with a sponge, using no more water than is necessary."
+ },
+ {
+  "id": "ch06-001",
+  "chapter": 6,
+  "type": "fact",
+  "text": "Many harness fit badly because a large part of the trade refuses to measure the horse; some straps can be adjusted with buckles, but the principal ones cannot and must be the right length from the start."
+ },
+ {
+  "id": "ch06-002",
+  "chapter": 6,
+  "type": "fact",
+  "text": "The hame tug is prominent among the straps whose length cannot be adjusted afterwards, whether for a short tug or a long tug harness."
+ },
+ {
+  "id": "ch06-003",
+  "chapter": 6,
+  "type": "fact",
+  "text": "On a long tug harness the hame tug must be of such length that, with the collar well down on the shoulder, the market tug follows a line parallel with the center of the pad side."
+ },
+ {
+  "id": "ch06-004",
+  "chapter": 6,
+  "type": "link",
+  "text": "If the market tug does not lie parallel with the center of the pad side, an unnecessary strain is thrown on the swivel or loop in the end of the pad top, and the pad is likely to be drawn out of shape."
+ },
+ {
+  "id": "ch06-005",
+  "chapter": 6,
+  "type": "link",
+  "text": "If a short tug is long enough for the trace buckle to touch the pad trace bearer on a double harness, or the buckle on the back-band of a single harness, those straps or the hame tug itself will be injured."
+ },
+ {
+  "id": "ch06-006",
+  "chapter": 6,
+  "type": "fact",
+  "text": "The length of the horse from the collar to the girth is an important measurement because it governs the hame tug."
+ },
+ {
+  "id": "ch06-007",
+  "chapter": 6,
+  "type": "link",
+  "text": "On a breast collar harness, if the neck strap tugs are set too far back the collar sags in front and interferes with the horse's movement, or the neck strap must be shortened so much that it is strained when the trace is straightened."
+ },
+ {
+  "id": "ch06-008",
+  "chapter": 6,
+  "type": "fact",
+  "text": "Large manufacturers who cannot measure every horse use a set of lengths for each class of harness, based on the size of horse it is meant for."
+ },
+ {
+  "id": "ch06-009",
+  "chapter": 6,
+  "type": "fact",
+  "text": "A coach harness is cut for horses sixteen hands high or over."
+ },
+ {
+  "id": "ch06-010",
+  "chapter": 6,
+  "type": "fact",
+  "text": "A double road harness is cut for horses fifteen or fifteen and a half hands high."
+ },
+ {
+  "id": "ch06-011",
+  "chapter": 6,
+  "type": "fact",
+  "text": "A light phaeton harness is cut for horses fourteen or fourteen and a half hands high."
+ },
+ {
+  "id": "ch06-012",
+  "chapter": 6,
+  "type": "fact",
+  "text": "A light track harness is cut to fit a horse fifteen or fifteen and a half hands high."
+ },
+ {
+  "id": "ch06-013",
+  "chapter": 6,
+  "type": "fact",
+  "text": "A coupe harness is cut for horses sixteen to sixteen and a half hands high."
+ },
+ {
+  "id": "ch06-014",
+  "chapter": 6,
+  "type": "fact",
+  "text": "Regular buggy harness for common use is cut with traces and other lengthwise straps to fit horses fifteen hands high, but the girths are cut for heavier animals."
+ },
+ {
+  "id": "ch06-015",
+  "chapter": 6,
+  "type": "example",
+  "text": "One rule starts from the lengths suited to a fifteen-hand horse and, for every hand of increase or decrease in the horse's size, adds or subtracts four inches on girths, one and one half inches on breast and breeching bodies, and three inches on hip and neck straps."
+ },
+ {
+  "id": "ch06-016",
+  "chapter": 6,
+  "type": "example",
+  "text": "To measure for a bridle cheek piece, take the length from the corner of the mouth to one inch below the root of the ear, add enough for the lap that secures the buckle, and add two thirds of the original length."
+ },
+ {
+  "id": "ch06-017",
+  "chapter": 6,
+  "type": "fact",
+  "text": "A cheek piece cut by the two-thirds rule is long enough for the loose end to enter the cheek loop about one half its length."
+ },
+ {
+  "id": "ch06-018",
+  "chapter": 6,
+  "type": "example",
+  "text": "To measure for a crown piece, measure from the root of the ear on one side, over the head, to the root of the ear on the other side, and add five or six inches to each end for the cheek and throat latch billets."
+ },
+ {
+  "id": "ch06-019",
+  "chapter": 6,
+  "type": "example",
+  "text": "To measure for a throat latch, measure from a point two inches below the root of the ear, around the throat, to the corresponding point on the other side."
+ },
+ {
+  "id": "ch06-020",
+  "chapter": 6,
+  "type": "example",
+  "text": "To measure the neck strap for a breast collar, pass the measure over the neck just forward of the highest point of the withers and carry the ends forward three inches."
+ },
+ {
+  "id": "ch06-021",
+  "chapter": 6,
+  "type": "example",
+  "text": "To find the length of a breast collar, measure from a point four inches above the elbow on one side, around the breast just below where the throat enters the breast, to the same point on the other side."
+ },
+ {
+  "id": "ch06-022",
+  "chapter": 6,
+  "type": "example",
+  "text": "For a harness with a long tug and market tug, measure from the end of the hame draft eye to the center of the girth, and deduct the length of the buckle back of the center of the loop."
+ },
+ {
+  "id": "ch06-023",
+  "chapter": 6,
+  "type": "fact",
+  "text": "When measuring for the hame tug, the collar must sit well back in its place, because a tug that is too long or too short keeps the market tug out of its proper position."
+ },
+ {
+  "id": "ch06-024",
+  "chapter": 6,
+  "type": "example",
+  "text": "To measure for the breeching, draw the line around the buttock from a point just above the stifle to the same point on the opposite side, and allow one inch for slack."
+ },
+ {
+  "id": "ch06-025",
+  "chapter": 6,
+  "type": "example",
+  "text": "To measure for hip straps, measure from a point ten inches forward of the crupper down to the point occupied by the body of the breeching, and deduct three inches for the breeching tugs."
+ },
+ {
+  "id": "ch06-026",
+  "chapter": 6,
+  "type": "fact",
+  "text": "A set of lengths suited to horses in one locality may be partly unsuited to those of another because the horses differ in build, so furnished lengths should be tested before being adopted in full."
+ },
+ {
+  "id": "ch13-001",
+  "chapter": 13,
+  "type": "fact",
+  "text": "Harness makers have three kinds of leather loops to choose from: hand made, patent and pressed."
+ },
+ {
+  "id": "ch13-002",
+  "chapter": 13,
+  "type": "fact",
+  "text": "Hand made loops are the best and are preferred on fine harness, but when well made they are too expensive for common work, and when poorly made they are inferior to the other kinds."
+ },
+ {
+  "id": "ch13-003",
+  "chapter": 13,
+  "type": "definition",
+  "text": "Patent loops are loops pressed up in hot dies and sold to the trade ready for use in every needed size and a variety of styles."
+ },
+ {
+  "id": "ch13-004",
+  "chapter": 13,
+  "type": "definition",
+  "text": "Pressed loops are loops made up in the workshop and shaped with dies and presses after they have been stitched on the straps."
+ },
+ {
+  "id": "ch13-005",
+  "chapter": 13,
+  "type": "fact",
+  "text": "Patent loops are nicely finished and much cheaper than hand made loops, so they have taken their place on medium grades and are also much used on common harness."
+ },
+ {
+  "id": "ch13-006",
+  "chapter": 13,
+  "type": "fact",
+  "text": "Hand made loops are more durable than other kinds and, because of how they are made, less uniform in style of creasing than loops made by dies."
+ },
+ {
+  "id": "ch13-007",
+  "chapter": 13,
+  "type": "fact",
+  "text": "Loop leather must be tempered in water to a condition where it is easily worked yet keeps the full impression of the creasing irons, which it will not do if either too wet or too dry."
+ },
+ {
+  "id": "ch13-008",
+  "chapter": 13,
+  "type": "example",
+  "text": "The general rule for tempering loop leather is to soak it until thoroughly moistened, then remove it from the water and let it become surface dry before creasing."
+ },
+ {
+  "id": "ch13-009",
+  "chapter": 13,
+  "type": "example",
+  "text": "Some workmen moisten the loop leather only a little before stitching it on and temper it afterwards with water and a sponge; leather found too dry after stitching can be corrected with a moist sponge."
+ },
+ {
+  "id": "ch13-010",
+  "chapter": 13,
+  "type": "fact",
+  "text": "For a well-shaped loop, a fulness of about three eighths of an inch over and above the width of the loop stick should be allowed for a one and one quarter inch loop of ordinary thickness."
+ },
+ {
+  "id": "ch13-011",
+  "chapter": 13,
+  "type": "link",
+  "text": "The extra leather allowed in a loop must be worked up and outward to the corners; otherwise the corners will be thin and weak at the very point where the greatest strength is required."
+ },
+ {
+  "id": "ch13-012",
+  "chapter": 13,
+  "type": "fact",
+  "text": "Hand creased loops are commonly attached by stitching both sides before creasing."
+ },
+ {
+  "id": "ch13-013",
+  "chapter": 13,
+  "type": "fact",
+  "text": "Using a clamp together with the loop stick avoids much of the trouble of loop leather becoming too dry before it can be creased; with a clamp, an iron loop stick replaces the wooden one."
+ },
+ {
+  "id": "ch13-014",
+  "chapter": 13,
+  "type": "definition",
+  "text": "The back clamp iron is made the full length of the loop stick and one eighth of an inch wider, with an ear at each end projecting about one inch above the back iron and carrying a thumb screw."
+ },
+ {
+  "id": "ch13-015",
+  "chapter": 13,
+  "type": "example",
+  "text": "With the back clamp iron, one side of the loop is stitched in place and the other inserted, then the thumb screws are tightened against the loop stick to hold everything until the loop is creased and finished, after which it is stitched fast."
+ },
+ {
+  "id": "ch13-016",
+  "chapter": 13,
+  "type": "example",
+  "text": "When shaping a loop on an ordinary loop stick, first work up the sides with a slicker, then rub down the top, and keep working sides and top until the leather is pressed firmly against the stick, always working toward the corners to keep them full."
+ },
+ {
+  "id": "ch13-017",
+  "chapter": 13,
+  "type": "example",
+  "text": "After a loop is worked up, the ends are trimmed true and the edge creases run with a hot creaser; then the pattern is traced off and outlined with a fine tickler before creasing up with suitable tools."
+ },
+ {
+  "id": "ch13-018",
+  "chapter": 13,
+  "type": "fact",
+  "text": "Creasing tools can be kept hot and clean by laying their ends on a metallic box heated by gas jets or an alcohol lamp, with the handles resting on a wire support."
+ },
+ {
+  "id": "ch13-019",
+  "chapter": 13,
+  "type": "fact",
+  "text": "The secret of success in creasing loops is to define all corners and outlines correctly before the leather becomes too hard to take an impression easily."
+ },
+ {
+  "id": "ch13-020",
+  "chapter": 13,
+  "type": "example",
+  "text": "After the pattern on a loop is worked up, the loop stick is replaced by an iron one heated as hot as possible without burning, the leather is colored with iron and vinegar black, and the loop is worked over with warm creasers and slickers until perfectly dry."
+ },
+ {
+  "id": "ch13-021",
+  "chapter": 13,
+  "type": "example",
+  "text": "If a hand made loop needs a better black, leave it until thoroughly seasoned, apply a slight coat of hatter's black, and when dry polish with a silk rag."
+ },
+ {
+  "id": "ch13-022",
+  "chapter": 13,
+  "type": "fact",
+  "text": "A loop that has been well worked is not improved by varnish of any kind."
+ },
+ {
+  "id": "ch13-023",
+  "chapter": 13,
+  "type": "fact",
+  "text": "A properly made loop is solid and free from grain cracks, with full, sharp corners and a well raised ornament; a soft loop is evidence of lack of skill or carelessness."
+ },
+ {
+  "id": "ch13-024",
+  "chapter": 13,
+  "type": "fact",
+  "text": "Pressed loops are the cheapest kind and, when well made, look nearly as good when new as the other styles."
+ },
+ {
+  "id": "ch13-025",
+  "chapter": 13,
+  "type": "fact",
+  "text": "Pressed loops are needled on, and the awl holes on the side last stitched can be placed so that they are almost invisible once the loop is pressed up."
+ },
+ {
+  "id": "ch13-026",
+  "chapter": 13,
+  "type": "fact",
+  "text": "The appliances for pressing loops are a good screw press, a metallic box with open ends, side plates, bottom plates, iron loop sticks, and top stamps or dies."
+ },
+ {
+  "id": "ch13-027",
+  "chapter": 13,
+  "type": "fact",
+  "text": "The metallic box for pressing loops has sides about 3 inches high inside and is 3 inches wide in the clear, except for cheek loops, which need a box wide enough to admit the winker."
+ },
+ {
+  "id": "ch13-028",
+  "chapter": 13,
+  "type": "fact",
+  "text": "The loop pressing box has two thumb screws in one side, about one and a half inches from the bottom, one within 2 inches of each end."
+ },
+ {
+  "id": "ch13-029",
+  "chapter": 13,
+  "type": "link",
+  "text": "The side plates of the loop press must be screwed well up, or the heavy pressure on the top will make the loop spread on the top edge."
+ },
+ {
+  "id": "ch13-030",
+  "chapter": 13,
+  "type": "fact",
+  "text": "Two minutes under the press is all that is needed to make a firm pressed loop, even with cold irons."
+ },
+ {
+  "id": "ch13-031",
+  "chapter": 13,
+  "type": "example",
+  "text": "After a pressed loop is seasoned, color it with vinegar and iron black, rub it with a woolen cloth when dry, and then finish it the same as a hand made loop."
+ },
+ {
+  "id": "ch14-001",
+  "chapter": 14,
+  "type": "fact",
+  "text": "Stitching harness has two objects: strength and ornamentation."
+ },
+ {
+  "id": "ch14-002",
+  "chapter": 14,
+  "type": "fact",
+  "text": "Strength in stitching comes from using thread of the right size, making it up properly, using an awl that is neither too large nor too small, and drawing the work well together."
+ },
+ {
+  "id": "ch14-003",
+  "chapter": 14,
+  "type": "fact",
+  "text": "The thread sizes used by harness makers are Nos. 0, 10, 3, 12 and 5, with No. 5 the finest used."
+ },
+ {
+  "id": "ch14-004",
+  "chapter": 14,
+  "type": "fact",
+  "text": "Threads Nos. 5, 6 and 19 are of the same size but different colors: No. 5 is black, No. 6 is white and No. 19 is yellow."
+ },
+ {
+  "id": "ch14-005",
+  "chapter": 14,
+  "type": "fact",
+  "text": "The rule for choosing thread is to grade it according to the number of stitches to the inch."
+ },
+ {
+  "id": "ch14-006",
+  "chapter": 14,
+  "type": "fact",
+  "text": "No. 0 thread is the coarsest; it is made up with four strands and used where the stitches number eight or under to the inch."
+ },
+ {
+  "id": "ch14-007",
+  "chapter": 14,
+  "type": "fact",
+  "text": "No. 10 thread is a little lighter than No. 0; where the stitching is not more than ten nor less than eight to the inch, it is made up with three strands."
+ },
+ {
+  "id": "ch14-008",
+  "chapter": 14,
+  "type": "fact",
+  "text": "No. 3 thread is finer than No. 10 or No. 0 and is also used where the stitching runs from eight to ten to the inch, with four strands for all ordinary work."
+ },
+ {
+  "id": "ch14-009",
+  "chapter": 14,
+  "type": "fact",
+  "text": "For ten to sixteen stitches to the inch, No. 12 thread is used with four strands."
+ },
+ {
+  "id": "ch14-010",
+  "chapter": 14,
+  "type": "fact",
+  "text": "When the stitching is as fine as eighteen to the inch, No. 12 thread is used with only three strands."
+ },
+ {
+  "id": "ch14-011",
+  "chapter": 14,
+  "type": "fact",
+  "text": "For all work finer than eighteen stitches to the inch, No. 5 is the only thread used, made up with three or four strands according to the work."
+ },
+ {
+  "id": "ch14-012",
+  "chapter": 14,
+  "type": "fact",
+  "text": "The harness thread numbers refer to ball thread; skein thread differs little in size for the same numbers but looks finer because it is smoother."
+ },
+ {
+  "id": "ch14-013",
+  "chapter": 14,
+  "type": "fact",
+  "text": "For heavy work ball thread answers as well as skein thread, but while being twisted it should be well rubbed with the awl handle to remove irregularities; for fine, first-class work skein thread should be used."
+ },
+ {
+  "id": "ch14-014",
+  "chapter": 14,
+  "type": "fact",
+  "text": "White thread is preferred for heavy stitching by harness makers who have tested it, because it is stronger than colored thread."
+ },
+ {
+  "id": "ch14-015",
+  "chapter": 14,
+  "type": "example",
+  "text": "In running off each strand of thread, examine it for hard, irregular spots; most small lumps are loose and can be removed without injury, and where they cannot, break the strand off and start anew."
+ },
+ {
+  "id": "ch14-016",
+  "chapter": 14,
+  "type": "fact",
+  "text": "Long threads are wanted for traces and other long straps to avoid starting a new thread in the body of the work, but ten to eleven feet is the greatest length that can be used to advantage."
+ },
+ {
+  "id": "ch14-017",
+  "chapter": 14,
+  "type": "link",
+  "text": "Even a thread of ten to eleven feet is liable to be weakened by constant wear before it is used up."
+ },
+ {
+  "id": "ch14-018",
+  "chapter": 14,
+  "type": "example",
+  "text": "To make a thread, untwist and pull apart the strand at the end, throw the center over a hook, and untwist and pull apart for the first strand; repeat until the required number of strands is obtained."
+ },
+ {
+  "id": "ch14-019",
+  "chapter": 14,
+  "type": "link",
+  "text": "Untwisting a strand before parting it separates the fibres without breaking them and gives a smooth, tapered end; a strand that is broken off has an irregular end that is troublesome when threading needles or attaching bristles."
+ },
+ {
+  "id": "ch14-020",
+  "chapter": 14,
+  "type": "fact",
+  "text": "There are two opinions on waxing thread: some wax only after the strands are twisted together, while others do most of the waxing before twisting."
+ },
+ {
+  "id": "ch14-021",
+  "chapter": 14,
+  "type": "link",
+  "text": "Examining used thread supports waxing before twisting: so little wax remains on the surface that it adds neither strength nor water resistance, while strands waxed before twisting keep all but the surface wax."
+ },
+ {
+  "id": "ch14-022",
+  "chapter": 14,
+  "type": "fact",
+  "text": "Fine threads may be waxed after twisting, but all heavy threads should be well waxed before twisting."
+ },
+ {
+  "id": "ch14-023",
+  "chapter": 14,
+  "type": "example",
+  "text": "After the strands are broken off, rub them by giving one turn around the awl handle and rubbing back and forth, then apply the wax and twist up moderately firm."
+ },
+ {
+  "id": "ch14-024",
+  "chapter": 14,
+  "type": "link",
+  "text": "A thread twisted too firmly will not take the wax well and wears away rapidly; a thread left too loose lets the strands open and show after the stitch is laid."
+ },
+ {
+  "id": "ch14-025",
+  "chapter": 14,
+  "type": "definition",
+  "text": "Shoemaker's black wax, the best wax for general use on thread, is made of equal parts of pitch and tallow."
+ },
+ {
+  "id": "ch14-026",
+  "chapter": 14,
+  "type": "fact",
+  "text": "Ordinary shoemaker's black wax is too hard for winter; the winter proportions are one pound of tallow to three quarters of a pound of pitch."
+ },
+ {
+  "id": "ch14-027",
+  "chapter": 14,
+  "type": "fact",
+  "text": "Black wax will not do for white or light-colored thread; a good wax for these is made of refined pitch and tallow, in proportions set by the hardness wanted."
+ },
+ {
+  "id": "ch14-028",
+  "chapter": 14,
+  "type": "fact",
+  "text": "Ordinary yellow and white wax are also used for light thread, but they are not as good as wax made of pitch."
+ },
+ {
+  "id": "ch14-029",
+  "chapter": 14,
+  "type": "fact",
+  "text": "The prick wheel helps greatly in keeping stitches of equal length, but irregularities still occur unless the workman handles his awl correctly."
+ },
+ {
+  "id": "ch14-030",
+  "chapter": 14,
+  "type": "fact",
+  "text": "Straight stitching was once avoided by leading manufacturers because it looked like machine work, but once machines could imitate any hand stitch the straight stitch became popular again."
+ },
+ {
+  "id": "ch14-031",
+  "chapter": 14,
+  "type": "fact",
+  "text": "Leading manufacturers lay all heavy stitches of ten or less to the inch at a moderate angle, using a diamond-shaped awl."
+ },
+ {
+  "id": "ch14-032",
+  "chapter": 14,
+  "type": "example",
+  "text": "To keep angled stitches uniform, the awl is held so that a face of the angle is parallel with the top of the jaw of the stitching-horse, and part of the awl handle is flattened to match that angle."
+ },
+ {
+  "id": "ch14-033",
+  "chapter": 14,
+  "type": "fact",
+  "text": "If the stitching is sixteen or less to the inch the angle of the stitch is reduced, and all stitches of more than sixteen to the inch are laid straight."
+ },
+ {
+  "id": "ch14-034",
+  "chapter": 14,
+  "type": "link",
+  "text": "Drawing harder on one thread than on the other produces irregular stitches."
+ },
+ {
+  "id": "ch14-035",
+  "chapter": 14,
+  "type": "fact",
+  "text": "A common fault of stitchers is tightening the thread in one motion as soon as it is short enough; whatever the length of the thread, the tightening up should always be a distinct motion."
+ },
+ {
+  "id": "ch14-036",
+  "chapter": 14,
+  "type": "fact",
+  "text": "For flat stitches the force applied to both threads should be equal; for a full stitch on the face side, the thread bearing against the under side should be drawn the tightest, but not enough to draw out the channeling."
+ },
+ {
+  "id": "ch14-037",
+  "chapter": 14,
+  "type": "fact",
+  "text": "Stitchers tend to draw the thread in the awl hand the tightest, and it takes practice to overcome this."
+ },
+ {
+  "id": "ch14-038",
+  "chapter": 14,
+  "type": "example",
+  "text": "Where stitches show equally from both sides, enter the needles and, when the one on the left side is drawn nearly out, bring the loose thread forward, throw it over the needle, and tighten up as usual; the work then looks nearly as well on the reverse as on the right side."
+ },
+ {
+  "id": "ch14-039",
+  "chapter": 14,
+  "type": "fact",
+  "text": "The awl should be driven through at right angles with the face of the leather and held so that it always enters in the same position."
+ },
+ {
+  "id": "ch14-040",
+  "chapter": 14,
+  "type": "link",
+  "text": "Stitches should never be buried into the leather, because this tends to weaken the work, not strengthen it."
+ },
+ {
+  "id": "ch20-001",
+  "chapter": 20,
+  "type": "fact",
+  "text": "Harness mountings are divided into five classes: plated (silver, gold or nickel), pure metal, covered (leather or composition), japanned, and tinned."
+ },
+ {
+  "id": "ch20-002",
+  "chapter": 20,
+  "type": "definition",
+  "text": "Close plate is plating in which the fine metal is rolled out in thin sheets, applied as a covering to the iron or composition body, and made to adhere by solder and heat."
+ },
+ {
+  "id": "ch20-003",
+  "chapter": 20,
+  "type": "definition",
+  "text": "Electro plate is plating in which the fine metal is dissolved in a liquid solution, the articles are suspended in it, and an electric current deposits the metal evenly on their surface."
+ },
+ {
+  "id": "ch20-004",
+  "chapter": 20,
+  "type": "fact",
+  "text": "Silver for close plating is rolled in sheets of various thicknesses designated by numbers, the lightest being No. 1."
+ },
+ {
+  "id": "ch20-005",
+  "chapter": 20,
+  "type": "fact",
+  "text": "No. 1½ plating silver comes in light, fair and stout grades weighing 3, 3½ and 4½ pennyweights to a foot in length by 6½ inches in width."
+ },
+ {
+  "id": "ch20-006",
+  "chapter": 20,
+  "type": "fact",
+  "text": "No. 2 plating silver comes in light, fair and stout grades weighing 5½, 6½ and 7½ pennyweights to the foot."
+ },
+ {
+  "id": "ch20-007",
+  "chapter": 20,
+  "type": "fact",
+  "text": "No. 2½ plating silver comes in light, fair and stout grades weighing 8½, 9½ and 10½ pennyweights to the foot."
+ },
+ {
+  "id": "ch20-008",
+  "chapter": 20,
+  "type": "definition",
+  "text": "\"Knob\" silver is the No. 2½ fair grade of plating silver, weighing 9½ pennyweights to the foot; it is the heaviest used for the regular harness trade."
+ },
+ {
+  "id": "ch20-009",
+  "chapter": 20,
+  "type": "definition",
+  "text": "\"Heavy Knob\" silver is the No. 2½ stout grade of plating silver, weighing 10½ pennyweights to the foot."
+ },
+ {
+  "id": "ch20-010",
+  "chapter": 20,
+  "type": "link",
+  "text": "Heavy Knob silver is seldom used on harness mountings because it can only be worked to advantage by the hard solder process, which is too expensive for harness work."
+ },
+ {
+  "id": "ch20-011",
+  "chapter": 20,
+  "type": "fact",
+  "text": "There are eight grades of plating silver below \"Knob\", which partly explains the great difference in prices of plated goods of one pattern."
+ },
+ {
+  "id": "ch20-012",
+  "chapter": 20,
+  "type": "example",
+  "text": "Based on the government standard, a foot of No. 1 silver 6½ inches wide is worth 13.6 cents, while a foot of \"Knob\" silver is worth 64.6 cents."
+ },
+ {
+  "id": "ch20-013",
+  "chapter": 20,
+  "type": "link",
+  "text": "Heavy plating silver costs more in labor than light silver, because thin silver needs little labor to solder on while the extra thickness of heavy silver needs extra skill and time."
+ },
+ {
+  "id": "ch20-014",
+  "chapter": 20,
+  "type": "example",
+  "text": "The quality of close plate can be judged by examining the surface: the thinner the silver, the less dense and perfect the surface. No. 1 shows a great number of minute holes, while \"Knob\" looks perfect to the naked eye."
+ },
+ {
+  "id": "ch20-015",
+  "chapter": 20,
+  "type": "example",
+  "text": "To tell close plate from electro plate, breathe on the polished surface: on close plate the seam where the metal is joined shows at a glance as a bluish streak, and the heavier the plate the more distinct the seam."
+ },
+ {
+  "id": "ch20-016",
+  "chapter": 20,
+  "type": "fact",
+  "text": "Electro plate is less durable than close plate, but when deposited in sufficient quantity and hand burnished it wears well."
+ },
+ {
+  "id": "ch20-017",
+  "chapter": 20,
+  "type": "link",
+  "text": "Blemishes in a casting are more easily seen after electro plating and burnishing than before, because the burnisher cannot reach the minute depressions and they show as dead, white spots."
+ },
+ {
+  "id": "ch20-018",
+  "chapter": 20,
+  "type": "example",
+  "text": "A test for silver: apply a cold saturated solution of bichromate of potassa in nitric acid to the clean surface with a glass rod and wash it off at once with cold water. Pure silver shows a blood-red mark."
+ },
+ {
+  "id": "ch20-019",
+  "chapter": 20,
+  "type": "fact",
+  "text": "In the bichromate test, German silver turns the liquid brown but the mark shows no shade of red; the red mark appears on no white metal but silver."
+ },
+ {
+  "id": "ch20-020",
+  "chapter": 20,
+  "type": "fact",
+  "text": "Tarnishing is not evidence that silver is impure: pure silver turns a dingy reddish brown and loses its lustre more readily than some composition white metals."
+ },
+ {
+  "id": "ch20-021",
+  "chapter": 20,
+  "type": "fact",
+  "text": "Gold plating on harness mountings is always done by the electro process; it is the most showy but the frailest plating in use."
+ },
+ {
+  "id": "ch20-022",
+  "chapter": 20,
+  "type": "link",
+  "text": "There is no such thing as close plate gold, because no solder exists that melts at a lower heat than gold; all claims that a gold covered article is close plate are fraudulent."
+ },
+ {
+  "id": "ch20-023",
+  "chapter": 20,
+  "type": "fact",
+  "text": "Nickel is deposited by the electro process, but because it is a hard metal it wears well; its color is a bluish white, most like finely polished steel."
+ },
+ {
+  "id": "ch20-024",
+  "chapter": 20,
+  "type": "fact",
+  "text": "Nickel does not tarnish easily and will not rust; its only objection aside from color is that it sometimes peels from the iron or composition core."
+ },
+ {
+  "id": "ch20-025",
+  "chapter": 20,
+  "type": "link",
+  "text": "Peeling of nickel plate is due either to a defect in cleaning the surface to be plated or to the manner of depositing the nickel."
+ },
+ {
+  "id": "ch20-026",
+  "chapter": 20,
+  "type": "fact",
+  "text": "Nickel has largely replaced burnishing on bits, stirrups and spurs."
+ },
+ {
+  "id": "ch20-027",
+  "chapter": 20,
+  "type": "fact",
+  "text": "The composition metals used for harness mountings are brass, oroide, aluminum and German silver."
+ },
+ {
+  "id": "ch20-028",
+  "chapter": 20,
+  "type": "fact",
+  "text": "Brass can be cast to any form, keeps its malleability, is quite dense and takes a brilliant polish, but its proneness to tarnish is an objection that tends to outweigh its good qualities."
+ },
+ {
+  "id": "ch20-029",
+  "chapter": 20,
+  "type": "fact",
+  "text": "In the United States brass was long considered better suited to express and other heavy mountings than to coach or light carriage harness, until fashion brought it back on coach harness."
+ },
+ {
+  "id": "ch20-030",
+  "chapter": 20,
+  "type": "definition",
+  "text": "Oroide is a yellow metal introduced as a substitute for gold; polished, it has a golden color, but it tarnishes too easily to be used without being plated."
+ },
+ {
+  "id": "ch20-031",
+  "chapter": 20,
+  "type": "fact",
+  "text": "Oroide makes an excellent base for gilding and is largely used for that reason; unplated and ungilded, it has few advantages over ordinary brass."
+ },
+ {
+  "id": "ch20-032",
+  "chapter": 20,
+  "type": "fact",
+  "text": "Aluminum, also called alumina bronze, is the finest yellow metal for mountings: its color closely resembles gold and it takes as high a polish."
+ },
+ {
+  "id": "ch20-033",
+  "chapter": 20,
+  "type": "fact",
+  "text": "Aluminum mountings are tough and next to gold in lightness, but their high price limits them to the most expensive mountings."
+ },
+ {
+  "id": "ch20-034",
+  "chapter": 20,
+  "type": "fact",
+  "text": "German silver is the best white metal known for mountings that are to be plated with silver."
+ },
+ {
+  "id": "ch20-035",
+  "chapter": 20,
+  "type": "link",
+  "text": "All composition castings lack rigidity, so they should never be used for check rein hooks; these should be of iron, plated to match the terrets."
+ },
+ {
+  "id": "ch20-036",
+  "chapter": 20,
+  "type": "link",
+  "text": "Composition metal does not rust, so it can be used where iron cannot, particularly on the sea coast, where sea air acts very injuriously on plated mountings."
+ },
+ {
+  "id": "ch20-037",
+  "chapter": 20,
+  "type": "fact",
+  "text": "Covered mountings are of two kinds: metal covered with leather, and a metal core covered with a plastic composition."
+ },
+ {
+  "id": "ch20-038",
+  "chapter": 20,
+  "type": "fact",
+  "text": "Calfskin or very fine grained kip are the only leathers suited to covering mountings, though many cheaper grades are covered with sheepskin or thin split leather."
+ },
+ {
+  "id": "ch20-039",
+  "chapter": 20,
+  "type": "link",
+  "text": "Thin, light leather cuts the work of covering a mounting by at least one half, but the inferior work soon shows in seams ripping or leather cracking."
+ },
+ {
+  "id": "ch20-040",
+  "chapter": 20,
+  "type": "example",
+  "text": "To cover a mounting with leather: cut the leather to shape, soak it until soft, apply paste, work it around the metal with slicking sticks, join the edges with pinchers or in dies until dry, then stitch the seam, true off the welt, and black and finish the leather."
+ },
+ {
+  "id": "ch20-041",
+  "chapter": 20,
+  "type": "fact",
+  "text": "To reduce ripping, some leather covered mountings use two seams on the edges in place of one center seam; one side of each seam is protected by the metal lining and the article is more ornamental."
+ },
+ {
+  "id": "ch20-042",
+  "chapter": 20,
+  "type": "definition",
+  "text": "The \"Centennial\" is a patented leather covered mounting in which the leather is drawn into a channel or recess in the metal ring, so the rim on the edge protects the leather."
+ },
+ {
+  "id": "ch20-043",
+  "chapter": 20,
+  "type": "fact",
+  "text": "On the Centennial mounting the center is black and the lining, edges and head are of metal, exactly the reverse of the Imperial."
+ },
+ {
+  "id": "ch20-044",
+  "chapter": 20,
+  "type": "fact",
+  "text": "Most small leather covered harness buckles were imported from England, where they were produced at much lower prices than in America."
+ },
+ {
+  "id": "ch20-045",
+  "chapter": 20,
+  "type": "fact",
+  "text": "The composition covered mountings are hard rubber and celluloid."
+ },
+ {
+  "id": "ch20-046",
+  "chapter": 20,
+  "type": "fact",
+  "text": "Hard rubber as a covering for harness buckles and rings was patented in 1866 by Ralph Dunham of Connecticut."
+ },
+ {
+  "id": "ch20-047",
+  "chapter": 20,
+  "type": "fact",
+  "text": "In 1867 Andrew Albright of Newark, New Jersey, obtained a patent for covering harness and carriage mountings with rubber."
+ },
+ {
+  "id": "ch20-048",
+  "chapter": 20,
+  "type": "fact",
+  "text": "The rubber for covered mountings is the best Para gum mixed in the proportion of two parts of gum to one part of pulverized sulphur."
+ },
+ {
+  "id": "ch20-049",
+  "chapter": 20,
+  "type": "fact",
+  "text": "Rubber for mountings is supplied in long sheets from one to four lines French measure in thickness, kept rolled up in enameled cloth."
+ },
+ {
+  "id": "ch20-050",
+  "chapter": 20,
+  "type": "example",
+  "text": "Before covering, the cut rubber pieces are laid on enameled cloth, saturated with benzine, covered, and left overnight, by which time the rubber becomes sticky."
+ },
+ {
+  "id": "ch20-051",
+  "chapter": 20,
+  "type": "fact",
+  "text": "Plated parts of a rubber mounting are covered with tin foil before vulcanizing, and the goods are placed in moulds, buried in soapstone, or hung in an open pan."
+ },
+ {
+  "id": "ch20-052",
+  "chapter": 20,
+  "type": "definition",
+  "text": "The vulcanator is a large tube of boiler iron, strong enough to sustain a very heavy pressure of steam, in which rubber covered mountings are cured."
+ },
+ {
+  "id": "ch20-053",
+  "chapter": 20,
+  "type": "example",
+  "text": "Rubber mountings cured in pans by \"open steam\" are given a heat of 20 degrees for one hour, with 10 degrees added each hour until 65 degrees is reached; goods in soapstone are raised to 65 degrees at the start."
+ },
+ {
+  "id": "ch20-054",
+  "chapter": 20,
+  "type": "example",
+  "text": "After vulcanizing, small rubber covered articles are tumbled in a barrel with charcoal and water to remove rough edges, heated in a steam box, and pressed in steel dies by hydraulic presses, which also sets a row of imitation stitches."
+ },
+ {
+  "id": "ch20-055",
+  "chapter": 20,
+  "type": "example",
+  "text": "Large rubber covered articles are trued up by hand, cleaned on the ash wheel, and then taken to two buff wheels, the first used with rotten stone and the second dry."
+ },
+ {
+  "id": "ch20-056",
+  "chapter": 20,
+  "type": "fact",
+  "text": "Up to 1880 rubber covered mountings had never been made anywhere but in the United States."
+ },
+ {
+  "id": "ch20-057",
+  "chapter": 20,
+  "type": "fact",
+  "text": "Celluloid closely resembles amber, can be colored any shade, and does not fade through use; celluloid mountings were made only in the United States."
+ },
+ {
+  "id": "ch20-058",
+  "chapter": 20,
+  "type": "example",
+  "text": "In making celluloid mountings, the castings rest on small iron pins inside metal \"stuffing dies\", and a hydraulic plunger forces celluloid heated to 190 degrees from the stuffing cylinder into the moulds."
+ },
+ {
+  "id": "ch20-059",
+  "chapter": 20,
+  "type": "fact",
+  "text": "After seasoning in a steam-heated drying room, celluloid mountings are pressed in highly polished steel dies under a fifty-ton pressure, which compacts the material and gives a fine surface."
+ },
+ {
+  "id": "ch20-060",
+  "chapter": 20,
+  "type": "fact",
+  "text": "Celluloid martingale rings closely resemble ivory, are much stronger, and sell at lower prices; they are made of solid gum run into tubes, cut into rings, seasoned, and turned on automatic lathes."
+ },
+ {
+  "id": "ch20-061",
+  "chapter": 20,
+  "type": "definition",
+  "text": "\"XC plate\" is the trade name for tinned mountings, among the cheapest goods; the cleaned metal castings are dipped into molten tin."
+ },
+ {
+  "id": "ch20-062",
+  "chapter": 20,
+  "type": "definition",
+  "text": "Japanned mountings are mountings covered with a coat of black varnish that is solidified by heat."
+ },
+ {
+  "id": "ch20-063",
+  "chapter": 20,
+  "type": "fact",
+  "text": "The \"Grant\", \"Bismarck\" and \"Arlington\" mountings are patented as designs, and the \"Double Seam\" is patented both as a design and as a new article of manufacture."
+ },
+ {
+  "id": "ch20-064",
+  "chapter": 20,
+  "type": "definition",
+  "text": "The \"Imperial\" is a patented mounting of white or yellow composition metal lined with hard rubber finished flush with the outside, leaving a narrow black edge with a metallic band center."
+ },
+ {
+  "id": "ch20-065",
+  "chapter": 20,
+  "type": "link",
+  "text": "On the Imperial mounting the wear comes directly on the hard rubber lining, which, owing to its hardness, wears longer than metal linings."
+ },
+ {
+  "id": "ch23-001",
+  "chapter": 23,
+  "type": "fact",
+  "text": "Repairing harness seeks two results: complete restoration of strength and form, and renovation and softening of the leather so that it looks and bends as nearly as possible as when first made."
+ },
+ {
+  "id": "ch23-002",
+  "chapter": 23,
+  "type": "example",
+  "text": "Before repairing a harness, unbuckle and separate all patent and fancy colored leather from the plain leather wherever this can be done without ripping, and also separate pads, gig saddles and other parts lined with cloth or stuffed."
+ },
+ {
+  "id": "ch23-003",
+  "chapter": 23,
+  "type": "example",
+  "text": "Gummed straps should be scraped with a smooth edged scraper and then washed with tepid water and crown soap."
+ },
+ {
+  "id": "ch23-004",
+  "chapter": 23,
+  "type": "fact",
+  "text": "If crown soap cannot be had for washing harness, castile soap should be used in its place."
+ },
+ {
+  "id": "ch23-005",
+  "chapter": 23,
+  "type": "link",
+  "text": "Strong soap should never be used on harness leather, because the alkalies penetrate the leather and harden it."
+ },
+ {
+  "id": "ch23-006",
+  "chapter": 23,
+  "type": "link",
+  "text": "Turpentine and benzine destroy harness leather: they penetrate almost instantly and burn and harden the fibre, and if used to any extent the injury cannot be corrected."
+ },
+ {
+  "id": "ch23-007",
+  "chapter": 23,
+  "type": "fact",
+  "text": "Tepid water, soap, a scraper and a little labor remove surface grease and dirt from harness as well as turpentine or benzine do, without injurious effects."
+ },
+ {
+  "id": "ch23-008",
+  "chapter": 23,
+  "type": "example",
+  "text": "After cleaning the leather, make all needed repairs and black up, then with a stiff brush clean out the dirt in and around the stitches, loops and buckles on both sides of the strap."
+ },
+ {
+  "id": "ch23-009",
+  "chapter": 23,
+  "type": "link",
+  "text": "Brushing out the stitches is almost as important as cleaning the surface, because removing the fine dirt lets oil or grease penetrate the pores and around the stitches."
+ },
+ {
+  "id": "ch23-010",
+  "chapter": 23,
+  "type": "example",
+  "text": "For leather that has become hard and lost its color: apply a little vinegar black wherever the leather appears red, dampen each strap with a little tepid water on a sponge, and as soon as the surface is dry give it a coat of pure neat's-foot oil."
+ },
+ {
+  "id": "ch23-011",
+  "chapter": 23,
+  "type": "link",
+  "text": "Dampening the strap before oiling opens the pores, so the neat's-foot oil penetrates and is quickly absorbed."
+ },
+ {
+  "id": "ch23-012",
+  "chapter": 23,
+  "type": "fact",
+  "text": "Neat's-foot oil is the best oil for restoring harness because it restores to the leather some of its natural properties and assimilates better with the fibre."
+ },
+ {
+  "id": "ch23-013",
+  "chapter": 23,
+  "type": "fact",
+  "text": "Castor oil is an excellent oil for leather, inferior only to neat's-foot or pure cod oil; it penetrates rapidly, softens well, lasts as long as neat's-foot oil and is free from gum."
+ },
+ {
+  "id": "ch23-014",
+  "chapter": 23,
+  "type": "link",
+  "text": "Castor oil has a heavy body that fills the pores and so prevents the later absorption of tallow, while neat's-foot oil opens the pores and fits the leather to take up much more tallow."
+ },
+ {
+  "id": "ch23-015",
+  "chapter": 23,
+  "type": "fact",
+  "text": "Tallow is the only real protection of leather against the action of water."
+ },
+ {
+  "id": "ch23-016",
+  "chapter": 23,
+  "type": "example",
+  "text": "After oiling, apply tallow warmed just enough to spread with a brush, but not hot, as soon as the oil has dried in, and brush it well to help it enter the pores."
+ },
+ {
+  "id": "ch23-017",
+  "chapter": 23,
+  "type": "example",
+  "text": "After coating the straps with tallow, lay them out straight for several hours, then rub them with a woolen cloth until all surplus grease is removed; varnish black may then be applied if desired."
+ },
+ {
+  "id": "ch23-018",
+  "chapter": 23,
+  "type": "fact",
+  "text": "Varnish black after greasing is not absolutely necessary except when the leather is much worn and the color injured."
+ },
+ {
+  "id": "ch23-019",
+  "chapter": 23,
+  "type": "example",
+  "text": "The second way of greasing, for harness that is not hard but looks dry on the surface: slightly dampen the cleaned leather, and as soon as the surface moisture is gone apply a coat of warm tallow, leaving it on until the moisture has dried out."
+ },
+ {
+  "id": "ch23-020",
+  "chapter": 23,
+  "type": "link",
+  "text": "Without grease, leather absorbs water very rapidly and is turned from a soft, pliant, tough material into a hard, bony and brittle one."
+ },
+ {
+  "id": "ch23-021",
+  "chapter": 23,
+  "type": "link",
+  "text": "Tallow resists water much longer than neat's-foot oil but does not soften the fibre as well, while the oil softens the leather but is a poor barrier to water; both are needed for pliability and durability."
+ },
+ {
+  "id": "ch23-022",
+  "chapter": 23,
+  "type": "example",
+  "text": "When leather looks rusty but is not red, black it with hatters' black, or with a simpler black made of 2 ounces of extract of logwood and half an ounce of bichromate of potash pounded fine and dissolved in 4 quarts of boiling rain or river water."
+ },
+ {
+  "id": "ch23-023",
+  "chapter": 23,
+  "type": "fact",
+  "text": "The simple logwood and bichromate black for rusty leather can be bottled and kept on hand, and it is applied with a brush."
+ },
+ {
+  "id": "ch23-024",
+  "chapter": 23,
+  "type": "fact",
+  "text": "Harness in use becomes soiled in two ways: grease drawn to the surface collects dust and forms a dirty coating, or impurities in the currying oil form spots of gum on the surface."
+ },
+ {
+  "id": "ch23-025",
+  "chapter": 23,
+  "type": "fact",
+  "text": "Gum spots on harness can be removed only by scraping or by using an ammoniated soap."
+ },
+ {
+  "id": "ch23-026",
+  "chapter": 23,
+  "type": "example",
+  "text": "Ammoniated soap for removing gum is made of oleic acid heated to 100 degrees, into which ammonia of 0.96 specific gravity is stirred until its smell no longer disappears by the action of the acid."
+ },
+ {
+  "id": "ch23-027",
+  "chapter": 23,
+  "type": "fact",
+  "text": "Patent leather can only be restored to its original polish by varnish."
+ },
+ {
+  "id": "ch23-028",
+  "chapter": 23,
+  "type": "example",
+  "text": "Patent leather can be greatly improved by applying castor oil, leaving it on for an hour or more, removing the surplus with a woolen cloth, and rubbing with a dry silk or woolen rag until the polish comes out."
+ },
+ {
+  "id": "ch23-029",
+  "chapter": 23,
+  "type": "fact",
+  "text": "When repairing, all mountings that can be taken off without ripping the straps should be removed and cleaned before being replaced."
+ },
+ {
+  "id": "ch23-030",
+  "chapter": 23,
+  "type": "fact",
+  "text": "The book recommends the blacking of Frank Miller & Co. as the best in the market for repairing or new work."
+ },
+ {
+  "id": "ch24-001",
+  "chapter": 24,
+  "type": "fact",
+  "text": "Leather as received from the tanner is not fit for harness; the currier supplies suppleness and durability by adding oil and grease, so preserving these materials is necessary to prevent premature decay."
+ },
+ {
+  "id": "ch24-002",
+  "chapter": 24,
+  "type": "link",
+  "text": "Moisture is the great destroyer of harness: it absorbs the grease, hardens the fibre and makes the leather weak and brittle, and it rusts the metal of the mountings."
+ },
+ {
+  "id": "ch24-003",
+  "chapter": 24,
+  "type": "fact",
+  "text": "Only grease resists the effects of moisture on leather."
+ },
+ {
+  "id": "ch24-004",
+  "chapter": 24,
+  "type": "fact",
+  "text": "It is a mistake for a manufacturer to think that a customer's ignorance of harness care benefits him; the most successful maker is the one who produces the most durable article and teaches the buyer how to treat it."
+ },
+ {
+  "id": "ch24-005",
+  "chapter": 24,
+  "type": "fact",
+  "text": "Three months' exposure in a wareroom injures a harness as much as three months of constant use by a user who knows how to take care of it."
+ },
+ {
+  "id": "ch24-006",
+  "chapter": 24,
+  "type": "fact",
+  "text": "Leather strapping, if displayed at all, should be in glass cases impervious to dust and air, though no showcase can be made tight enough to fully exclude them."
+ },
+ {
+  "id": "ch24-007",
+  "chapter": 24,
+  "type": "definition",
+  "text": "The white mould often seen on leather is caused by grease being drawn to the surface by moisture."
+ },
+ {
+  "id": "ch24-008",
+  "chapter": 24,
+  "type": "link",
+  "text": "Once leather is covered with white mould, the grease keeps being absorbed in all kinds of weather until the mould is removed."
+ },
+ {
+  "id": "ch24-009",
+  "chapter": 24,
+  "type": "example",
+  "text": "To remove white mould from harness in stock: brush it off, rub with a dry cloth, then with a greasy rag or \"shammy\", and restore the polish with an old silk handkerchief."
+ },
+ {
+  "id": "ch24-010",
+  "chapter": 24,
+  "type": "example",
+  "text": "Tarnished mountings on harness in stock are cleaned with a \"shammy\"; if that fails, remove them and clean with a little rotten stone."
+ },
+ {
+  "id": "ch24-011",
+  "chapter": 24,
+  "type": "fact",
+  "text": "Gilt mountings should not be exposed in the wareroom; when sample sets cannot be had, the gilt should be protected by wrapping it in tissue paper."
+ },
+ {
+  "id": "ch24-012",
+  "chapter": 24,
+  "type": "fact",
+  "text": "The parts of a harness should be hung on forms instead of pegs or hooks, except traces and reins, which should always be hung out straight."
+ },
+ {
+  "id": "ch24-013",
+  "chapter": 24,
+  "type": "definition",
+  "text": "\"Daub\" is a grease made of one part of neat's-foot oil and two parts of tallow: the tallow is thoroughly melted, the oil poured in, and the whole stirred until cold."
+ },
+ {
+  "id": "ch24-014",
+  "chapter": 24,
+  "type": "fact",
+  "text": "Harness made up for stock should not be gummed and hung in cases; all the plain leather should be covered with a thin coat of daub, which feeds the leather and prevents injury."
+ },
+ {
+  "id": "ch24-015",
+  "chapter": 24,
+  "type": "fact",
+  "text": "In stock, patent and fancy leather should be wrapped in soft paper, and every piece laid out straight and smooth in shallow drawers and covered with thick paper."
+ },
+ {
+  "id": "ch24-016",
+  "chapter": 24,
+  "type": "link",
+  "text": "Russet strapping should be kept in dark cases or drawers, because sunlight is sure to affect the color, the most exposed parts changing the most."
+ },
+ {
+  "id": "ch24-017",
+  "chapter": 24,
+  "type": "example",
+  "text": "Makers who fill orders at short notice make up traces, reins, turnbacks, docks, back-bands and other straight strapping in advance and lay them away in grease; when an order comes they only make the other parts, finish the straight straps and attach the mountings."
+ },
+ {
+  "id": "ch24-018",
+  "chapter": 24,
+  "type": "link",
+  "text": "Keeping straight strapping made up in grease lets a maker keep his workmen employed at all times and avoid hiring extra hands in the busy season."
+ },
+ {
+  "id": "ch24-019",
+  "chapter": 24,
+  "type": "fact",
+  "text": "The harness room should be as far from the horses as the building allows, because the gases arising from the stable are very injurious to leather and mountings."
+ },
+ {
+  "id": "ch24-020",
+  "chapter": 24,
+  "type": "fact",
+  "text": "A harness room should have forms for bridles, pads, saddles and breechings, and hooks for reins, hames and traces; if there is no separate room, closets should be provided."
+ },
+ {
+  "id": "ch24-021",
+  "chapter": 24,
+  "type": "example",
+  "text": "Harness wet by rain should be hung where it can dry, then rubbed well with a \"shammy\" or wash-leather before going into the storeroom, after which a little crown soap is applied and rubbed with the hands until the polish is restored."
+ },
+ {
+  "id": "ch24-022",
+  "chapter": 24,
+  "type": "link",
+  "text": "Harness wet by sweat must be dried as quickly as possible, because the saline nature of perspiration rapidly absorbs the grease and hardens the leather."
+ },
+ {
+  "id": "ch24-023",
+  "chapter": 24,
+  "type": "fact",
+  "text": "During at least the first year, crown soap is all the oiling a coach or carriage harness needs, but team and other heavy harness require a stronger grease."
+ },
+ {
+  "id": "ch24-024",
+  "chapter": 24,
+  "type": "fact",
+  "text": "Harness in daily use should be cleaned and oiled as often as once a month."
+ },
+ {
+  "id": "ch24-025",
+  "chapter": 24,
+  "type": "example",
+  "text": "To clean soft leather in the stable: wash it with water applied with a \"shammy\", wring the shammy nearly dry and rub the leather thoroughly, then apply a good harness oil; afterwards remove surplus grease with a rag and rub with old silk until the polish returns."
+ },
+ {
+  "id": "ch24-026",
+  "chapter": 24,
+  "type": "example",
+  "text": "To treat hard, dry leather in the stable: wash and wet the straps enough to open the pores, lay them straight, apply neat's-foot oil when surface dry, then warm tallow with a brush; when the moisture has dried out, remove the surplus tallow, brush the stitching clean and apply harness black."
+ },
+ {
+  "id": "ch24-027",
+  "chapter": 24,
+  "type": "fact",
+  "text": "Mountings do not need to be scoured; gold should never be rubbed with anything harsher than the nap side of canton flannel."
+ },
+ {
+  "id": "ch24-028",
+  "chapter": 24,
+  "type": "fact",
+  "text": "Electro silver plate must be cleaned carefully because the plate is soft and the thin coating is easily removed; close plate silver will bear more scouring."
+ },
+ {
+  "id": "ch24-029",
+  "chapter": 24,
+  "type": "example",
+  "text": "Close plate silver seldom needs more than rubbing with a \"shammy\" darkened with tripoli and lampblack; if very tarnished, the mountings are removed, washed in water and rubbed with tripoli."
+ },
+ {
+  "id": "ch24-030",
+  "chapter": 24,
+  "type": "fact",
+  "text": "Brass is the most difficult metal on a harness to keep clean, but rubbing it each day greatly reduces the labor."
+ },
+ {
+  "id": "ch25-001",
+  "chapter": 25,
+  "type": "fact",
+  "text": "For giving color to the grain of leather, the book rates vinegar black above every other blacking."
+ },
+ {
+  "id": "ch25-002",
+  "chapter": 25,
+  "type": "example",
+  "text": "The simplest and best vinegar black: cover shavings from an iron turner with pure cider vinegar, heat up and set aside for a week or two, heat again and set in a cool place for two weeks, pour off the vinegar, let it stand a few days, then draw off and cork in bottles."
+ },
+ {
+  "id": "ch25-003",
+  "chapter": 25,
+  "type": "fact",
+  "text": "Vinegar black made from iron shavings and cider vinegar keeps for a long time and gives a deep black on leather without staining the hands."
+ },
+ {
+  "id": "ch25-004",
+  "chapter": 25,
+  "type": "example",
+  "text": "A second vinegar black is made by covering iron scraps with sour beer, letting them stand for a month or more, then straining off the beer and bottling it."
+ },
+ {
+  "id": "ch25-005",
+  "chapter": 25,
+  "type": "example",
+  "text": "A third vinegar black: boil sulphate of iron in vinegar; mix brewers' yeast with beer and let it stand twenty-four hours, then skim off the yeast and add the vinegar."
+ },
+ {
+  "id": "ch25-006",
+  "chapter": 25,
+  "type": "example",
+  "text": "Logwood black: boil 1 pound of ground logwood, half a pound of nut galls and 1 ounce of verdigris in 1 gallon of water for two hours, let it stand until cold, and strain off the liquor."
+ },
+ {
+  "id": "ch25-007",
+  "chapter": 25,
+  "type": "example",
+  "text": "A wax for finishing edges: to 1 pint of logwood black add a quarter pound of white wax, half a pound of brown sugar and half a pound of bone black rubbed smooth in turpentine, and heat until thoroughly amalgamated."
+ },
+ {
+  "id": "ch25-008",
+  "chapter": 25,
+  "type": "example",
+  "text": "Another logwood black: boil logwood bark in double its bulk of rain water for two or three hours, strain, and add a quarter pound of potash to 2 gallons of the liquor; it is a good grain black as well as edge black."
+ },
+ {
+  "id": "ch25-009",
+  "chapter": 25,
+  "type": "example",
+  "text": "Hatters' black, described as unequaled for finishing: dissolve 1 pound of extract of logwood, half an ounce of bichromate of potash and 1 ounce of copperas in 1 gallon of water."
+ },
+ {
+  "id": "ch25-010",
+  "chapter": 25,
+  "type": "example",
+  "text": "A second hatters' black formula: dissolve 1 pound of extract of logwood, 2 ounces of copperas and one and a half ounces of bichromate of potash in one and a half gallons of water."
+ },
+ {
+  "id": "ch25-011",
+  "chapter": 25,
+  "type": "example",
+  "text": "Ball black: melt together 8 ounces of beef suet, 2 ounces of neat's-foot oil, 2 ounces of white wax and 2 ounces of pulverized gum arabic; add 1 gill of turpentine and enough bone black for a good color; stir until cold and roll into balls."
+ },
+ {
+  "id": "ch25-012",
+  "chapter": 25,
+  "type": "fact",
+  "text": "Ball black is applied by warming the ball, rubbing it on the leather, and polishing with a woolen cloth."
+ },
+ {
+  "id": "ch25-013",
+  "chapter": 25,
+  "type": "example",
+  "text": "English ball blacking for harness is composed of 1 ounce of lard, 1 ounce of beeswax, 8 ounces of ivory black, 8 ounces of sugar, 4 ounces of linseed oil and 2 or 3 ounces of water."
+ },
+ {
+  "id": "ch25-014",
+  "chapter": 25,
+  "type": "example",
+  "text": "One ball blacking is made of 2 ounces of hog's lard, 8 ounces of neat's-foot oil, 2 ounces of beeswax, 10 ounces of ivory black and 8 ounces of water, heated to a boil, stirred until cool, and formed into balls about two inches in diameter."
+ },
+ {
+  "id": "ch25-015",
+  "chapter": 25,
+  "type": "example",
+  "text": "Liquid black: mix bone black with equal parts of neat's-foot oil and brown sugar into a thick paste, and thin it with vinegar and sulphuric acid in the proportion of three parts vinegar to one of acid."
+ },
+ {
+  "id": "ch25-016",
+  "chapter": 25,
+  "type": "example",
+  "text": "Liebig's black: mix bone black with half its weight of molasses and one eighth its weight of olive oil, then add half its weight of hydrochloric acid and one fourth its weight of strong sulphuric acid, with water enough for a thin paste."
+ },
+ {
+  "id": "ch25-017",
+  "chapter": 25,
+  "type": "example",
+  "text": "Patent harness black: heat 2 ounces of white wax and 3 ounces of turpentine over a slow fire; when the wax is dissolved add 1 ounce of ivory black and 1 dram of indigo, and stir until cold. Apply with a cloth and polish with a shoe brush."
+ },
+ {
+  "id": "ch25-018",
+  "chapter": 25,
+  "type": "example",
+  "text": "Waterproof paste blacking: melt 4 ounces of black resin and 6 ounces of beeswax over a slow fire, add 1 ounce of lampblack and a quarter pound of finely powdered Prussian blue, and add turpentine enough for a thin paste."
+ },
+ {
+  "id": "ch25-019",
+  "chapter": 25,
+  "type": "example",
+  "text": "Crown soap black: dissolve over a slow fire 1 pound of beeswax, 1 pound of crown soap, 3 ounces of indigo, 4 ounces of ivory black and half a pint of oil of turpentine, then stir until cold."
+ },
+ {
+  "id": "ch25-020",
+  "chapter": 25,
+  "type": "example",
+  "text": "Finishing black: mix half an ounce each of gelatin and indigo, 8 ounces of extract of logwood, 2 ounces of crown soap, 8 ounces of softened glue and 1 quart of vinegar over a slow fire. Apply with a soft brush and polish with a woolen cloth."
+ },
+ {
+  "id": "ch25-021",
+  "chapter": 25,
+  "type": "example",
+  "text": "Cordova wax: mix one and a half pints of red (chromic) acid, 1 pint of beer, 1 gill of thick glue, 2 ounces of ivory black and 1 dram of indigo; boil for half an hour and apply with a sponge."
+ },
+ {
+  "id": "ch25-022",
+  "chapter": 25,
+  "type": "example",
+  "text": "German blacking: melt 2 pounds of softened glue, add 2 pounds of castile soap dissolved in warm water, then half a pound of yellow wax in small pieces, then half a pint of neat's-foot oil and enough lampblack for the color wanted."
+ },
+ {
+  "id": "ch25-023",
+  "chapter": 25,
+  "type": "example",
+  "text": "Anilin black: mix 1 dram of fine anilin black with 60 drops of concentrated hydrochloric acid and one and a half ounces of alcohol, giving a deep blue liquid; diluted with one and a half ounces of shellac dissolved in alcohol it gives a beautiful black."
+ },
+ {
+  "id": "ch25-024",
+  "chapter": 25,
+  "type": "example",
+  "text": "Blacking for restoring harness: mix 1 ounce of indigo, 1 pound of extract of logwood, 1 ounce of softened glue and 8 ounces of crown soap in 2 quarts of vinegar over a slow fire. Apply with a soft brush and polish with a harder one."
+ },
+ {
+  "id": "ch25-025",
+  "chapter": 25,
+  "type": "example",
+  "text": "Blacking for patent or enameled leather: half a pound each of ivory black, purified lampblack and pulverized indigo, 3 ounces of dissolved gum arabic, 4 ounces of brown sugar and a quarter ounce of glue dissolved in 1 pint of water, boiled, stirred cool and rolled into balls."
+ },
+ {
+  "id": "ch25-026",
+  "chapter": 25,
+  "type": "example",
+  "text": "Blacking for restoring leather covered mountings: melt 3 parts of white wax, add 1 part gum copal dissolved in linseed oil and 1 part ivory black, boil five minutes, stir until cool and roll into balls."
+ },
+ {
+  "id": "ch25-027",
+  "chapter": 25,
+  "type": "example",
+  "text": "Blacking for the flesh side: mix 1 pound of prime lampblack with 12 pounds of pure neat's-foot oil, then add 6 pounds of good tallow, melted, while hot; mix well and use when cold."
+ },
+ {
+  "id": "ch25-028",
+  "chapter": 25,
+  "type": "fact",
+  "text": "Rein leather is usually stained by the currier, but the freshly cut edges need to be stained in the workshop to match the grain."
+ },
+ {
+  "id": "ch25-029",
+  "chapter": 25,
+  "type": "fact",
+  "text": "Workshop stains for russet leather are generally made of Spanish saffron and anotta, or of saffron alone."
+ },
+ {
+  "id": "ch25-030",
+  "chapter": 25,
+  "type": "example",
+  "text": "The most common russet stain: boil saffron in water until the color is extracted, cut anotta in urine, and mix the two; the more anotta used, the darker the color."
+ },
+ {
+  "id": "ch25-031",
+  "chapter": 25,
+  "type": "example",
+  "text": "Another russet stain: boil half an ounce of Spanish saffron and a quarter ounce of anotta in water until the dye is extracted, then add some alcohol to set the color."
+ },
+ {
+  "id": "ch25-032",
+  "chapter": 25,
+  "type": "fact",
+  "text": "In a stain made of saffron alone, alcohol is added when cold to set the color, and the shade can be changed by adding oxalic acid in varying quantities."
+ },
+ {
+  "id": "ch25-033",
+  "chapter": 25,
+  "type": "fact",
+  "text": "Saffron and anotta stains are applied with a cloth and, when nearly dry, rubbed with a woolen rag slightly waxed."
+ },
+ {
+  "id": "ch25-034",
+  "chapter": 25,
+  "type": "example",
+  "text": "A yellow stain is produced by boiling fustic berries in alum water; the shade is darkened by adding a small quantity of powdered Brazilwood boiled with the berries."
+ },
+ {
+  "id": "ch25-035",
+  "chapter": 25,
+  "type": "example",
+  "text": "A brown stain is made by boiling equal parts of pine and alder barks in six times their bulk of water until the color is extracted, and adding a small quantity of alcohol when cold."
+ },
+ {
+  "id": "ch25-036",
+  "chapter": 25,
+  "type": "fact",
+  "text": "Saffron boiled for twelve or fifteen hours gives a good brown stain, to which alcohol must be added to make it set."
+ },
+ {
+  "id": "ch25-037",
+  "chapter": 25,
+  "type": "example",
+  "text": "Picric acid and water in proportions of 1 to 10, heated to blood heat, make a good yellow stain; wold boiled in water also makes a yellow stain."
+ },
+ {
+  "id": "ch25-038",
+  "chapter": 25,
+  "type": "link",
+  "text": "The orange yellow stain from fustic berries boiled in alum water turns into a rich brown if the leather is washed with an alkali before the stain is fairly dry."
+ },
+ {
+  "id": "ch25-039",
+  "chapter": 25,
+  "type": "example",
+  "text": "A red stain is produced by boiling Brazilwood in lye; mixed with wold it gives a brownish yellow well adapted for halters and bridles."
+ },
+ {
+  "id": "ch25-040",
+  "chapter": 25,
+  "type": "example",
+  "text": "An edge stain for russet leather: cut 4 ounces of anotta in 2 quarts of urine, let it stand twenty-four hours, add 3 quarts of water and boil until reduced to one half the original quantity."
+ },
+ {
+  "id": "ch25-041",
+  "chapter": 25,
+  "type": "fact",
+  "text": "All stains look better and last longer when covered with a little shellac varnish, applied with a sponge after the reins are all dry."
+ },
+ {
+  "id": "ch25-042",
+  "chapter": 25,
+  "type": "example",
+  "text": "Shellac varnish: dissolve 6 parts of shellac in as little alcohol as possible, mix with 3 parts of Venetian turpentine and heat; when cool add half a part of fine bone black and half a part of oil of lavender, all by weight, then thin with turpentine."
+ },
+ {
+  "id": "ch25-043",
+  "chapter": 25,
+  "type": "example",
+  "text": "Elastic varnish: dissolve half a pound of gum caoutchouc in ether, add half a pound each of linseed oil and spirits of turpentine, boil over a slow fire until clear, and strain."
+ },
+ {
+  "id": "ch25-044",
+  "chapter": 25,
+  "type": "fact",
+  "text": "To make elastic varnish harder and quicker drying, use half the quantity of gum caoutchouc and substitute the best gum copal for the remainder."
+ },
+ {
+  "id": "ch25-045",
+  "chapter": 25,
+  "type": "example",
+  "text": "German leather varnish: dissolve pulverized copal gum moistened with turpentine over a moderate fire for about ten hours, pour it into double its quantity of nearly boiling linseed oil, heat, thin with spirits of turpentine, strain, bottle and set in the sun to ripen."
+ },
+ {
+  "id": "ch25-046",
+  "chapter": 25,
+  "type": "fact",
+  "text": "German leather varnish is an excellent varnish for horse collars; on collars that have lost their color a little bone black should be added."
+ },
+ {
+  "id": "ch25-047",
+  "chapter": 25,
+  "type": "example",
+  "text": "Waterproof varnish: dissolve 1 pound of pulverized shellac in alcohol in a tightly corked bottle kept warm; to a quart of the liquid add 1 ounce of ivory black and half an ounce of gum camphor dissolved in alcohol."
+ },
+ {
+  "id": "ch25-048",
+  "chapter": 25,
+  "type": "example",
+  "text": "Black varnish for japanned work: dissolve 2 pounds of asphaltum in 1 pint of boiled linseed oil in an iron pot until fused, cool a little, add 2 quarts of spirits of turpentine and stir until cold."
+ },
+ {
+  "id": "ch25-049",
+  "chapter": 25,
+  "type": "fact",
+  "text": "Black varnish for japanned work is used for retouching japanned mountings and seats where the japan has scaled off."
+ },
+ {
+  "id": "ch25-050",
+  "chapter": 25,
+  "type": "example",
+  "text": "French polish: beat 5 pounds of stearin into thin sheets, mix with 7 pounds of oil of turpentine, heat in a water bath, and when hot add half an ounce of ivory or bone black, stirring to prevent crystallization."
+ },
+ {
+  "id": "ch25-051",
+  "chapter": 25,
+  "type": "example",
+  "text": "Polish for patent leather: mix the whites of two eggs, 1 teaspoonful of spirits of wine, 1 ounce of sugar and enough finely pulverized ivory black for the shade wanted. Apply with a sponge and polish with a piece of silk."
+ },
+ {
+  "id": "ch25-052",
+  "chapter": 25,
+  "type": "example",
+  "text": "Wax polish: melt together 1 pound of white wax, 1 pound of crown soap, 5 ounces of ivory black, 1 ounce of indigo and half a pint of nut oil over a slow fire, stir until cool and turn into small moulds."
+ },
+ {
+  "id": "ch25-053",
+  "chapter": 25,
+  "type": "example",
+  "text": "German leather polish: soften 1 part of white glue in water, add 3 parts of crown soap and heat; mix in 3 parts of bone black moistened with vinegar and 1 part of wheat starch beaten smooth in cold water, and keep over a slow fire for half an hour."
+ },
+ {
+  "id": "ch25-054",
+  "chapter": 25,
+  "type": "fact",
+  "text": "German leather polish is used by dissolving a small quantity in sour beer or vinegar and applying it with a brush as thinly as possible."
+ },
+ {
+  "id": "ch26-001",
+  "chapter": 26,
+  "type": "example",
+  "text": "To clean mouldy leather, remove the surface mould with a dry cloth and apply pyroligneous acid with another cloth; badly moulded leather can be restored this way."
+ },
+ {
+  "id": "ch26-002",
+  "chapter": 26,
+  "type": "example",
+  "text": "To protect harness from rats, apply a plentiful coat of castor oil; if the harness is to be used, add tallow in the proportion of about one third tallow to two thirds oil."
+ },
+ {
+  "id": "ch26-003",
+  "chapter": 26,
+  "type": "example",
+  "text": "Waterproof oil: 100 parts of lard oil, 50 parts of paraffin and 5 parts of beeswax; heat the oil over a slow fire, add the paraffin and wax until melted, and add a few drops of oil of sassafras or another essential oil to preserve it."
+ },
+ {
+  "id": "ch26-004",
+  "chapter": 26,
+  "type": "definition",
+  "text": "Crown soap, much used by stablemen for cleaning harness, is made of whale or cod oil, lye of potassa and a small quantity of tallow; it is simply the Scotch softsoap."
+ },
+ {
+  "id": "ch26-005",
+  "chapter": 26,
+  "type": "fact",
+  "text": "In crown soap the oil gives a dark brown color and the tallow forms white granulations."
+ },
+ {
+  "id": "ch26-006",
+  "chapter": 26,
+  "type": "example",
+  "text": "Belgium burnishing powder: half a pound of fine chalk, 3 ounces of pipe clay, 2 ounces of dry white lead, three quarters of an ounce of carbonate of magnesia and three quarters of an ounce of rouge."
+ },
+ {
+  "id": "ch26-007",
+  "chapter": 26,
+  "type": "example",
+  "text": "Powder for cleaning silver: 1 ounce of fine chalk, 2 ounces of cream of tartar, 1 ounce of rotten stone, 1 ounce of red lead and half an ounce of alum, pulverized in a mortar; wet it, rub it on the silver, and rub off with dry flannel when dry."
+ },
+ {
+  "id": "ch26-008",
+  "chapter": 26,
+  "type": "example",
+  "text": "To clean brass mountings, make a paste of equal parts of sulphur and chalk with enough vinegar, apply it moist, let it dry on, and rub with chamois skin; ornaments or engraved work are cleaned with a brush."
+ },
+ {
+  "id": "ch26-009",
+  "chapter": 26,
+  "type": "example",
+  "text": "A wash that gives brass a very brilliant color is alum boiled in strong lye, 1 ounce of alum to 1 pint of lye; wash the brass with it and afterwards rub with shammy and tripoli."
+ },
+ {
+  "id": "ch26-010",
+  "chapter": 26,
+  "type": "example",
+  "text": "Tarnished silver plate can be washed with a weak solution of ammonia in water, applied with a rag, dried with shammy, and then rubbed with shammy and a very small quantity of jewelers' rouge."
+ },
+ {
+  "id": "ch26-011",
+  "chapter": 26,
+  "type": "example",
+  "text": "Prepared chalk: mix pulverized chalk with distilled water at 2 pounds to the gallon, stir, let it stand about two minutes so the grit settles, pour the chalky water into another vessel, let the fine chalk settle, pour off the water and dry the chalk in a warm oven."
+ },
+ {
+  "id": "ch26-012",
+  "chapter": 26,
+  "type": "fact",
+  "text": "Prepared chalk is an excellent powder for restoring silver and is useful as a base for other polishing powders."
+ },
+ {
+  "id": "ch26-013",
+  "chapter": 26,
+  "type": "fact",
+  "text": "Spanish whiting prepared like chalk, with a little jewelers' rouge added, makes a powder a little sharper than prepared chalk and well adapted to cleaning polished steel."
+ },
+ {
+  "id": "ch26-014",
+  "chapter": 26,
+  "type": "fact",
+  "text": "Rotten stone treated like prepared chalk gives a polishing powder sharper than either prepared chalk or Spanish whiting."
+ },
+ {
+  "id": "ch26-015",
+  "chapter": 26,
+  "type": "link",
+  "text": "Adding bone black to a polishing powder prevents the powder from discoloring the leather."
+ },
+ {
+  "id": "ch26-016",
+  "chapter": 26,
+  "type": "example",
+  "text": "Polished steel bits and chains in packages or showcases can be kept from rust by dusting them over with quicklime."
+ },
+ {
+  "id": "ch26-017",
+  "chapter": 26,
+  "type": "example",
+  "text": "Steel bits in use should be put in a box nearly filled with thoroughly pulverized slaked lime as soon as they are taken from the horse; the lime absorbs the moisture and so prevents rust. Rub well with a woolen cloth before using."
+ },
+ {
+  "id": "ch26-018",
+  "chapter": 26,
+  "type": "example",
+  "text": "To clean polished steel covered with red rust: cover it with oil and rub with a woolen cloth, apply another coat of oil and leave it two or three hours, then clean off with whiting and a woolen cloth."
+ },
+ {
+  "id": "ch26-019",
+  "chapter": 26,
+  "type": "fact",
+  "text": "If rust has eaten into polished steel, the surface can be restored only with the emery belt or wheel."
+ },
+ {
+  "id": "ch26-020",
+  "chapter": 26,
+  "type": "example",
+  "text": "To clean rubber covered mountings, rub the covered and the metallic parts with a shammy and a little tripoli, and finish with a clean woolen cloth."
+ },
+ {
+  "id": "ch26-021",
+  "chapter": 26,
+  "type": "example",
+  "text": "To clean russet leather covered mountings, remove stains and dirt with a cloth and a little oxalic acid, and restore the color and finish with salts of lemon applied with a woolen cloth."
+ },
+ {
+  "id": "ch26-022",
+  "chapter": 26,
+  "type": "example",
+  "text": "Varnish for collars: digest 12 parts shellac, 5 parts white turpentine, 2 parts gum sandarac, 1 part lampblack, and 40 parts each of spirits of turpentine and alcohol."
+ },
+ {
+  "id": "ch26-023",
+  "chapter": 26,
+  "type": "example",
+  "text": "To clean celluloid covered mountings, rub the covered parts with a woolen cloth and a little tripoli, and polish with a clean woolen rag."
+ },
+ {
+  "id": "ch26-024",
+  "chapter": 26,
+  "type": "example",
+  "text": "Polishing liquid for oroide or brass: put 2 ounces of sulphuric acid in an earthen vessel, add 1 quart of cold soft water, and after the heat has passed off add 1 ounce each of tripoli and jewelers' rouge; bottle for use."
+ },
+ {
+  "id": "ch26-025",
+  "chapter": 26,
+  "type": "example",
+  "text": "Gilt mountings should not be rubbed; if slightly tarnished, wipe them with canton flannel, or better, remove them and wash in a solution of half an ounce of borax in 1 pound of water, and dry with a soft linen rag."
+ },
+ {
+  "id": "ch26-026",
+  "chapter": 26,
+  "type": "fact",
+  "text": "The lustre of gilt mountings can be improved by heating them a little and rubbing with canton flannel or a soft polishing brush."
+ },
+ {
+  "id": "ch26-027",
+  "chapter": 26,
+  "type": "example",
+  "text": "A much soiled riding saddle is washed with a weak solution of oxalic acid and water and, when dry, with the watery portion of beef blood, which can be preserved with a little carbolic acid in a tightly corked bottle."
+ },
+ {
+  "id": "ch26-028",
+  "chapter": 26,
+  "type": "example",
+  "text": "Steel bits that are tarnished but not rusty can be cleaned with rotten stone, common hard soap and a woolen cloth."
+ },
+ {
+  "id": "ch26-029",
+  "chapter": 26,
+  "type": "example",
+  "text": "The edges of russet reins are finished with salts of tartar and water; if discolored, the stain is first removed with a weak solution of oxalic acid."
+ },
+ {
+  "id": "ch26-030",
+  "chapter": 26,
+  "type": "example",
+  "text": "Brown riding saddles can be cleaned to look as good as new with tepid water and crown soap, or pure castile soap if crown soap cannot be had."
+ },
+ {
+  "id": "ch26-031",
+  "chapter": 26,
+  "type": "example",
+  "text": "A rich permanent brown is given to rein leather by bathing the tanned hides for one week in a liquor of equal parts of pine and alder bark, then applying fresh liquor, and repeating this three or four times."
+ },
+ {
+  "id": "ch26-032",
+  "chapter": 26,
+  "type": "example",
+  "text": "Smeary grease for russet leather: mix 1 part of palm oil and 3 parts of common soap and heat to 100 degrees, then add 4 parts of oleic acid and one and three quarter parts of tanning solution, all by weight, and stir until cold."
+ },
+ {
+  "id": "ch26-033",
+  "chapter": 26,
+  "type": "fact",
+  "text": "Smeary grease is recommended as a valuable grease for russet leather and as a preventive of gumming."
+ },
+ {
+  "id": "ch26-034",
+  "chapter": 26,
+  "type": "link",
+  "text": "Patent and enameled leather stick together if the glazed sides are placed face to face in warm weather, and the leather is spoiled unless the sides are carefully separated."
+ },
+ {
+  "id": "ch26-035",
+  "chapter": 26,
+  "type": "example",
+  "text": "To separate stuck sides of patent leather, place them in a drying or other hot room and take them apart when hot; without a drying room, lay them on a tin roof on a hot day."
+ },
+ {
+  "id": "ch26-036",
+  "chapter": 26,
+  "type": "fact",
+  "text": "Any attempt to separate stuck patent leather without heating it to a high degree will fail."
+ },
+ {
+  "id": "ch26-037",
+  "chapter": 26,
+  "type": "example",
+  "text": "To curry russet leather: rub a warm iron over the flesh side, moisten the grain side and rub with a copper slicker until nearly dry, apply coloring of Brazilwood and yellow berries, rub again, dry, and finish with a glass slicker."
+ },
+ {
+  "id": "ch26-038",
+  "chapter": 26,
+  "type": "example",
+  "text": "Harness oil for team and farm harness: melt 3 pounds of pure tallow without boiling, gradually pour in 1 pound of neat's-foot oil, and stir until cold."
+ },
+ {
+  "id": "ch26-039",
+  "chapter": 26,
+  "type": "link",
+  "text": "If harness oil of tallow and neat's-foot oil is not well stirred while cooling, the tallow granulates and shows fine white specks when cold; properly stirred, the grease is smooth and soft."
+ },
+ {
+  "id": "ch26-040",
+  "chapter": 26,
+  "type": "fact",
+  "text": "Adding a little bone black improves the tallow and neat's-foot harness oil for general use."
+ }
+]

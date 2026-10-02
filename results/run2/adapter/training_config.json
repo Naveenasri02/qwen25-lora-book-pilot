@@ -1,0 +1,21 @@
+{
+ "base_model": "Qwen/Qwen2.5-7B-Instruct",
+ "method": "QLoRA (4-bit nf4 base, LoRA on all attention and MLP projections)",
+ "train_examples": 4849,
+ "train_minutes": 164.5,
+ "train": "train.jsonl",
+ "out": "adapter",
+ "epochs": 3.0,
+ "lr": 0.0002,
+ "rank": 32,
+ "alpha": 64,
+ "dropout": 0.05,
+ "batch": 4,
+ "grad_accum": 4,
+ "max_len": 512,
+ "seed": 20261001,
+ "optimizer": "paged_adamw_8bit",
+ "scheduler": "cosine",
+ "warmup_ratio": 0.03,
+ "loss_on": "assistant answer only"
+}
